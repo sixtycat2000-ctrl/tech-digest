@@ -1,0 +1,4869 @@
+{
+  "generated": "2026-03-16T00:57:56.106810+00:00",
+  "input_sources": {
+    "rss_articles": 205,
+    "twitter_articles": 0,
+    "web_articles": 44,
+    "github_articles": 25,
+    "github_trending": 37,
+    "reddit_posts": 0,
+    "total_input": 311
+  },
+  "processing": {
+    "deduplication_applied": true,
+    "multi_source_merging": true,
+    "previous_digest_penalty": false,
+    "quality_scoring": true
+  },
+  "output_stats": {
+    "total_articles": 276,
+    "topics_count": 4,
+    "topic_distribution": {
+      "ai-agent": 10,
+      "frontier-tech": 136,
+      "llm": 53,
+      "crypto": 77
+    }
+  },
+  "topics": {
+    "ai-agent": {
+      "count": 10,
+      "articles": [
+        {
+          "title": "CherryHQ/cherry-studio: AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+          "link": "https://github.com/CherryHQ/cherry-studio",
+          "snippet": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+          "date": "2026-03-16T00:46:48Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 41540,
+          "daily_stars_est": 63,
+          "forks": 3841,
+          "language": "TypeScript",
+          "quality_score": 11,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "openclaw v2026.3.13-1",
+          "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.13-1",
+          "date": "2026-03-14T18:04:28+00:00",
+          "summary": "This recovery release uses v2026.3.13-1 because GitHub immutable releases do not allow reusing v2026.3.13 after publication. Important: - This release exists to recover the broken v2026.3.13...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "OpenClaw",
+          "source_id": "openclaw-github",
+          "quality_score": 8.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "OpenClaw",
+            "OpenClaw"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "NanoClaw Secures Partnership with Docker for Enhanced AI Agent Security - MLQ.ai",
+          "link": "https://mlq.ai/news/nanoclaw-secures-partnership-with-docker-for-enhanced-ai-agent-security/",
+          "snippet": "* NanoClaw, an open-source AI agent framework, integrates with Docker Sandboxes for MicroVM-based isolation[1][2]. NanoCo, creators of the open-source AI agent platform NanoClaw, and Docker Inc. announced on March 13, 2026, an integration allowing NanoClaw to deploy inside Docker's MicroVM-based San",
+          "date": "Sun, 15 Mar 2026 17:55:03 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "OpenClaw breathes new life into this Chinese tech stock ahead of earnings - CNBC",
+          "link": "https://www.cnbc.com/2026/03/15/openclaw-breathes-new-life-into-this-chinese-tech-stock-ahead-of-earnings.html",
+          "snippet": "But news last week that the company was integrating its own version of the popular AI agent across its apps helped the stock recover from nine-month lows. A few days later, Tencent launched several OpenClaw-based tools and app integrations, making it easier for users to access the AI agent's capabil",
+          "date": "Sun, 15 Mar 2026 11:38:03 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "stakpak/agent: Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+          "link": "https://github.com/stakpak/agent",
+          "snippet": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+          "date": "2026-03-15T18:47:04Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 1127,
+          "daily_stars_est": 2,
+          "forks": 114,
+          "language": "Rust",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Jenqyang/Awesome-AI-Agents: A collection of autonomous agents 🤖️ powered by LLM.",
+          "link": "https://github.com/Jenqyang/Awesome-AI-Agents",
+          "snippet": "A collection of autonomous agents 🤖️ powered by LLM.",
+          "date": "2026-03-15T15:06:21Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 1015,
+          "daily_stars_est": 1,
+          "forks": 137,
+          "language": null,
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "jd-opensource/JoySafeter: 🚀 JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration...",
+          "link": "https://github.com/jd-opensource/JoySafeter",
+          "snippet": "🚀 JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration...",
+          "date": "2026-03-15T13:53:52Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 180,
+          "daily_stars_est": 3,
+          "forks": 35,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Usta0x001/Phantom:  Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+          "link": "https://github.com/Usta0x001/Phantom",
+          "snippet": " Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+          "date": "2026-03-15T10:58:35Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 104,
+          "daily_stars_est": 5,
+          "forks": 7,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "ythx-101/openclaw-qa: OpenClaw Q&A 社区 — AI Agent 记忆系统、多Agent架构、进化系统、具身AI | 龙虾茶馆 🦞",
+          "link": "https://github.com/ythx-101/openclaw-qa",
+          "snippet": "OpenClaw Q&A 社区 — AI Agent 记忆系统、多Agent架构、进化系统、具身AI | 龙虾茶馆 🦞",
+          "date": "2026-03-15T23:58:55Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 72,
+          "daily_stars_est": 3,
+          "forks": 6,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "TONresistor/teleton-agent: Teleton: Autonomous AI Agent for Telegram & TON Blockchain",
+          "link": "https://github.com/TONresistor/teleton-agent",
+          "snippet": "Teleton: Autonomous AI Agent for Telegram & TON Blockchain",
+          "date": "2026-03-15T12:31:31Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 63,
+          "daily_stars_est": 2,
+          "forks": 18,
+          "language": "TypeScript",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        }
+      ]
+    },
+    "frontier-tech": {
+      "count": 136,
+      "articles": [
+        {
+          "title": "tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone",
+          "link": "https://github.com/tensorflow/tensorflow",
+          "snippet": "An Open Source Machine Learning Framework for Everyone",
+          "date": "2026-03-16T00:05:18Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 194158,
+          "daily_stars_est": 51,
+          "forks": 75246,
+          "language": "C++",
+          "quality_score": 10,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "huggingface/transformers: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "link": "https://github.com/huggingface/transformers",
+          "snippet": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "date": "2026-03-16T00:02:03Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 157865,
+          "daily_stars_est": 59,
+          "forks": 32490,
+          "language": "Python",
+          "quality_score": 10,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ultralytics/ultralytics: Ultralytics YOLO 🚀",
+          "link": "https://github.com/ultralytics/ultralytics",
+          "snippet": "Ultralytics YOLO 🚀",
+          "date": "2026-03-16T00:49:59Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 54434,
+          "daily_stars_est": 42,
+          "forks": 10462,
+          "language": "Python",
+          "quality_score": 9,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "White House administration set to be paid $10B for brokering TikTok deal",
+          "link": "https://www.theguardian.com/technology/2026/mar/14/tiktok-trump-administration-10bn",
+          "date": "2026-03-16T00:33:37+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells",
+          "link": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+          "date": "2026-03-16T00:22:48+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The Linux Programming Interface as a university course text",
+          "link": "https://man7.org/tlpi/academic/index.html",
+          "date": "2026-03-15T23:51:26+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Excel incorrectly assumes that the year 1900 is a leap year",
+          "link": "https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year",
+          "date": "2026-03-15T23:34:35+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Show HN: Open-source playground to red-team AI agents with exploits published",
+          "link": "https://github.com/fabraix/playground",
+          "date": "2026-03-15T22:29:46+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Nasdaq's Shame",
+          "link": "https://keubiko.substack.com/p/nasdaqs-shame",
+          "date": "2026-03-15T22:16:09+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+          "link": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+          "date": "2026-03-15T22:15:50+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Kangina",
+          "link": "https://en.wikipedia.org/wiki/Kangina",
+          "date": "2026-03-15T22:11:17+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Show HN: Free OpenAI API Access with ChatGPT Account",
+          "link": "https://github.com/EvanZhouDev/openai-oauth",
+          "date": "2026-03-15T21:29:52+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+          "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+          "date": "2026-03-15T21:22:16+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "LLMs can be exhausting",
+          "link": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+          "date": "2026-03-15T20:56:21+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The 49MB web page",
+          "link": "https://thatshubham.com/blog/news-audit",
+          "date": "2026-03-15T19:25:18+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Chrome DevTools MCP",
+          "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+          "date": "2026-03-15T19:12:53+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/",
+          "date": "2026-03-15T18:04:34+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Stop Sloppypasta",
+          "link": "https://stopsloppypasta.ai/",
+          "date": "2026-03-15T17:25:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "LLM Architecture Gallery",
+          "link": "https://sebastianraschka.com/llm-architecture-gallery/",
+          "date": "2026-03-15T16:01:09+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+          "link": "https://news.ycombinator.com/item?id=47388646",
+          "date": "2026-03-15T15:58:23+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "In Memoriam: John W. Addison, my PhD advisor",
+          "link": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
+          "date": "2026-03-15T15:46:19+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
+          "link": "https://firthemouse.github.io/",
+          "date": "2026-03-15T15:40:13+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
+          "link": "https://zzk273.github.io/LATENT/",
+          "date": "2026-03-15T15:21:04+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "link": "https://github.com/pytorch/pytorch",
+          "snippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "date": "2026-03-16T00:42:34Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 98286,
+          "daily_stars_est": 28,
+          "forks": 27211,
+          "language": "Python",
+          "quality_score": 7,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "harvard-edge/cs249r_book: Machine Learning Systems",
+          "link": "https://github.com/harvard-edge/cs249r_book",
+          "snippet": "Machine Learning Systems",
+          "date": "2026-03-15T14:12:59Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 22734,
+          "daily_stars_est": 25,
+          "forks": 2710,
+          "language": "JavaScript",
+          "quality_score": 7,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "deepfakes/faceswap: Deepfakes Software For All",
+          "link": "https://github.com/deepfakes/faceswap",
+          "snippet": "Deepfakes Software For All",
+          "date": "2026-03-15T23:17:31Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 55044,
+          "daily_stars_est": 18,
+          "forks": 13415,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "streamlit/streamlit: Streamlit — A faster way to build and share data apps.",
+          "link": "https://github.com/streamlit/streamlit",
+          "snippet": "Streamlit — A faster way to build and share data apps.",
+          "date": "2026-03-15T23:37:00Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 43897,
+          "daily_stars_est": 18,
+          "forks": 4137,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "deepspeedai/DeepSpeed: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+          "link": "https://github.com/deepspeedai/DeepSpeed",
+          "snippet": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+          "date": "2026-03-16T00:40:54Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 41816,
+          "daily_stars_est": 19,
+          "forks": 4750,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ray-project/ray: Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+          "link": "https://github.com/ray-project/ray",
+          "snippet": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+          "date": "2026-03-16T00:03:13Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 41743,
+          "daily_stars_est": 12,
+          "forks": 7340,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.",
+          "link": "https://github.com/google-ai-edge/mediapipe",
+          "snippet": "Cross-platform, customizable ML solutions for live and streaming media.",
+          "date": "2026-03-15T21:13:08Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 34150,
+          "daily_stars_est": 14,
+          "forks": 5844,
+          "language": "C++",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "New Data Centers Will Be Powered by Human Brain Cells - Futurism",
+          "link": "https://futurism.com/artificial-intelligence/new-data-centers-human-brain-cells",
+          "snippet": "# New Data Centers Will Be Powered by Human Brain Cells. Last year, researchers at Australian biotech startup Cortical Labs showed off its CL1, the “world’s first code deployable biological computer” that’s made up of 200,000 living human neurons. Simply put, instead of relying on Nvidia chips like ",
+          "date": "Sun, 15 Mar 2026 01:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "explosion/spaCy: 💫 Industrial-strength Natural Language Processing (NLP) in Python",
+          "link": "https://github.com/explosion/spaCy",
+          "snippet": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+          "date": "2026-03-15T10:29:09Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 33331,
+          "daily_stars_est": 8,
+          "forks": 4660,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "lutzroeder/netron: Visualizer for neural network, deep learning and machine learning models",
+          "link": "https://github.com/lutzroeder/netron",
+          "snippet": "Visualizer for neural network, deep learning and machine learning models",
+          "date": "2026-03-16T00:48:08Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 32589,
+          "daily_stars_est": 6,
+          "forks": 3096,
+          "language": "JavaScript",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "PaddlePaddle/Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+          "link": "https://github.com/PaddlePaddle/Paddle",
+          "snippet": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+          "date": "2026-03-15T11:52:13Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 23756,
+          "daily_stars_est": 7,
+          "forks": 5975,
+          "language": "C++",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "onnx/onnx: Open standard for machine learning interoperability",
+          "link": "https://github.com/onnx/onnx",
+          "snippet": "Open standard for machine learning interoperability",
+          "date": "2026-03-15T04:00:08Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 20487,
+          "daily_stars_est": 7,
+          "forks": 3895,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "microsoft/onnxruntime: ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+          "link": "https://github.com/microsoft/onnxruntime",
+          "snippet": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+          "date": "2026-03-15T22:42:47Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 19559,
+          "daily_stars_est": 7,
+          "forks": 3764,
+          "language": "C++",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ClawSecure",
+          "link": "https://www.producthunt.com/products/clawsecure",
+          "date": "2026-03-15T17:48:53-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Cal.com Agents",
+          "link": "https://www.producthunt.com/products/cal",
+          "date": "2026-03-15T17:48:56-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Nutgrafe",
+          "link": "https://www.producthunt.com/products/nutgrafe",
+          "date": "2026-03-15T17:10:20-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Google Workspace CLI",
+          "link": "https://www.producthunt.com/products/github-google-workspace-cli",
+          "date": "2026-03-15T17:42:36-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "LaterAI",
+          "link": "https://www.producthunt.com/products/laterai-save-read-listen",
+          "date": "2026-03-15T17:33:29-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Aura Water: Private Hydration",
+          "link": "https://www.producthunt.com/products/aura-water",
+          "date": "2026-03-15T17:33:32-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Query Memory",
+          "link": "https://www.producthunt.com/products/query-memory",
+          "date": "2026-03-15T17:49:31-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The Banana App",
+          "link": "https://www.producthunt.com/products/the-banana-app",
+          "date": "2026-03-15T17:32:23-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Morgen",
+          "link": "https://www.producthunt.com/products/morgen-2",
+          "date": "2026-03-15T17:46:13-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ElevenCreative by ElevenLabs",
+          "link": "https://www.producthunt.com/products/elevencreative-by-elevenlabs",
+          "date": "2026-03-15T17:49:42-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "DynamicLake",
+          "link": "https://www.producthunt.com/products/dynamiclake",
+          "date": "2026-03-15T17:53:12-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ByteRover Memory System for OpenClaw",
+          "link": "https://www.producthunt.com/products/byterover",
+          "date": "2026-03-15T17:33:28-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Motion Software",
+          "link": "https://www.producthunt.com/products/motion-software",
+          "date": "2026-03-15T17:54:25-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Mooon",
+          "link": "https://www.producthunt.com/products/mooon",
+          "date": "2026-03-15T17:33:34-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Lingofable",
+          "link": "https://www.producthunt.com/products/lingofable",
+          "date": "2026-03-15T17:03:53-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Docket",
+          "link": "https://www.producthunt.com/products/docket-4",
+          "date": "2026-03-15T13:06:27-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "AI Website Redesign by Shuffle",
+          "link": "https://www.producthunt.com/products/ai-website-redesign",
+          "date": "2026-03-15T14:03:22-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Socra",
+          "link": "https://www.producthunt.com/products/socra-socratic-ai-tutor-partner",
+          "date": "2026-03-15T17:03:52-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "MyNextBrowser",
+          "link": "https://www.producthunt.com/products/mynextbrowser",
+          "date": "2026-03-15T16:03:49-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Rainfrog",
+          "link": "https://www.producthunt.com/products/rainfrog-2",
+          "date": "2026-03-15T15:03:44-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power",
+          "link": "https://www.wired.com/review/brompton-electric-t-line-with-e-motiq/",
+          "date": "2026-03-15T11:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "This At-Home Hair Growth System Just Dropped in Price",
+          "link": "https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/",
+          "date": "2026-03-15T11:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "iGarden M1 Pro Max 100 Review: A Sports Car for Your Pool",
+          "link": "https://www.wired.com/review/igarden-m1-pro-max-100-pool-robot/",
+          "date": "2026-03-15T10:32:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Razer Boomslang 20th Anniversary Mouse Review: For Collectors",
+          "link": "https://www.wired.com/review/razer-boomslang-20th-anniversary/",
+          "date": "2026-03-15T10:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Eighty Years Later, the Chemex Still Makes Better Coffee",
+          "link": "https://www.wired.com/story/chemex-makes-every-other-coffee-maker-seem-tacky/",
+          "date": "2026-03-15T09:46:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "A New Study Details How Cats Almost Always Land on Their Feet",
+          "link": "https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/",
+          "date": "2026-03-15T09:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Google, Accel India accelerator choses 5 startups and none are &#8216;AI wrappers&#8217;",
+          "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+          "date": "2026-03-16T00:30:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+          "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+          "date": "2026-03-15T21:01:51+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+          "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+          "date": "2026-03-15T18:49:32+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+          "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+          "date": "2026-03-15T17:19:47+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "TechCrunch Mobility: Travis Kalanick&#8217;s return proves it really is 2016 again",
+          "link": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+          "date": "2026-03-15T16:05:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Wiz investor unpacks Google’s $32B acquisition",
+          "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+          "date": "2026-03-15T15:30:33+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Rivian&#8217;s RJ Scaringe thinks we&#8217;re doing robots all wrong",
+          "link": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+          "date": "2026-03-15T14:30:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "CHM Live: Apple at 50",
+          "link": "https://www.youtube.com/live/eCSNJgI2LFI",
+          "date": "2026-03-15T23:00:54+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Finalist 3.6",
+          "link": "https://www.finalist.works/finalist-36/",
+          "date": "2026-03-15T23:13:08+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "‘This Is Not the Computer for You’",
+          "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me",
+          "date": "2026-03-15T17:48:30+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Blaming AI for Layoffs: ‘It Plays Better’",
+          "link": "https://www.resume.org/the-great-turnover-9-in-10-companies-plan-to-hire-in-2026-yet-6-in-10-will-have-layoffs-2/",
+          "date": "2026-03-15T17:48:10+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Horace Dediu on Apple Sitting Out the AI Spending Race",
+          "link": "https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/",
+          "date": "2026-03-15T15:51:56+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Reuters: ‘Meta Planning Sweeping Layoffs as AI Costs Mount’",
+          "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/",
+          "date": "2026-03-15T15:41:59+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "iFixit’s MacBook Neo Teardown",
+          "link": "https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years",
+          "date": "2026-03-15T23:13:50+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Grab 工程实践：将 LRU 升级为 TLRU，Android 图片缓存节省 50MB+",
+          "link": "https://www.infoq.cn/article/yu3vmzOKiqHXhwfXty41?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-03-15T22:40:31+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "10分钟装好一只“龙虾”，周鸿祎亲自动手！360推出国内首个“安全龙虾”，内置百款大模型",
+          "link": "https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-03-15T12:47:57+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Cloudflare发布AI辅助开发的实验性Next.js替代方案",
+          "link": "https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-03-15T11:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "GitLab：AI 能发现漏洞，但风险治理才是关键",
+          "link": "https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-03-15T10:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Aether OS is a computer in a browser built for the AT Protocol",
+          "link": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+          "date": "2026-03-15T16:35:03-04:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Verge",
+          "source_id": "verge-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
+          "link": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
+          "date": "2026-03-15T12:41:45-04:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Verge",
+          "source_id": "verge-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "AI Czar David Sacks wants Trump to ‘get out’ of Iran",
+          "link": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
+          "date": "2026-03-15T10:13:25-04:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Verge",
+          "source_id": "verge-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The fast rise and epic fall of Clubhouse",
+          "link": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history",
+          "date": "2026-03-15T10:06:42-04:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Verge",
+          "source_id": "verge-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "派早报：市场监管总局整治「大字吸睛、小字免责」等广告乱象",
+          "link": "https://sspai.com/post/107396",
+          "date": "2026-03-16T07:17:22+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "今夜，大模型从世界消散",
+          "link": "https://sspai.com/post/106939",
+          "date": "2026-03-15T10:38:39+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "An engineering thesis disguised as a coupe: A history of the Honda Prelude",
+          "link": "https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/",
+          "date": "2026-03-15T11:15:48+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Ars Technica",
+          "source_id": "ars-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "picoclaw nightly",
+          "link": "https://github.com/sipeed/picoclaw/releases/tag/nightly",
+          "date": "2026-03-16T00:54:03+00:00",
+          "summary": "Nightly build for v0.2.3-nightly.20260316.f2addff0 This is an automated build and may be unstable. Use with caution. Full Changelog: https://github.com/sipeed/picoclaw/compare/v0.2.3...main",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "github",
+          "source_name": "Sipeed PicoClaw",
+          "source_id": "picoclaw-github",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "How to Buy Used or Refurbished Electronics (2026)",
+          "link": "https://www.wired.com/story/how-to-buy-refurbished-electronics/",
+          "date": "2026-03-14T11:30:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "You Can Approximate Pi by Dropping Needles on the Floor",
+          "link": "https://www.wired.com/story/you-can-approximate-pi-by-dropping-needles-on-the-floor/",
+          "date": "2026-03-14T11:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Samsung Galaxy S26 Ultra Review: The Privacy Screen",
+          "link": "https://www.wired.com/review/samsung-galaxy-s26-ultra/",
+          "date": "2026-03-14T11:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "A Hacker Accidentally Broke Into the FBI’s Epstein Files",
+          "link": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
+          "date": "2026-03-14T10:30:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Identity Theft Protection Services: Do You Actually Need One?",
+          "link": "https://www.wired.com/story/best-id-protection-services/",
+          "date": "2026-03-14T10:30:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Norda 001A G+ Trail Running Shoe Review: As Expensive as an Apple Watch",
+          "link": "https://www.wired.com/review/norda-001a-g-trail-shoe/",
+          "date": "2026-03-14T10:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "I Regret to Inform You That You’re Using an Inferior Pour-Over Coffee Brewer",
+          "link": "https://www.wired.com/story/kalita-wave-pour-over-coffee-brewer/",
+          "date": "2026-03-14T09:33:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "How to Watch March Madness 2026",
+          "link": "https://www.wired.com/story/how-to-watch-march-madness/",
+          "date": "2026-03-14T09:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Japan Approves the World’s First Treatment Made With Reprogrammed Human Cells",
+          "link": "https://www.wired.com/story/japan-approves-the-worlds-first-treatment-made-with-reprogrammed-human-cells/",
+          "date": "2026-03-14T09:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Spring Cleaning? Here's How to Declutter Responsibly—and Maybe Earn Some Cash",
+          "link": "https://www.wired.com/story/spring-cleaning-how-to-declutter-responsibly/",
+          "date": "2026-03-14T09:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Vivid Seats Promo Codes and Deals: Save 10% This March",
+          "link": "https://www.wired.com/story/vivid-seats-promo-code/",
+          "date": "2026-03-14T05:01:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Chirp Discount Codes and Deals: Save Up to 67%",
+          "link": "https://www.wired.com/story/chirp-discount-code/",
+          "date": "2026-03-14T05:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Coleman Promo Codes and Deals: Up to 30% Off in March",
+          "link": "https://www.wired.com/story/coleman-promo-code/",
+          "date": "2026-03-14T05:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+          "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+          "date": "2026-03-14T21:24:10+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "US Army announces contract with Anduril worth up to $20B",
+          "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+          "date": "2026-03-14T20:47:47+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Honda is killing its EVs — and any chance of competing in the future",
+          "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+          "date": "2026-03-14T17:23:24+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+          "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+          "date": "2026-03-14T16:28:42+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "As people look for ways to make new friends, here are the apps promising to help",
+          "link": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+          "date": "2026-03-14T16:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+          "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+          "date": "2026-03-14T13:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam",
+          "link": "https://ma.tt/2026/03/gone-almost-phishin/",
+          "date": "2026-03-15T00:41:38+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "PC Makers Are Not Ready for the MacBook Neo",
+          "link": "https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth",
+          "date": "2026-03-14T21:20:56+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes",
+          "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+          "date": "2026-03-14T17:22:05+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Lil Finder Guy",
+          "link": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
+          "date": "2026-03-14T16:21:46+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Tim Cook: ‘50 Years of Thinking Different’",
+          "link": "https://www.apple.com/50-years-of-thinking-different/",
+          "date": "2026-03-14T17:22:48+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Tech Re-Nu’s MacBook Neo Teardown",
+          "link": "https://www.youtube.com/watch?v=5k7Lv7f-5CQ",
+          "date": "2026-03-14T22:05:37+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制",
+          "link": "https://www.infoq.cn/article/oOIf2M6slcOmV0PTPKvj?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-03-14T23:19:37+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀",
+          "link": "https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-03-14T11:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持",
+          "link": "https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-03-14T10:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
+          "link": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
+          "date": "2026-03-14T17:57:07-04:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Verge",
+          "source_id": "verge-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Meta is reportedly laying off up to 20 percent of its staff",
+          "link": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+          "date": "2026-03-14T18:16:22-04:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Verge",
+          "source_id": "verge-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "年度征文｜减了肥，人生就会变好吗？",
+          "link": "https://sspai.com/post/106785",
+          "date": "2026-03-14T15:06:24+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "免费试读 | 日本温泉完全指南：如何找、怎么泡、泡哪里？",
+          "link": "https://sspai.com/post/103326",
+          "date": "2026-03-14T10:29:46+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Sonos 周年团购限时开启：专属好价仅限今日",
+          "link": "https://sspai.com/post/107134",
+          "date": "2026-03-14T09:00:00+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Staff complain that xAI is flailing because of constant upheaval",
+          "link": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
+          "date": "2026-03-14T07:14:53+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Ars Technica",
+          "source_id": "ars-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "EP206: Git Workflow: Essential Commands",
+          "link": "https://blog.bytebytego.com/p/ep206-git-workflow-essential-commands",
+          "date": "2026-03-14T15:30:58+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "ByteByteGo",
+          "source_id": "bytebytego-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The AI Transformation of Legal Work: What's Coming, What It Means for You and What to Do Now - Law.com",
+          "link": "https://www.law.com/corpcounsel/2026/03/15/the-ai-transformation-of-legal-work-whats-coming-what-it-means-for-you-and-what-to-do-now/",
+          "snippet": "Reporting, and expert analysis of legal technology with a focus onwhat legal departments, law firms, and tech companies need to know. Dynamically explore and compare data on law firms, companies, individual lawyers, and industry trends. Real-time alerts on new state and federal litigation, plus unli",
+          "date": "Sun, 15 Mar 2026 16:54:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The Week In Technology, March 16-20, 2026 - Aviation Week",
+          "link": "https://aviationweek.com/aerospace/emerging-technologies/week-technology-march-16-20-2026",
+          "snippet": "* Aviation Week & Space Technology - Inside MRO. * CAPA Airline Leader Summit - Airlines in Transition. * CAPA Airline Leader Summit - Americas. * CAPA Airline Leader Summit - Latin America & Caribbean. * CAPA Airline Leader Summit - Australia Pacific. * CAPA Airline Leader Summit - Asia & Sustainab",
+          "date": "Sun, 15 Mar 2026 17:09:06 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Pentagon’s Megawatt Laser Demo To Highlight Recent Tech Breakthroughs - Aviation Week",
+          "link": "https://aviationweek.com/defense/missile-defense-weapons/pentagons-megawatt-laser-demo-highlight-recent-tech-breakthroughs",
+          "snippet": "* The Weekly of Business Aviation. * Aviation Week & Space Technology - Inside MRO. * CAPA Airline Leader Summit - Airlines in Transition. * CAPA Airline Leader Summit - Americas. * CAPA Airline Leader Summit - Latin America & Caribbean. * CAPA Airline Leader Summit - Australia Pacific. * CAPA Airli",
+          "date": "Sun, 15 Mar 2026 20:01:30 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Israeli fund bets on defense tech startups as wars reshape military innovation - ynetnews",
+          "link": "https://www.ynetnews.com/business/article/sjiox9e9wx",
+          "snippet": "## As conflicts in Ukraine and the Middle East push governments to seek faster, more flexible battlefield technologies, Protego Ventures is backing Israeli startups in drones, AI, robotics and infrastructure protection. Wars in Ukraine and the Middle East are reshaping how militaries around the worl",
+          "date": "Sun, 15 Mar 2026 20:07:43 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "BlueCrest Capital Management Ltd Makes New $1.89 Million Investment in Barrick Mining Corporation $B - MarketBeat",
+          "link": "https://www.marketbeat.com/instant-alerts/filing-bluecrest-capital-management-ltd-makes-new-189-million-investment-in-barrick-mining-corporation-b-2026-03-15/",
+          "snippet": "Image 7: MarketBeat - Stock Market News and Research Tools. Image 33: 3 Blue-Chip Stocks Built for a Rotating Market 3 Blue-Chip Stocks Built for a Rotating Market By Chris Markoch | March 8, 2026Image 34: tc pixel Image 35: This makes me furious This makes me furious From The Oxford Club **(Ad)**Im",
+          "date": "Sun, 15 Mar 2026 10:58:23 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Clearline Capital LP Purchases Shares of 1,220,530 Cipher Mining Inc. $CIFR - MarketBeat",
+          "link": "https://www.marketbeat.com/instant-alerts/filing-clearline-capital-lp-purchases-shares-of-1220530-cipher-mining-inc-cifr-2026-03-15/",
+          "snippet": "Image 7: MarketBeat - Stock Market News and Research Tools. Finally, JPMorgan Chase & Co. upgraded shares of Cipher Mining from a \"neutral\" rating to an \"overweight\" rating and boosted their price target for the stock from $12.00 to $18.00 in a research note on Monday, November 24th. Image 33: 3 Blu",
+          "date": "Sun, 15 Mar 2026 09:50:49 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Going Electric? - WSJ",
+          "link": "https://www.wsj.com/tech/ai/going-electric-54bc9b1c?gaa_at=eafs&gaa_n=AWEtsqd9cuVzXTHZsp_aOWNrFVnCT5DciwWhn0GF0Ku8anpK3fBLvqeR_weA&gaa_ts=69b6b58a&gaa_sig=j3HUyFDRFC4oeAzus7CxGZpV68lIe1E0Er9auv_n08eSzEzFAEzZXmw3Hf5ZKCo5NQylHNzkz68_WVibhHoeEQ%3D%3D",
+          "snippet": "https://www.wsj.com/tech/ai/going-electric-54bc9b1c. Plus: The $599 MacBook Neo reviewed, the teens running a billion-dollar AI startup, electric-grid blues, and more. _This is an edition of the WSJ Technology newsletter, a weekly digest of tech columns, big stories and personal tech advice. A weekl",
+          "date": "Sun, 15 Mar 2026 13:15:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Fadnavis Honored for Digital Advances in Agriculture - Devdiscourse",
+          "link": "https://www.devdiscourse.com/article/entertainment/3838740-fadnavis-honored-for-digital-advances-in-agriculture?amp",
+          "snippet": "# Fadnavis Honored for Digital Advances in Agriculture. ## Maharashtra Chief Minister Devendra Fadnavis received an honorary Doctor of Science degree from Mahatma Phule Krishi Vidyapeeth for his contributions to digital technology in agriculture. Governor Jishnu Dev Varma, in his first public functi",
+          "date": "Sun, 15 Mar 2026 08:21:54 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Top Mining Stocks To Consider - March 15th - MarketBeat",
+          "link": "https://www.marketbeat.com/instant-alerts/top-mining-stocks-to-consider-march-15th-2026-03-15/",
+          "snippet": "Image 7: MarketBeat - Stock Market News and Research Tools. *   **MarketBeat's screener** flags seven mining stocks with the highest recent dollar trading volume: **IREN**, Caterpillar (CAT), Freeport‑McMoRan (FCX), Newmont (NEM), Cameco (CCJ), Barrick (B), and Agnico Eagle (AEM). By Sam Quirke | Ma",
+          "date": "Sun, 15 Mar 2026 17:37:54 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "AMC Robotics taps Hive GPU cloud to scale AI development for quadruped security robot - Robotics & Automation News",
+          "link": "https://roboticsandautomationnews.com/2026/03/15/amc-robotics-taps-hive-gpu-cloud-to-scale-ai-development-for-quadruped-security-robot/99673/",
+          "snippet": "**AMC Robotics, an AI-driven robotics solutions developer, and Hive Digital Technologies, a provider sustainable digital infrastructure and AI compute, have jointly announced a strategic collaboration focused on advancing next-generation AI-driven robotics applications and scalable infrastructure ca",
+          "date": "Sun, 15 Mar 2026 11:47:14 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Neura Robotics and Qualcomm enter strategic collaboration to advance physical AI and cognitive robotics - Robotics & Automation News",
+          "link": "https://roboticsandautomationnews.com/2026/03/15/neura-robotics-and-qualcomm-enter-strategic-collaboration-to-advance-physical-ai-and-cognitive-robotics/99677/",
+          "snippet": "The collaboration brings together Qualcomm Technologies’ leadership in AI compute, connectivity, and robotics platforms with Neura’s deep robotics system expertise and embodied AI software, with the shared goal of accelerating scalable, real-world robotic intelligence. Qualcomm Technologies’ robotic",
+          "date": "Sun, 15 Mar 2026 11:57:18 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Arduino launches new edge robotics platform powered by Qualcomm - Robotics & Automation News",
+          "link": "https://roboticsandautomationnews.com/2026/03/15/arduino-launches-new-edge-robotics-platform-powered-by-qualcomm/99680/",
+          "snippet": "**Arduino has introduced a new edge AI development platform called Ventuno Q, a single-board system designed to support robotics, vision systems, and other physical AI applications.**. Arduino says the new platform is intended to help developers build intelligent systems that can perceive their surr",
+          "date": "Sun, 15 Mar 2026 12:07:38 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Technion team develops 3D implant that mimics lost human tissue - ynetnews",
+          "link": "https://www.ynetnews.com/health_science/article/bjp7tfn5ze",
+          "snippet": "## The bioengineered flap combines muscle, fat, blood vessels and, for the first time, a lymphatic network in a single structure, offering a potential future alternative for patients with severe tissue loss from burns, injuries or tumor removal. Researchers at Technion have developed a first-of-its-",
+          "date": "Sun, 15 Mar 2026 20:00:55 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        }
+      ]
+    },
+    "llm": {
+      "count": 53,
+      "articles": [
+        {
+          "title": "sgl-project/sglang: SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "link": "https://github.com/sgl-project/sglang",
+          "snippet": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "date": "2026-03-16T00:47:07Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 24592,
+          "daily_stars_est": 31,
+          "forks": 4823,
+          "language": "Python",
+          "quality_score": 8,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ScrapeGraphAI/Scrapegraph-ai: Python scraper based on AI",
+          "link": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+          "snippet": "Python scraper based on AI",
+          "date": "2026-03-15T04:58:29Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 22992,
+          "daily_stars_est": 30,
+          "forks": 2011,
+          "language": "Python",
+          "quality_score": 8,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "What is agentic engineering?",
+          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything",
+          "date": "2026-03-15T22:41:57+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Simon Willison",
+          "source_id": "simonwillison-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "NVIDIA/TensorRT-LLM: TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT ",
+          "link": "https://github.com/NVIDIA/TensorRT-LLM",
+          "snippet": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT ",
+          "date": "2026-03-15T23:13:07Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 13103,
+          "daily_stars_est": 14,
+          "forks": 2184,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Quoting Jannis Leidel",
+          "link": "https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything",
+          "date": "2026-03-14T18:41:25+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Simon Willison",
+          "source_id": "simonwillison-rss",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
+          "link": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything",
+          "date": "2026-03-14T18:19:38+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Simon Willison",
+          "source_id": "simonwillison-rss",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "BREAKING: Expensive new evidence that scaling is not all you need",
+          "link": "https://garymarcus.substack.com/p/breaking-expensive-new-evidence-that",
+          "date": "2026-03-14T18:23:18+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Gary Marcus",
+          "source_id": "garymarcus-rss",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Cautious optimism on foundation models in medical imaging balancing privacy and innovation - Nature",
+          "link": "https://www.nature.com/articles/s41746-026-02533-5",
+          "snippet": "For instance, the EU AI Act9 2024/1689 of the European Parliament and of the Council of 13 June 2024 Laying down Harmonised Rules on Artificial Intelligence and Amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives ",
+          "date": "Sun, 15 Mar 2026 06:52:04 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "arcee-ai/mergekit: Tools for merging pretrained large language models.",
+          "link": "https://github.com/arcee-ai/mergekit",
+          "snippet": "Tools for merging pretrained large language models.",
+          "date": "2026-03-15T10:49:47Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 6864,
+          "daily_stars_est": 7,
+          "forks": 677,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "thu-pacman/chitu: High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+          "link": "https://github.com/thu-pacman/chitu",
+          "snippet": "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+          "date": "2026-03-15T12:06:24Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 3437,
+          "daily_stars_est": 9,
+          "forks": 478,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "AmberLJC/LLMSys-PaperList: Large Language Model (LLM) Systems Paper List",
+          "link": "https://github.com/AmberLJC/LLMSys-PaperList",
+          "snippet": "Large Language Model (LLM) Systems Paper List",
+          "date": "2026-03-15T12:36:48Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 1871,
+          "daily_stars_est": 2,
+          "forks": 98,
+          "language": null,
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "llm-jp/awesome-japanese-llm: 日本語LLMまとめ - Overview of Japanese LLMs",
+          "link": "https://github.com/llm-jp/awesome-japanese-llm",
+          "snippet": "日本語LLMまとめ - Overview of Japanese LLMs",
+          "date": "2026-03-15T06:18:03Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 1352,
+          "daily_stars_est": 1,
+          "forks": 41,
+          "language": "TypeScript",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "trpc-group/trpc-agent-go: trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+          "link": "https://github.com/trpc-group/trpc-agent-go",
+          "snippet": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+          "date": "2026-03-15T15:10:14Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 1012,
+          "daily_stars_est": 3,
+          "forks": 103,
+          "language": "Go",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "nancheng58/Awesome-LLM4RS-Papers:  Large Language Model-enhanced Recommender System Papers",
+          "link": "https://github.com/nancheng58/Awesome-LLM4RS-Papers",
+          "snippet": " Large Language Model-enhanced Recommender System Papers",
+          "date": "2026-03-15T03:20:03Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 745,
+          "daily_stars_est": 1,
+          "forks": 63,
+          "language": null,
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "lone-cloud/gerbil: A desktop app for running Large Language Models locally. ",
+          "link": "https://github.com/lone-cloud/gerbil",
+          "snippet": "A desktop app for running Large Language Models locally. ",
+          "date": "2026-03-16T00:46:44Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 445,
+          "daily_stars_est": 2,
+          "forks": 42,
+          "language": "TypeScript",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "huhusmang/Awesome-LLMs-for-Vulnerability-Detection: Awesome Large Language Models for Vulnerability Detection",
+          "link": "https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection",
+          "snippet": "Awesome Large Language Models for Vulnerability Detection",
+          "date": "2026-03-15T01:12:49Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 398,
+          "daily_stars_est": 1,
+          "forks": 16,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Jeryi-Sun/LLM-and-Law: This repository is dedicated to summarizing papers related to large language models with the field of law",
+          "link": "https://github.com/Jeryi-Sun/LLM-and-Law",
+          "snippet": "This repository is dedicated to summarizing papers related to large language models with the field of law",
+          "date": "2026-03-15T12:00:47Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 286,
+          "daily_stars_est": 0,
+          "forks": 31,
+          "language": null,
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "eleiton/ollama-intel-arc: Make use of Intel Arc Series GPU to Run Ollama, StableDiffusion, Whisper and Open WebUI, for image generation, speech recognition and interaction with Large Language Models (LLM).",
+          "link": "https://github.com/eleiton/ollama-intel-arc",
+          "snippet": "Make use of Intel Arc Series GPU to Run Ollama, StableDiffusion, Whisper and Open WebUI, for image generation, speech recognition and interaction with Large Language Models (LLM).",
+          "date": "2026-03-15T22:29:38Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 274,
+          "daily_stars_est": 1,
+          "forks": 28,
+          "language": "Dockerfile",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "stardomains3/oxproxion: oxproxion is a versatile and user-centric Android chat application designed to interact with various Large Language Models (LLMs). It provides a seamless interface for managing conversations, customiz",
+          "link": "https://github.com/stardomains3/oxproxion",
+          "snippet": "oxproxion is a versatile and user-centric Android chat application designed to interact with various Large Language Models (LLMs). It provides a seamless interface for managing conversations, customiz",
+          "date": "2026-03-15T19:35:47Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 238,
+          "daily_stars_est": 1,
+          "forks": 31,
+          "language": "Kotlin",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "samestrin/llm-interface: A simple NPM interface for seamlessly interacting with 36 Large Language Model (LLM) providers, including OpenAI, Anthropic, Google Gemini, Cohere, Hugging Face Inference, NVIDIA AI, Mistral AI, AI21 ",
+          "link": "https://github.com/samestrin/llm-interface",
+          "snippet": "A simple NPM interface for seamlessly interacting with 36 Large Language Model (LLM) providers, including OpenAI, Anthropic, Google Gemini, Cohere, Hugging Face Inference, NVIDIA AI, Mistral AI, AI21 ",
+          "date": "2026-03-15T02:12:46Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 120,
+          "daily_stars_est": 0,
+          "forks": 13,
+          "language": "JavaScript",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "[P] I got tired of PyTorch Geometric OOMing my laptop, so I wrote a C++ zero-copy graph engine to bypass RAM entirely.",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1ru7bnz/p_i_got_tired_of_pytorch_geometric_ooming_my/",
+          "date": "2026-03-15T06:59:00+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[P] preflight, a pre-training validator for PyTorch I built after losing 3 days to label leakage",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1ruepfx/p_preflight_a_pretraining_validator_for_pytorch_i/",
+          "date": "2026-03-15T13:57:27+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Transformer on a forecast problem [D]",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1rup8u0/transformer_on_a_forecast_problem_d/",
+          "date": "2026-03-15T20:44:57+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[D] ICIP 2026 Desk-rejected",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1rug06n/d_icip_2026_deskrejected/",
+          "date": "2026-03-15T14:51:16+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[P] Using SHAP to explain Unsupervised Anomaly Detection on PCA-anonymized data (Credit Card Fraud). Is this a valid approach for a thesis?",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1rul706/p_using_shap_to_explain_unsupervised_anomaly/",
+          "date": "2026-03-15T18:11:20+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[D] Seeking Advice - ACL 2026 track selection",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1rueh8y/d_seeking_advice_acl_2026_track_selection/",
+          "date": "2026-03-15T13:47:38+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[D] Seeking Advice: WSL2 vs Dual Boot for ML development with an RTX 5080",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1ru8tmg/d_seeking_advice_wsl2_vs_dual_boot_for_ml/",
+          "date": "2026-03-15T08:34:12+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[P] I've trained my own OMR model (Optical Music Recognition)",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1ru8okj/p_ive_trained_my_own_omr_model_optical_music/",
+          "date": "2026-03-15T08:25:04+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "AI consultant uses ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog&#039;s cancer",
+          "link": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/",
+          "date": "2026-03-15T16:29:53+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "RL agents go from face-planting to parkour when researchers keep adding network layers",
+          "link": "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/",
+          "date": "2026-03-15T11:17:26+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "OpenClaw-RL trains AI agents &quot;simply by talking,&quot; converting every reply into a training signal",
+          "link": "https://the-decoder.com/openclaw-rl-trains-ai-agents-simply-by-talking-converting-every-reply-into-a-training-signal/",
+          "date": "2026-03-15T10:04:20+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Hollywood copyright complaints force Bytedance to shelve global launch of AI video generator Seedance 2.0",
+          "link": "https://the-decoder.com/hollywood-copyright-complaints-force-bytedance-to-shelve-global-launch-of-ai-video-generator-seedance-2-0/",
+          "date": "2026-03-15T09:34:36+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Codewall&#039;s AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot&#039;s guardrails",
+          "link": "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/",
+          "date": "2026-03-15T09:02:06+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
+          "link": "https://www.qbitai.com/2026/03/387935.html",
+          "date": "2026-03-15T06:06:09+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "The arXiv is separating from Cornell University, and is hiring a CEO, who will be paid roughly $300,000/year. &quot;After decades of productive partnership with Cornell University, and with support fr",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1rtjirw/the_arxiv_is_separating_from_cornell_university/",
+          "date": "2026-03-14T13:32:02+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[P] Karpathy's autoresearch with evolutionary database.",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1rtsbkv/p_karpathys_autoresearch_with_evolutionary/",
+          "date": "2026-03-14T19:23:18+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[D] Need advice on handling a difficult ACL ARR situation",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1rtled3/d_need_advice_on_handling_a_difficult_acl_arr/",
+          "date": "2026-03-14T14:51:49+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[D] Reported our meta-reviewer in this ARR cycle — no response yet. Should we commit to ACL or should we go with March 2026 cycle with explaining how meta reviews are wrong in revision doc?",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1rth86s/d_reported_our_metareviewer_in_this_arr_cycle_no/",
+          "date": "2026-03-14T11:40:04+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[D] ACL ARR 2026 Jan cycle — Does the commitment track have to match the track chosen during ARR submission?",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1rtkazr/d_acl_arr_2026_jan_cycle_does_the_commitment/",
+          "date": "2026-03-14T14:06:01+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[D] Has interpretability research been applied to model training?",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1rt8t19/d_has_interpretability_research_been_applied_to/",
+          "date": "2026-03-14T03:30:40+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "r/MachineLearning",
+          "source_id": "ml-reddit-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "AI spam websites flood the web with false information, and the number is growing fast",
+          "link": "https://the-decoder.com/ai-spam-websites-flood-the-web-with-false-information-and-the-number-is-growing-fast/",
+          "date": "2026-03-14T14:20:06+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "China pushes OpenClaw &quot;one-person companies&quot; with millions in AI agent subsidies",
+          "link": "https://the-decoder.com/china-pushes-openclaw-one-person-companies-with-millions-in-ai-agent-subsidies/",
+          "date": "2026-03-14T12:19:26+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Hume AI open-sources TADA, a speech model five times faster than rivals with zero hallucinated words",
+          "link": "https://the-decoder.com/hume-ai-open-sources-tada-a-speech-model-five-times-faster-than-rivals-with-zero-hallucinated-words/",
+          "date": "2026-03-14T11:12:35+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Ai2 releases new robotics models trained entirely in simulation to skip real-world data collection",
+          "link": "https://the-decoder.com/ai2-releases-new-robotics-models-trained-entirely-in-simulation-to-skip-real-world-data-collection/",
+          "date": "2026-03-14T10:25:09+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs",
+          "link": "https://the-decoder.com/meta-reportedly-plans-to-cut-up-to-20-percent-of-its-workforce-as-600-billion-ai-bet-drives-need-to-offset-costs/",
+          "date": "2026-03-14T09:55:59+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "360发布安全龙虾系列产品：以模治模构建智能体安全体系",
+          "link": "https://www.qbitai.com/2026/03/387921.html",
+          "date": "2026-03-14T13:32:22+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "AI 数学推理新纪元：SAIR Foundation 正式启动“数学蒸馏挑战赛”",
+          "link": "https://www.qbitai.com/2026/03/387915.html",
+          "date": "2026-03-14T12:45:52+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Gemini重塑谷歌地图！一句话搞定出行攻略，网友：垂直应用全完蛋",
+          "link": "https://www.qbitai.com/2026/03/387867.html",
+          "date": "2026-03-14T10:48:10+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "不仿真不VLA不遥操：它石智航重磅发布“能干活的通用具身大模型 ”AWE3.0",
+          "link": "https://www.qbitai.com/2026/03/387860.html",
+          "date": "2026-03-14T10:32:09+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "AI能代替人干活吗？B站联合6位UP主用OpenClaw直播做了次社会实验",
+          "link": "https://www.qbitai.com/2026/03/387843.html",
+          "date": "2026-03-14T08:56:16+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
+          "link": "https://www.qbitai.com/2026/03/387832.html",
+          "date": "2026-03-14T06:34:18+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "拜拜了SWE-Bench！Cursor刚发了个AI Coding评测基准，难哭Claude",
+          "link": "https://www.qbitai.com/2026/03/387756.html",
+          "date": "2026-03-14T06:25:48+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "龙虾版支付宝来了！睡觉都在帮你抢红包",
+          "link": "https://www.qbitai.com/2026/03/387768.html",
+          "date": "2026-03-14T05:30:07+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        }
+      ]
+    },
+    "crypto": {
+      "count": 77,
+      "articles": [
+        {
+          "title": "The SEC and CFTC join hands: State of Crypto",
+          "link": "https://www.coindesk.com/policy/2026/03/15/the-sec-and-cftc-join-hands-state-of-crypto",
+          "date": "2026-03-15T19:33:07+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto’s age of hype is over, making way for the real infrastructure to be built",
+          "link": "https://www.coindesk.com/opinion/2026/03/15/crypto-s-age-of-hype-is-over-making-way-for-the-real-infrastructure-to-be-built",
+          "date": "2026-03-15T19:30:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin set for best week since September 2025 as correlation with tech stocks weakens",
+          "link": "https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens",
+          "date": "2026-03-15T16:44:57+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Here is why Nasdaq and owner of NYSE are putting the $126 trillion equity market on blockchain",
+          "link": "https://www.coindesk.com/business/2026/03/15/here-is-why-nasdaq-and-owner-of-nyse-are-putting-the-usd126-trillion-equity-market-on-blockchain",
+          "date": "2026-03-15T16:00:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitwise’s Matt Hougan revisits $1 million bitcoin — analysts agree but debate his timeline",
+          "link": "https://www.coindesk.com/markets/2026/03/15/bitwise-s-matt-hougan-revisits-usd1-million-bitcoin-analysts-agree-but-debate-his-timeline",
+          "date": "2026-03-15T14:00:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Visa is ready for AI agents. So is Coinbase. They're building very different internets",
+          "link": "https://www.coindesk.com/tech/2026/03/15/visa-is-ready-for-ai-agents-so-is-coinbase-they-re-building-very-different-internets",
+          "date": "2026-03-15T13:00:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "AI agents are quietly rewriting prediction market trading",
+          "link": "https://www.coindesk.com/tech/2026/03/15/ai-agents-are-quietly-rewriting-prediction-market-trading",
+          "date": "2026-03-15T12:00:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin sold off first when the U.S.-Iran war began. Two weeks later, it's outperforming nearly everything",
+          "link": "https://www.coindesk.com/markets/2026/03/14/bitcoin-sold-off-first-when-the-u-s-iran-war-began-two-weeks-later-it-s-outperforming-nearly-everything",
+          "date": "2026-03-15T03:50:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Probe reveals document detailing alleged $5 million deal linking Milei to Libra promotion: report",
+          "link": "https://www.theblock.co/post/393639/probe-reveals-document-detailing-alleged-5-million-deal-linking-milei-to-libra-promotion-report?utm_source=rss&amp;utm_medium=rss",
+          "date": "2026-03-15T16:24:32-04:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Block",
+          "source_id": "theblock-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Aave and CoW Swap publish dueling post-mortems after $50 million DeFi swap disaster",
+          "link": "https://www.theblock.co/post/393621/aave-and-cow-swap-publish-dueling-post-mortems-after-50-million-defi-swap-disaster?utm_source=rss&amp;utm_medium=rss",
+          "date": "2026-03-15T14:18:52-04:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Block",
+          "source_id": "theblock-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Venus Protocol left with roughly $2M in bad debt after exploit manipulates Thena&#8217;s THE token price",
+          "link": "https://www.theblock.co/post/393622/venus-protocol-left-with-roughly-2m-in-bad-debt-after-exploit-manipulates-thenas-the-token-price?utm_source=rss&amp;utm_medium=rss",
+          "date": "2026-03-15T11:52:51-04:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Block",
+          "source_id": "theblock-rss",
+          "quality_score": 7.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "zeroclaw v0.3.4-beta.232",
+          "link": "https://github.com/zeroclaw-labs/zeroclaw/releases/tag/v0.3.4-beta.232",
+          "date": "2026-03-15T22:52:41+00:00",
+          "summary": "What's New - agent: surface tool call failure reasons in chat progress messages - context: token-based compaction, persistent sessions, and LLM consolidation - hands: add autonomous...",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "github",
+          "source_name": "ZeroClaw",
+          "source_id": "zeroclaw-github",
+          "quality_score": 7.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "ZeroClaw",
+            "ZeroClaw",
+            "ZeroClaw"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "zeroclaw v0.3.3-beta.218",
+          "link": "https://github.com/zeroclaw-labs/zeroclaw/releases/tag/v0.3.3-beta.218",
+          "date": "2026-03-15T19:35:18+00:00",
+          "summary": "What's New - context: token-based compaction, persistent sessions, and LLM consolidation - tool: add allow_private_hosts option to http_request tool Contributors - Argenis - argenis de la rosa -...",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "github",
+          "source_name": "ZeroClaw",
+          "source_id": "zeroclaw-github",
+          "quality_score": 7.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "ZeroClaw",
+            "ZeroClaw"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "zeroclaw v0.3.2",
+          "link": "https://github.com/zeroclaw-labs/zeroclaw/releases/tag/v0.3.2",
+          "date": "2026-03-15T11:05:01+00:00",
+          "summary": "What's New - heartbeat: two-phase execution, structured tasks, and auto-routing Contributors - Argenis - argenis de la rosa - Claude Opus 4.6 --- Full changelog: v0.3.1...v0.3.2",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "github",
+          "source_name": "ZeroClaw",
+          "source_id": "zeroclaw-github",
+          "quality_score": 7.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "ZeroClaw",
+            "ZeroClaw",
+            "ZeroClaw"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "zeroclaw v0.3.1",
+          "link": "https://github.com/zeroclaw-labs/zeroclaw/releases/tag/v0.3.1",
+          "date": "2026-03-15T01:06:51+00:00",
+          "summary": "What's New - ci: add Termux (aarch64-linux-android) release target Contributors - Argenis - argenis de la rosa - Claude Opus 4.6 --- Full changelog: v0.3.0...v0.3.1",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "github",
+          "source_name": "ZeroClaw",
+          "source_id": "zeroclaw-github",
+          "quality_score": 7.0,
+          "multi_source": true,
+          "source_count": 7,
+          "all_sources": [
+            "ZeroClaw",
+            "ZeroClaw",
+            "ZeroClaw"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "foundry nightly-d055c0999b23e2b045acba0e402f83d1e1e20496",
+          "link": "https://github.com/foundry-rs/foundry/releases/tag/nightly-d055c0999b23e2b045acba0e402f83d1e1e20496",
+          "date": "2026-03-15T06:26:42+00:00",
+          "summary": "Other Full Changelog: https://github.com/foundry-rs/foundry/compare/nightly...nightly-d055c0999b23e2b045acba0e402f83d1e1e20496",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "github",
+          "source_name": "Foundry",
+          "source_id": "foundry-github",
+          "quality_score": 7.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Foundry",
+            "Foundry"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto broker Bitpanda bets on banks and tokenization to expand globally ahead of IPO plans",
+          "link": "https://www.coindesk.com/business/2026/03/14/crypto-broker-bitpanda-bets-on-banks-and-tokenization-to-expand-globally-ahead-of-ipo-plans",
+          "date": "2026-03-14T20:00:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Hoskinson might be wrong about the future of decentralized compute",
+          "link": "https://www.coindesk.com/opinion/2026/03/14/hoskinson-might-be-wrong-about-the-future-of-decentralized-compute",
+          "date": "2026-03-14T18:30:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto’s multi-million F1 sponsorship under fire as Middle East war hits region's biggest events",
+          "link": "https://www.coindesk.com/business/2026/03/14/crypto-s-multi-million-f1-sponsorship-under-fire-as-middle-east-war-hits-region-s-biggest-events",
+          "date": "2026-03-14T18:00:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Ethereum Foundation sells 5,000 ether to Tom Lee's BitMine in $10.2 million deal",
+          "link": "https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal",
+          "date": "2026-03-14T17:56:34+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Boris Johnson calling Bitcoin a ‘Ponzi’ draws rebuttal from Michael Saylor and others",
+          "link": "https://www.coindesk.com/business/2026/03/14/boris-johnson-calling-bitcoin-a-ponzi-draws-rebuttal-from-michael-saylor-and-others",
+          "date": "2026-03-14T17:18:37+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Wall Street pushes tokenized stocks, but institutions aren’t eager to trade them",
+          "link": "https://www.coindesk.com/business/2026/03/14/wall-street-pushes-tokenized-stocks-but-institutions-aren-t-eager-to-trade-them",
+          "date": "2026-03-14T16:00:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Brazil industry giants representing 850 companies decry stablecoin tax threat",
+          "link": "https://www.coindesk.com/business/2026/03/14/brazil-industry-giants-representing-850-companies-decry-stablecoin-tax-threat",
+          "date": "2026-03-14T14:58:14+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "The math behind Strategy’s path to 1 million bitcoin by the end of 2026",
+          "link": "https://www.coindesk.com/markets/2026/03/14/the-math-behind-strategy-s-path-to-1-million-bitcoin-by-the-end-of-2026",
+          "date": "2026-03-14T14:00:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "AI developers may not be keen on crypto, but stablecoins are the secret to agentic finance, crypto insiders say",
+          "link": "https://www.coindesk.com/business/2026/03/14/ai-developers-may-not-be-keen-on-crypto-but-stablecoins-are-the-secret-to-agentic-finance-crypto-insiders-say",
+          "date": "2026-03-14T14:00:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin holds $71,000 despite Trump warning of strikes on Iran's oil-rich Kharg Island",
+          "link": "https://www.coindesk.com/markets/2026/03/14/bitcoin-holds-usd71-000-despite-trump-warning-after-iran-oil-strikes",
+          "date": "2026-03-14T06:08:27+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin can survive 72% of the world's submarine cables being cut, but a targeted attack on five hosting providers could cripple it",
+          "link": "https://www.coindesk.com/markets/2026/03/13/bitcoin-can-survive-72-of-the-world-s-submarine-cables-being-cut-but-a-targeted-attack-on-five-hosting-providers-could-cripple-it",
+          "date": "2026-03-14T03:30:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "CoinDesk",
+          "source_id": "coindesk-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Custodia&#8217;s five-year fight for a Fed master account effectively ends in 7-3 appeals court loss",
+          "link": "https://www.theblock.co/post/393617/custodias-five-year-fight-for-a-fed-master-account-effectively-ends-in-7-3-appeals-court-loss?utm_source=rss&amp;utm_medium=rss",
+          "date": "2026-03-14T16:01:33-04:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Block",
+          "source_id": "theblock-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "SEC dismisses civil fraud case against BitClout, DeSo founder Nader Al-Naji with prejudice",
+          "link": "https://www.theblock.co/post/393611/sec-dismisses-civil-fraud-case-against-bitclout-deso-founder-nader-al-naji-with-prejudice?utm_source=rss&amp;utm_medium=rss",
+          "date": "2026-03-14T13:00:58-04:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Block",
+          "source_id": "theblock-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "IRS crypto reporting rules set stage for confusing tax season: Here&#8217;s what you need to know",
+          "link": "https://www.theblock.co/post/393574/irs-crypto-reporting-rules-set-stage-for-confusing-tax-season-heres-what-you-need-to-know?utm_source=rss&amp;utm_medium=rss",
+          "date": "2026-03-14T08:31:01-04:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Block",
+          "source_id": "theblock-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Your product won’t sell itself",
+          "link": "https://a16zcrypto.substack.com/p/your-product-wont-sell-itself",
+          "date": "2026-03-14T16:13:49+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "a16z Crypto",
+          "source_id": "a16zcrypto-rss",
+          "quality_score": 5.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto News: Pepeto Announces Binance Level Exchange Update as Ethereum Price Prediction Maps Breakout to $8,000 - markets.businessinsider.com",
+          "link": "https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-as-ethereum-price-prediction-maps-breakout-to-8-000-1035930462",
+          "snippet": "# Crypto News: Pepeto Announces Binance Level Exchange Update as Ethereum Price Prediction Maps Breakout to $8,000. That move would flood Ethereum with the kind of volume only real exchange infrastructure can capture, and the crypto news out of Pepeto's presale suggests Ethereum whales already see i",
+          "date": "Sun, 15 Mar 2026 02:53:04 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "New Crypto: Ethereum Based Crypto Pepeto Announces Binance Listing Advances While Cardano Price Prediction Targets New ATH - markets.businessinsider.com",
+          "link": "https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-crypto-pepeto-announces-binance-listing-advances-while-cardano-price-prediction-targets-new-ath-1035930977",
+          "snippet": "# New Crypto: Ethereum Based Crypto Pepeto Announces Binance Listing Advances While Cardano Price Prediction Targets New ATH. They are adding the new crypto opportunities with the highest potential, and Pepeto is the one getting the most attention right now because no other Ethereum based crypto at ",
+          "date": "Mon, 16 Mar 2026 00:21:39 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "7 Crypto Stocks to Watch in 2026 - Pintu",
+          "link": "https://pintu.co.id/en/news/265328-7-crypto-stocks-to-watch-in-2026/amp",
+          "snippet": "Today, investors can gain exposure to blockchain technology and the digital asset ecosystem through publicly traded companies, commonly referred to as crypto stocks. These companies operate in sectors such as crypto exchanges, Bitcoin (BTC) mining, blockchain infrastructure, as well as financial ser",
+          "date": "Sun, 15 Mar 2026 03:01:42 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Cryptocurrency Stocks To Watch Now – March 13th - Defense World",
+          "link": "https://www.defenseworld.net/2026/03/15/cryptocurrency-stocks-to-watch-now-march-13th.html",
+          "snippet": "Galaxy Digital, Bitfarms, HIVE Digital Technologies, Digi Power X, and Soluna are the five Cryptocurrency stocks to watch today, according to MarketBeat’s stock screener tool. “Cryptocurrency stocks” refers to shares of publicly traded companies whose business models, assets, or revenues are closely",
+          "date": "Sun, 15 Mar 2026 05:03:12 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto News: Pepeto Announces Top Security Update While XRP Price Prediction Targets $10 and Trump Policy Shifts Crypto - markets.businessinsider.com",
+          "link": "https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-top-security-update-while-xrp-price-prediction-targets-10-and-trump-policy-shifts-crypto-1035930979",
+          "snippet": "# Crypto News: Pepeto Announces Top Security Update While XRP Price Prediction Targets $10 and Trump Policy Shifts Crypto. Before getting into what those wallets are doing and why, the xrp price prediction and Trump policy this week explain why the entire crypto market is about to move and why the s",
+          "date": "Mon, 16 Mar 2026 00:21:33 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto News: Pepeto Announces Security Update on Cross Chain Tools as XRP Price Future Target and Trump Reshapes Market - markets.businessinsider.com",
+          "link": "https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-security-update-on-cross-chain-tools-as-xrp-price-future-target-and-trump-reshapes-market-1035930459",
+          "snippet": "# Crypto News: Pepeto Announces Security Update on Cross Chain Tools as XRP Price Future Target and Trump Reshapes Market. Pepeto's team announces a major security update across its cross chain infrastructure, strengthening the AI powered contract verification layer and expanding the audit framework",
+          "date": "Sun, 15 Mar 2026 02:53:04 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "zeroclaw v0.3.0",
+          "link": "https://github.com/zeroclaw-labs/zeroclaw/releases/tag/v0.3.0",
+          "date": "2026-03-14T21:18:11+00:00",
+          "summary": "What's New - channels: comprehensive channel matrix tests + v0.2.2 - ci: auto-sync README What's New and Contributors on release Contributors - Argenis - argenis de la rosa - Claude Opus 4.6 --- Full...",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "github",
+          "source_name": "ZeroClaw",
+          "source_id": "zeroclaw-github",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 4,
+          "all_sources": [
+            "ZeroClaw",
+            "ZeroClaw",
+            "ZeroClaw"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T21:56:41+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "CLARITY Act risks handing crypto to centralized players: Gnosis exec",
+          "link": "https://cointelegraph.com/news/clarity-act-hand-crypto-centralized-player?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T21:32:48+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Venus Protocol hit by $3.7M in 'supply cap' attack",
+          "link": "https://cointelegraph.com/news/venus-protocol-3-7-million-supply-cap-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T19:30:20+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Vitalik Buterin promotes an update simplifying Ethereum node software",
+          "link": "https://cointelegraph.com/news/vitalik-buterin-simplify-ethereum-node?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T16:47:31+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin price teases key support reclaims with weekly close above $70K",
+          "link": "https://cointelegraph.com/news/bitcoin-price-teases-key-support-reclaims-weekly-close-above-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T15:12:03+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "How Bitcoin and Gold reacted differently to the Iran war shock",
+          "link": "https://cointelegraph.com/news/how-bitcoin-and-gold-reacted-differently-to-the-iran-war-shock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T14:16:22+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Forensic analysis uncovers draft of $5M deal tied to Milei’s Libra promotion: Report",
+          "link": "https://cointelegraph.com/news/milei-libra-promotion-5m-draft-deal-found-novelli-phone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T13:50:19+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Stablecoin uncertainty could hurt banks more than crypto firms: Expert",
+          "link": "https://cointelegraph.com/news/stablecoin-uncertainty-could-hurt-banks-more-than-crypto-firms-expert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T10:01:51+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Altseason is dead, expect shorter cycles and ‘violent’ rotations: Crypto exec",
+          "link": "https://cointelegraph.com/news/altseaon-dead-short-cycles-violent-rotation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T09:00:34+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Ethereum Foundation sells $10.2M worth of ETH to BitMine in OTC deal",
+          "link": "https://cointelegraph.com/news/ethereum-foundation-sells-eth-to-bitmine-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T07:06:13+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin whales are starting to accumulate again at $71K: Santiment",
+          "link": "https://cointelegraph.com/news/bitcoin-whale-accumulation-btc-price-retail-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T05:30:21+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "CLARITY Act 2026 odds ‘extremely low’ if not passed before April: Exec",
+          "link": "https://cointelegraph.com/news/clarity-act-crypto-united-states-congress-galaxy-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-15T02:09:37+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin Advances as Oil Jumps Toward $100 on Further Middle East Strikes",
+          "link": "https://decrypt.co/361186/bitcoin-advances-oil-jumps-further-middle-east-strikes",
+          "date": "2026-03-16T00:05:27+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Decrypt",
+          "source_id": "decrypt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "You Can Control an AI Agent&#39;s Crypto Spending With Ledger Hardware Wallets and MoonPay",
+          "link": "https://decrypt.co/361136/control-ai-agent-crypto-spending-ledger-hardware-wallets-moonpay",
+          "date": "2026-03-15T21:01:03+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Decrypt",
+          "source_id": "decrypt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "We Tested Utopai&#39;s PAI: The Best Long-Form AI Video Generator Today?",
+          "link": "https://decrypt.co/361085/utopai-pai-review-best-long-firm-ai-video-generator",
+          "date": "2026-03-15T18:49:04+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Decrypt",
+          "source_id": "decrypt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "How Florida&#39;s Stablecoin Bill Mirrors &#39;Big Brother&#39; Tools Outlawed Under Ron DeSantis&#39; CDBC Ban",
+          "link": "https://decrypt.co/361074/florida-stablecoin-bill-mirrors-big-brother-tools-ron-desantis-cdbc-ban",
+          "date": "2026-03-15T15:27:46+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Decrypt",
+          "source_id": "decrypt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "What Is AGI? The AI Goal Everyone Talks About But No One Can Clearly Define",
+          "link": "https://decrypt.co/360964/agi-ai-goal-everyone-talks-about-no-one-can-clearly-define",
+          "date": "2026-03-15T13:01:03+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Decrypt",
+          "source_id": "decrypt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Venus Protocol exploited for $3.7M through supply cap manipulation: On-chain analysis",
+          "link": "https://thedefiant.io/news/hacks/venus-protocol-3-7m-supply-cap-exploit-6072ly",
+          "date": "2026-03-15T19:46:12+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Defiant",
+          "source_id": "defiant-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "SEC and CFTC Sign Memorandum to Coordinate Crypto Regulation: Agencies",
+          "link": "https://thedefiant.io/news/regulation/sec-cftc-sign-crypto-coordination-mou-u3sayp",
+          "date": "2026-03-15T19:46:12+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Defiant",
+          "source_id": "defiant-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Ethereum Foundation Sells 5,000 ETH for $10.2M in OTC Deal: Ethereum Foundation",
+          "link": "https://thedefiant.io/news/markets/ethereum-foundation-sells-eth-bitmine-otc-xywamr",
+          "date": "2026-03-15T07:16:12+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Defiant",
+          "source_id": "defiant-rss",
+          "quality_score": 2.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Changing Basel rules could unlock ‘huge’ liquidity for BTC: Analyst",
+          "link": "https://cointelegraph.com/news/changing-basel-rules-huge-liquidity-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-14T21:45:50+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Former UK Prime Minister Boris Johnson calls Bitcoin a ‘Ponzi scheme’",
+          "link": "https://cointelegraph.com/news/boris-johnson-btc-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-14T18:09:15+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin beats stocks as Strategy’s STRC hints at $776M BTC buying potential",
+          "link": "https://cointelegraph.com/news/bitcoin-beats-stocks-strategy-strc-776m-btc-buying-potential?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-14T17:38:08+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto can fight money laundering without stifling financial freedom",
+          "link": "https://cointelegraph.com/news/crypto-can-fight-money-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-14T12:30:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "USDC market cap nears record $80B amid ‘capital flight’ in UAE: Analyst",
+          "link": "https://cointelegraph.com/news/usdc-market-cap-nears-80b-uae-capital-flight-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-14T10:43:55+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Spot Bitcoin ETFs extend inflow streak to five days for first time in 2026",
+          "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-five-day-inflow-streak-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-14T08:11:32+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "BlackRock says ‘exotic’ crypto ETFs not part of its strategy",
+          "link": "https://cointelegraph.com/news/blackrock-wont-consider-exotic-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-14T04:52:48+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Stablecoins could power global payments within 10 years: Druckenmiller",
+          "link": "https://cointelegraph.com/news/stablecoins-power-global-payments-10-years-stanley-druckenmiller?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "2026-03-14T01:22:32+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Cointelegraph",
+          "source_id": "cointelegraph-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Tom Lee&#39;s BitMine Buys $10.2 Million in ETH Directly From Ethereum Foundation",
+          "link": "https://decrypt.co/361162/tom-lees-bitmine-buys-10-million-ethereum-foundation",
+          "date": "2026-03-14T19:12:58+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Decrypt",
+          "source_id": "decrypt-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Judge Rejects RICO Claims in Lawsuit Over Pastor-Led Crypto Ponzi Scheme",
+          "link": "https://decrypt.co/361084/judge-rejects-rico-claims-in-lawsuit-over-pastor-led-crypto-ponzi-scheme",
+          "date": "2026-03-14T16:31:50+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Decrypt",
+          "source_id": "decrypt-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin Hit a Major Milestone—Most Miners Won&#39;t Be Around for the Next One",
+          "link": "https://decrypt.co/361137/bitcoin-major-milestone-miners",
+          "date": "2026-03-14T14:07:30+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "Decrypt",
+          "source_id": "decrypt-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "F1's Multi-Million Crypto Sponsorships at Risk as Middle East Conflict Forces Race Cancellations: FIA",
+          "link": "https://thedefiant.io/news/markets/f1-middle-east-races-canceled-crypto-sponsorships-threatened-65focr",
+          "date": "2026-03-14T18:01:42+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Defiant",
+          "source_id": "defiant-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Sky TVL Surges 38% in March",
+          "link": "https://thedefiant.io/news/defi/sky-tvl-surges-38-in-march",
+          "date": "2026-03-14T14:57:59+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Defiant",
+          "source_id": "defiant-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin Hits 20 Million Mined Milestone, Leaving Only 1 Million Coins Left: Mining Industry",
+          "link": "https://thedefiant.io/news/markets/bitcoin-20-million-mined-milestone-miners-c0eenr",
+          "date": "2026-03-14T14:17:00+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Defiant",
+          "source_id": "defiant-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "US CLARITY Act Unlikely to Pass Senate Banking Committee Before April: Senator John Thune",
+          "link": "https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9",
+          "date": "2026-03-14T01:02:03+00:00",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "rss",
+          "source_name": "The Defiant",
+          "source_id": "defiant-rss",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Illinois Senate primary pits crypto-backed candidate against Pritzker’s pick - The Washington Post",
+          "link": "https://www.washingtonpost.com/politics/2026/03/15/illinois-senate-primary-cypto-pritzker/",
+          "snippet": "# Illinois Senate primary pits crypto-backed candidate against Pritzker’s pick. The Democratic contest highlights divisions over crypto regulation and billionaire influence in politics, as the industry spends million in a battle with the governor. Make us preferred on Google. Rep. Robin Kelly, left,",
+          "date": "Sun, 15 Mar 2026 09:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin Stocks To Follow Today - March 15th - MarketBeat",
+          "link": "https://www.marketbeat.com/instant-alerts/bitcoin-stocks-to-follow-today-march-15th-2026-03-15/",
+          "snippet": "U.S. Shipbuilding Revival: 3 Stocks to Watch Now. Ticker Revealed: Pre-IPO Access to \"Next Elon Musk\" Company (Ad)Image 1: tc pixel. Image 7: MarketBeat - Stock Market News and Research Tools. By Sam Quirke | March 12, 2026Image 38: tc pixel Image 39: The most important number in finance… The most i",
+          "date": "Sun, 15 Mar 2026 17:37:45 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Ripple Targets AFSL to Bolster Australian Payments - FinTech Magazine",
+          "link": "https://fintechmagazine.com/news/ripple-targets-afsl-to-bolster-australian-payments",
+          "snippet": "Blockchain leader Ripple is set to acquire BC Payments Australia, a move that will integrate traditional rails with digital asset infrastructure. Ripple has announced its intention to secure an Australian Financial Services License (AFSL) as it ramps up its regulated footprint across the Asia-Pacifi",
+          "date": "Sun, 15 Mar 2026 09:00:52 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "zeroclaw v0.2.2-beta.190",
+          "link": "https://github.com/zeroclaw-labs/zeroclaw/releases/tag/v0.2.2-beta.190",
+          "date": "2026-03-14T21:02:15+00:00",
+          "summary": "What's New - channels: comprehensive channel matrix tests + v0.2.2 - ci: auto-sync README What's New and Contributors on release Contributors - Argenis - argenis de la rosa - Claude Opus 4.6 --- Full...",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "github",
+          "source_name": "ZeroClaw",
+          "source_id": "zeroclaw-github",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        }
+      ]
+    }
+  }
+}
