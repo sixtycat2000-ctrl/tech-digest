@@ -1,0 +1,1937 @@
+{
+  "generated": "2026-03-31T00:56:55.792130+00:00",
+  "input_sources": {
+    "rss_articles": 0,
+    "twitter_articles": 0,
+    "web_articles": 73,
+    "github_articles": 1,
+    "github_trending": 40,
+    "reddit_posts": 0,
+    "total_input": 114
+  },
+  "processing": {
+    "deduplication_applied": true,
+    "multi_source_merging": true,
+    "previous_digest_penalty": false,
+    "quality_scoring": true
+  },
+  "output_stats": {
+    "total_articles": 96,
+    "topics_count": 4,
+    "topic_distribution": {
+      "ai-agent": 17,
+      "frontier-tech": 42,
+      "llm": 21,
+      "crypto": 16
+    }
+  },
+  "topics": {
+    "ai-agent": {
+      "count": 17,
+      "articles": [
+        {
+          "title": "CherryHQ/cherry-studio: AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+          "link": "https://github.com/CherryHQ/cherry-studio",
+          "snippet": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+          "date": "2026-03-31T00:46:34Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 42610,
+          "daily_stars_est": 63,
+          "forks": 3980,
+          "language": "TypeScript",
+          "quality_score": 11,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "skalesapp/skales: Your local AI Desktop Agent for Windows, macOS & Linux. Features a proactive Desktop Buddy, an AI social feed (Discover), and 15+ LLM providers (Ollama, LM Studio). No Docker, no terminal required. 🦎",
+          "link": "https://github.com/skalesapp/skales",
+          "snippet": "Your local AI Desktop Agent for Windows, macOS & Linux. Features a proactive Desktop Buddy, an AI social feed (Discover), and 15+ LLM providers (Ollama, LM Studio). No Docker, no terminal required. 🦎",
+          "date": "2026-03-30T11:31:13Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 673,
+          "daily_stars_est": 31,
+          "forks": 114,
+          "language": "TypeScript",
+          "quality_score": 8,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "OpenCowAI/opencow: One task, one agent, delivered. The open-source platform for task-driven autonomous AI agents.OpenCow assigns an autonomous AI agent to every task — features, campaigns,  reports, audits — and deliver",
+          "link": "https://github.com/OpenCowAI/opencow",
+          "snippet": "One task, one agent, delivered. The open-source platform for task-driven autonomous AI agents.OpenCow assigns an autonomous AI agent to every task — features, campaigns,  reports, audits — and deliver",
+          "date": "2026-03-30T23:29:07Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 298,
+          "daily_stars_est": 16,
+          "forks": 17,
+          "language": "TypeScript",
+          "quality_score": 6,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "tang-vu/ContribAI: Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs",
+          "link": "https://github.com/tang-vu/ContribAI",
+          "snippet": "Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs",
+          "date": "2026-03-30T17:04:15Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 194,
+          "daily_stars_est": 15,
+          "forks": 77,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Claws: From AI Generation to AI Execution - CNET",
+          "link": "https://www.cnet.com/tech/services-and-software/claw-ai-explainer-openclaw-nvidia/",
+          "snippet": "We deep dive into the world of claw AI agents. The AI lexicon continues to expand, with claws now a new layer on top of AI agents, and it all began with OpenClaw. A claw is an AI agent that can actually do things on a computer, not just talk about doing them. While a standard AI agent waits for you ",
+          "date": "Mon, 30 Mar 2026 11:38:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "AI Assistants vs. AI Agents: - Hospitality Net",
+          "link": "https://www.hospitalitynet.org/opinion/4131677/ai-assistants-vs-ai-agents",
+          "snippet": "The article explains how AI agents differ from assistants by working independently to achieve goals, potentially giving smaller hotels competitive advantages over larger brands. **99% of people using AI today are still using it as an assistant, tapping into maybe 1% of what AI can actually do.** The",
+          "date": "Mon, 30 Mar 2026 08:38:09 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "stakpak/agent: Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+          "link": "https://github.com/stakpak/agent",
+          "snippet": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+          "date": "2026-03-30T18:58:29Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 1218,
+          "daily_stars_est": 3,
+          "forks": 127,
+          "language": "Rust",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "jd-opensource/JoySafeter: 🚀 JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration...",
+          "link": "https://github.com/jd-opensource/JoySafeter",
+          "snippet": "🚀 JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration...",
+          "date": "2026-03-30T10:54:20Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 232,
+          "daily_stars_est": 3,
+          "forks": 46,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "ythx-101/openclaw-qa: OpenClaw Q&A 社区 — AI Agent 记忆系统、多Agent架构、进化系统、具身AI | 龙虾茶馆 🦞",
+          "link": "https://github.com/ythx-101/openclaw-qa",
+          "snippet": "OpenClaw Q&A 社区 — AI Agent 记忆系统、多Agent架构、进化系统、具身AI | 龙虾茶馆 🦞",
+          "date": "2026-03-31T00:17:43Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 76,
+          "daily_stars_est": 2,
+          "forks": 6,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Alex8791-cyber/cognithor: Cognithor - Agent OS: Local-first autonomous agent operating system. 16 LLM providers, 17 channels, 112+ MCP tools, 5-tier memory, A2A protocol, knowledge vault, voice, browser automation, Computer-us",
+          "link": "https://github.com/Alex8791-cyber/cognithor",
+          "snippet": "Cognithor - Agent OS: Local-first autonomous agent operating system. 16 LLM providers, 17 channels, 112+ MCP tools, 5-tier memory, A2A protocol, knowledge vault, voice, browser automation, Computer-us",
+          "date": "2026-03-30T23:37:00Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 56,
+          "daily_stars_est": 2,
+          "forks": 8,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Atlantic Health to Deploy Artera’s AI Agents for Colonoscopy Patient Outreach - HIT Consultant",
+          "link": "https://hitconsultant.net/2026/03/30/atlantic-health-deploy-arteras-ai-agents-for-colonoscopy-patient-outreach/",
+          "snippet": "# Atlantic Health to Deploy Artera’s AI Agents for Colonoscopy Patient Outreach. * **The Partnership:** Atlantic Health, a not-for-profit health system spanning NJ, PA, and NY, has partnered with Artera to deploy outbound AI Agents for patient communication. * **Impact:** This initiative marks Atlan",
+          "date": "Mon, 30 Mar 2026 12:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Enterprise hits and misses - agentic AI project failure versus success, open source versus AI, and the perils of disconnected CX - diginomica",
+          "link": "https://diginomica.com/enterprise-hits-and-misses-agentic-ai-project-failure-versus-success-open-source-versus-ai-and",
+          "snippet": "# Enterprise hits and misses - agentic AI project failure versus success, open source versus AI, and the perils of disconnected CX. **Lead story -** **Getting real about agentic AI projects - what's working, and what's not?**. 4. **Layering agents onto bad processes, crappy data and custom code** - ",
+          "date": "Mon, 30 Mar 2026 17:15:08 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "AT&T Data Scientist Builds Autonomous AI Agents - Let's Data Science",
+          "link": "https://letsdatascience.com/news/att-data-scientist-builds-autonomous-ai-agents-b8d28968",
+          "snippet": "1,500+ Questions · 15 Domains · Unlimited Audio. # AT&T Data Scientist Builds Autonomous AI Agents. Natalie Gilbert, a 30-year-old data scientist at AT&T, describes using foundational speech-recognition research her father Mazin Gilbert helped pioneer to build AI agents and copilots. She says those ",
+          "date": "Sun, 29 Mar 2026 10:04:35 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "IAB Recognizes Future Video Outcomes From Agentic 03/31/2026 - MediaPost",
+          "link": "https://www.mediapost.com/publications/article/413943/iab-recognizes-future-video-outcomes-from-agentic.html",
+          "snippet": "# IAB Recognizes Future Video Outcomes From Agentic. a whitepaper exploring autonomous AI systems that have begun to reshape how video is planned, optimized, measured, and created. \"AI-Powered Video Outcomes: Agentic AI\" outlines the future. of performance and tools such as standardized measurement,",
+          "date": "Mon, 30 Mar 2026 19:42:57 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Humanoid completes live HMND PoC with SAP and Martur Fompak - The Robot Report",
+          "link": "https://www.therobotreport.com/humanoid-completes-live-hmnd-poc-sap-martur-fompak/",
+          "snippet": "The line between digital intelligence and physical labor has blurred as Humanoid, or HMND, and SAP successfully tested a live integration of agentic AI into industrial robotics. SAP and HMND, together with Martur Fompak, have demonstrated how software agents can direct tasks to an autonomous physica",
+          "date": "Mon, 30 Mar 2026 20:57:53 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "AI: The Cybersecurity Crisis That Vendors Love - Forbes",
+          "link": "https://www.forbes.com/sites/rscottraynovich/2026/03/30/ai-the-cybersecurity-crisis-that-vendors-love/",
+          "snippet": "Key themes at RSAC included implementing safe identity, governance, agentic AI security and supply-chain trust. Vin Sharma, cofounder and CEO of AI security company Vijil, told me that enterprises are struggling to ensure safe agentic operations: \"Enterprises have a pattern to getting close to adopt",
+          "date": "Mon, 30 Mar 2026 00:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Starling: How Can AI Assistants Help UK Financial Literacy? - fintechmagazine.com",
+          "link": "https://fintechmagazine.com/news/starling-how-can-ai-assistants-help-uk-financial-literacy",
+          "snippet": "# Starling: How Can AI Assistants Help UK Financial Literacy? Starling has announced the introduction of an agentic AI assistant designed to help customers develop financial literacy and manage day-to-day finances. In what the neobank claims is a “UK-first”, Starling has launched an agentic AI finan",
+          "date": "Mon, 30 Mar 2026 11:01:04 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        }
+      ]
+    },
+    "frontier-tech": {
+      "count": 42,
+      "articles": [
+        {
+          "title": "tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone",
+          "link": "https://github.com/tensorflow/tensorflow",
+          "snippet": "An Open Source Machine Learning Framework for Everyone",
+          "date": "2026-03-31T00:55:27Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 194394,
+          "daily_stars_est": 51,
+          "forks": 75254,
+          "language": "C++",
+          "quality_score": 10,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "huggingface/transformers: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "link": "https://github.com/huggingface/transformers",
+          "snippet": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "date": "2026-03-31T00:09:34Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 158565,
+          "daily_stars_est": 59,
+          "forks": 32688,
+          "language": "Python",
+          "quality_score": 10,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ultralytics/ultralytics: Ultralytics YOLO 🚀",
+          "link": "https://github.com/ultralytics/ultralytics",
+          "snippet": "Ultralytics YOLO 🚀",
+          "date": "2026-03-30T19:24:43Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 55215,
+          "daily_stars_est": 43,
+          "forks": 10620,
+          "language": "Python",
+          "quality_score": 9,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "roboflow/supervision: We write your reusable computer vision tools. 💜",
+          "link": "https://github.com/roboflow/supervision",
+          "snippet": "We write your reusable computer vision tools. 💜",
+          "date": "2026-03-30T23:51:35Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 36797,
+          "daily_stars_est": 30,
+          "forks": 3158,
+          "language": "Python",
+          "quality_score": 8,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "link": "https://github.com/pytorch/pytorch",
+          "snippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "date": "2026-03-31T00:49:14Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 98662,
+          "daily_stars_est": 28,
+          "forks": 27352,
+          "language": "Python",
+          "quality_score": 7,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "keras-team/keras: Deep Learning for humans",
+          "link": "https://github.com/keras-team/keras",
+          "snippet": "Deep Learning for humans",
+          "date": "2026-03-30T20:41:10Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 63921,
+          "daily_stars_est": 16,
+          "forks": 19745,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "deepfakes/faceswap: Deepfakes Software For All",
+          "link": "https://github.com/deepfakes/faceswap",
+          "snippet": "Deepfakes Software For All",
+          "date": "2026-03-30T23:41:22Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 55098,
+          "daily_stars_est": 18,
+          "forks": 13408,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "streamlit/streamlit: Streamlit — A faster way to build and share data apps.",
+          "link": "https://github.com/streamlit/streamlit",
+          "snippet": "Streamlit — A faster way to build and share data apps.",
+          "date": "2026-03-30T22:38:34Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 44064,
+          "daily_stars_est": 18,
+          "forks": 4177,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "gradio-app/gradio: Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+          "link": "https://github.com/gradio-app/gradio",
+          "snippet": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+          "date": "2026-03-30T21:46:52Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 42211,
+          "daily_stars_est": 16,
+          "forks": 3361,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "deepspeedai/DeepSpeed: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+          "link": "https://github.com/deepspeedai/DeepSpeed",
+          "snippet": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+          "date": "2026-03-30T20:07:25Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 41944,
+          "daily_stars_est": 19,
+          "forks": 4768,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ray-project/ray: Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+          "link": "https://github.com/ray-project/ray",
+          "snippet": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+          "date": "2026-03-31T00:50:42Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 41880,
+          "daily_stars_est": 12,
+          "forks": 7396,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Lightning-AI/pytorch-lightning: Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+          "link": "https://github.com/Lightning-AI/pytorch-lightning",
+          "snippet": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+          "date": "2026-03-30T11:56:39Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 30973,
+          "daily_stars_est": 12,
+          "forks": 3695,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Deepvein Mining Technology Unveils DeepSight Exploration, a Robotics-First System for End-to-End Mineral Exploration, in Silicon Valley - StreetInsider",
+          "link": "https://www.streetinsider.com/Globe+Newswire/Deepvein+Mining+Technology+Unveils+DeepSight+Exploration%2C+a+Robotics-First+System+for+End-to-End+Mineral+Exploration%2C+in+Silicon+Valley/26238445.html",
+          "snippet": "# Deepvein Mining Technology Unveils DeepSight Exploration, a Robotics-First System for End-to-End Mineral Exploration, in Silicon Valley. FREE Breaking News Alerts from StreetInsider.com! Silicon Valley, CA, March 30, 2026 (GLOBE NEWSWIRE) -- Deepvein Mining unveiled DeepSight Exploration, an integ",
+          "date": "Mon, 30 Mar 2026 14:02:06 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "lutzroeder/netron: Visualizer for neural network, deep learning and machine learning models",
+          "link": "https://github.com/lutzroeder/netron",
+          "snippet": "Visualizer for neural network, deep learning and machine learning models",
+          "date": "2026-03-31T00:37:13Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 32672,
+          "daily_stars_est": 6,
+          "forks": 3100,
+          "language": "JavaScript",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "academic/awesome-datascience: :memo: An awesome Data Science repository to learn and apply for real world problems.",
+          "link": "https://github.com/academic/awesome-datascience",
+          "snippet": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+          "date": "2026-03-30T07:31:21Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 28725,
+          "daily_stars_est": 7,
+          "forks": 6426,
+          "language": null,
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "PaddlePaddle/Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+          "link": "https://github.com/PaddlePaddle/Paddle",
+          "snippet": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+          "date": "2026-03-30T09:54:25Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 23793,
+          "daily_stars_est": 7,
+          "forks": 5978,
+          "language": "C++",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "picoclaw nightly",
+          "link": "https://github.com/sipeed/picoclaw/releases/tag/nightly",
+          "date": "2026-03-31T00:54:18+00:00",
+          "summary": "Nightly build for v0.2.4-nightly.20260331.4d348247 This is an automated build and may be unstable. Use with caution. Full Changelog: https://github.com/sipeed/picoclaw/compare/v0.2.4...main",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "github",
+          "source_name": "Sipeed PicoClaw",
+          "source_id": "picoclaw-github",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "AlphaGo Shapes Modern AI Reasoning Breakthroughs - Let's Data Science",
+          "link": "https://letsdatascience.com/news/alphago-shapes-modern-ai-reasoning-breakthroughs-0cc71dea",
+          "snippet": "# AlphaGo Shapes Modern AI Reasoning Breakthroughs. On March 30, 2026, the article marks the tenth anniversary of AlphaGo's 2016 4–1 victory over Lee Sedol and explains how DeepMind's dual-model, reinforcement-learning approach transformed AI research. It shows that AlphaGo’s self-play, evaluation l",
+          "date": "Mon, 30 Mar 2026 23:41:08 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "2026 ZGC Forum showcases how embodied intelligence is gaining new speed - Global Times",
+          "link": "https://www.globaltimes.cn/page/202603/1357810.shtml",
+          "snippet": "As China emphasizes embodied intelligence as one of the key future and emerging industries to receive more investment and opportunities in this year's Government Work Report, the accelerating pace of the embodied intelligence and robotics industries - from research labs to production lines - is expe",
+          "date": "Sun, 29 Mar 2026 14:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Nvidia’s Jensen Huang says ‘We’ve achieved AGI.’ But no one can agree on what AGI means. - fortune.com",
+          "link": "https://fortune.com/2026/03/30/agi-definition-jensen-huang-lex-fridman-deepmind-turing-text-cognitive-taxonomy/",
+          "snippet": "Few AI researchers agree with the definition of AGI that Fridman offered Huang, which was both more specific (a company worth $1 billion), but also more narrow than most AGI definitions (which tend to refer to matching a vast range of human cognitive skills, not all of which might be needed to build",
+          "date": "Mon, 30 Mar 2026 07:01:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Researchers say credential-stealing campaign used AI to build evasion ‘at every stage’ - CyberScoop",
+          "link": "https://cyberscoop.com/deepload-ai-malware-obfuscation-at-every-stage-reliaquest/",
+          "snippet": "In a report released Monday, ReliaQuest AI researchers Thassanai McCabe and Andrew Currie say the most relevant feature of this attack is the way it uses artificial intelligence and other engineering “to defeat the controls most organizations rely on, turning one user action into persistent, credent",
+          "date": "Mon, 30 Mar 2026 18:28:17 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Artificial Intelligence in Agriculture Market Size & Revenue to Reach USD 11.59 Billion by 2032, Growing at 21.5% CAGR, Reports Maximize Market Research - PR Newswire",
+          "link": "https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-size--revenue-to-reach-usd-11-59-billion-by-2032--growing-at-21-5-cagr-reports-maximize-market-research-302728696.html",
+          "snippet": "**Artificial Intelligence in Agriculture Market Overview 2025: Unleashing Smart Farming, Precision Agriculture, and AI-Driven Crop Innovation**. Artificial Intelligence in Agriculture Market is rapidly evolving as AI-powered farming solutions and precision agriculture technologies convert complex fi",
+          "date": "Mon, 30 Mar 2026 14:30:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The Janus frontier: One innovation, two destinies- opinion - The Jerusalem Post",
+          "link": "https://www.jpost.com/defense-and-tech/article-891604",
+          "snippet": "## One face is turned toward security, while the other is turned toward the global commercial frontier to drive economic growth and redefining civilian life. We have entered the era of dual-use technology, a paradigm shift that has rebranded defense tech from a government expense into the primary fo",
+          "date": "Mon, 30 Mar 2026 06:59:15 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Microsoft unveils AI upgrades, rolls out Copilot Cowork to early-access customers - Reuters",
+          "link": "https://www.reuters.com/business/microsoft-unveils-ai-upgrades-rolls-out-copilot-cowork-early-access-customers-2026-03-30/",
+          "snippet": "# Microsoft unveils AI upgrades, rolls out Copilot Cowork to early-access customers. March 30 (Reuters) - Microsoft (MSFT.O), opens new tab on Monday unveiled new features in its Copilot research assistant that would allow users to utilize multiple AI models ​simultaneously within the same workflow,",
+          "date": "Mon, 30 Mar 2026 13:05:43 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The Week In Technology, March 30-April 3, 2026 - Aviation Week",
+          "link": "https://aviationweek.com/aerospace/aircraft-propulsion/week-technology-march-30-april-3-2026",
+          "snippet": "* Aviation Week & Space Technology - Inside MRO. * CAPA Airline Leader Summit - Airlines in Transition. * CAPA Airline Leader Summit - Americas. * CAPA Airline Leader Summit - Latin America & Caribbean. * CAPA Airline Leader Summit - Australia Pacific. * CAPA Airline Leader Summit - Asia & Sustainab",
+          "date": "Sun, 29 Mar 2026 20:12:52 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "This quantum computing breakthrough may not be what it seemed - ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260328043600.htm",
+          "snippet": "A team of researchers led by Sergey Frolov, a physics professor at the University of Pittsburgh, along with collaborators from Minnesota and Grenoble, carried out a series of replication studies focused on topological effects in nanoscale superconducting and semiconducting devices. This area of rese",
+          "date": "Sun, 29 Mar 2026 13:26:19 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Quantum Computing’s Next Major Breakthroughs Could Come From Australia - Forbes",
+          "link": "https://www.forbes.com/sites/jonathanreichental/2026/03/29/quantum-computings-next-major-breakthroughs-could-come-from-australia/",
+          "snippet": "There may be continued debate in some circles as to when, if ever, quantum computing will become a viable enterprise solution, but it matters little to a growing number of providers who are already offering early commercial and pilot quantum solutions to a market exhibiting strong upward demand. For",
+          "date": "Sun, 29 Mar 2026 21:23:11 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "AI for investors - MLQ.ai",
+          "link": "https://mlq.ai/news/iqm-quantum-computers-raises-50m-from-blackrock-ahead-of-us-ipo/",
+          "snippet": "* IQM Quantum Computers secured €50 million ($57 million) financing from BlackRock-managed funds on March 30, 2026[2][3]. * IQM has sold 21 quantum systems to 13 customers, with 15 delivered[4]. IQM Quantum Computers, a Finnish developer of superconducting quantum systems, announced €50 million in f",
+          "date": "Mon, 30 Mar 2026 11:57:41 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Quantum Computing Built An Impossible Molecule — With Big Implications - Forbes",
+          "link": "https://www.forbes.com/sites/moorinsights/2026/03/30/quantum-computing-built-an-impossible-molecule---with-big-implications/",
+          "snippet": "A team of quantum scientists from IBM, the University of Manchester, Oxford University, ETH Zurich, EPFL and the University of Regensburg created and characterized a new molecule unlike any other — with a quirk in its shape that can be turned on and off to change how electrons corkscrew through it a",
+          "date": "Mon, 30 Mar 2026 00:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Quantum firms are racing to market as the industry hits ‘inflection point’ - cnbc.com",
+          "link": "https://www.cnbc.com/2026/03/30/quantum-computing-firms-go-public-breakthroughs-commercialization.html",
+          "snippet": "* Quantum firms go public despite volatile markets as recent breakthroughs pushed commercialization closer. Quantum computing firms are defying turbulent markets to go public this year, as companies seek to raise funds to capitalize on recent scientific breakthroughs and push the experimental techno",
+          "date": "Mon, 30 Mar 2026 09:35:02 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Light-Speed Listing: Xanadu Quantum’s $3.1B Nasdaq Debut Ignites a New Era for AI and Cybersecurity - The Chronicle-Journal",
+          "link": "http://markets.chroniclejournal.com/chroniclejournal/article/marketminute-2026-3-30-light-speed-listing-xanadu-quantums-31b-nasdaq-debut-ignites-a-new-era-for-ai-and-cybersecurity",
+          "snippet": "# Light-Speed Listing: Xanadu Quantum’s $3.1B Nasdaq Debut Ignites a New Era for AI and Cybersecurity. Marking a historic milestone as the world’s first public \"pure-play\" photonic quantum computing company, the Canadian-headquartered firm completed its business combination with Crane Harbor Acquisi",
+          "date": "Mon, 30 Mar 2026 14:04:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Untangling the challenges of quantum computing - Nature",
+          "link": "https://www.nature.com/articles/s41928-026-01607-2",
+          "snippet": "In an Article in this issue, Shu-Jen Han and colleagues report a quantum processor unit in which superconducting qubits and single-flux quantum control electronics are integrated into a single multi-chip module via flip-chip bonding. In a further Article this month, Jingjing Niu, Youpeng Zhong, Dape",
+          "date": "Mon, 30 Mar 2026 15:28:33 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Finnish quantum unicorn IQM lands €50M from BlackRock - The Next Web",
+          "link": "https://thenextweb.com/news/iqm-quantum-computers-blackrock-50m-financing",
+          "snippet": "*The Helsinki-based company, which builds and sells full-stack superconducting quantum computers for on-premises deployment, disclosed the financing today. IQM Quantum Computers has secured a €50 million financing package, approximately $57.6 million, from funds and accounts managed by BlackRock, th",
+          "date": "Mon, 30 Mar 2026 07:53:18 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "BlackRock funds provide about $57 million to IQM Quantum Computers ahead of US IPO - Reuters",
+          "link": "https://www.reuters.com/business/blackrock-funds-provide-about-57-million-iqm-quantum-computers-ahead-us-ipo-2026-03-30/",
+          "snippet": "HELSINKI, March 30 (Reuters) - IQM Quantum Computers has secured 50 million euros ($57.64 million) in venture financing from funds and accounts managed by ​BlackRock to accelerate its global growth, the Finnish company told ‌Reuters, ahead of its planned dual listing on the U.S. and Helsinki stock m",
+          "date": "Mon, 30 Mar 2026 05:33:46 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Self-harm and suicide attempts among South Korean youth surged 553% in a decade - 동아사이언스",
+          "link": "https://www.dongascience.com/en/news/77101",
+          "snippet": "### Eye drops derived from porcine semen halt rare retinal cancer growth### Middle East Conflict Halts Key Helium Plant, Threatening Chipmakers### Researchers Unveil Low-Power Monopixel Display With 16,900 PPI for AR/VR[### [Science in Covers] AI’s tendency to agree with users may impair social skil",
+          "date": "Mon, 30 Mar 2026 16:02:58 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Kardigan hypertension drug tangles biomarker win with blood pressure miss in phase 2 trial - Fierce Biotech",
+          "link": "https://www.fiercebiotech.com/biotech/kardigan-hypertension-drug-tangles-biomarker-win-blood-pressure-miss-phase-2-trial",
+          "snippet": "# Kardigan hypertension drug tangles biomarker win with blood pressure miss in phase 2 trial. Kardigan hypertension High blood pressure Clinical Data Biotech. Kardigan’s tonlamarsen reduced a key biomarker for hypertension in a phase 2 trial, but missed the study’s other goal of significantly reduci",
+          "date": "Mon, 30 Mar 2026 09:11:16 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Connect’s Dupixent challenger hits the mark in phase 3 eczema trial - Fierce Biotech",
+          "link": "https://www.fiercebiotech.com/biotech/connects-dupixent-challenger-hits-mark-phase-3-eczema-trial",
+          "snippet": "# Connect’s Dupixent challenger hits the mark in phase 3 eczema trial. Connect Biopharmaceuticals atopic dermatitis eczema asthma chronic obstructive pulmonary disease (COPD) Dupixent Clinical Data Biotech. Connect Biopharma has reported 52-week improvements across multiple endpoints in a phase 3 tr",
+          "date": "Mon, 30 Mar 2026 13:32:16 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Kailera plots IPO to fund obesity pipeline after one of the biggest raises of 2025 - Fierce Biotech",
+          "link": "https://www.fiercebiotech.com/biotech/kailera-plots-ipo-fund-obesity-pipeline-after-one-biggest-raises-2025",
+          "snippet": "# Kailera plots IPO to fund obesity pipeline after one of the biggest raises of 2025. Kailera Therapeutics IPO biotech IPO Obesity weight loss Biotech. Hengrui tied the drug to mean weight loss of almost 18% at 48 weeks in a late-stage trial in China last year. But the biotech acknowledged in Friday",
+          "date": "Mon, 30 Mar 2026 07:45:13 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "uBriGene and Cellinfinity BIO Announce Strategic Partnership to Advance In Vivo CAR-T Therapies - digitaljournal.com",
+          "link": "https://www.digitaljournal.com/pr/news/access-newswire/ubrigene-cellinfinity-bio-announce-strategic-1460779800.html",
+          "snippet": "**GERMANTOWN, MD / ACCESS Newswire / March 30, 2026 /** **uBriGene Biosciences**, a leading global CDMO specializing in lentiviral vector manufacturing and Advanced Therapy Medicinal Product (ATMP) development, today announced a strategic partnership with **Cellinfinity BIO**, a biotechnology compan",
+          "date": "Mon, 30 Mar 2026 11:52:58 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Massively parallel promoter mapping identifies edits to boost sorghum gene expression - nature.com",
+          "link": "https://www.nature.com/articles/s41587-026-03060-0",
+          "snippet": "# Massively parallel promoter mapping identifies edits to boost sorghum gene expression. *Nature Biotechnology* (2026)Cite this article. Non-transgenic crop improvement via *cis*-regulatory editing is limited by rare activating alleles and incomplete promoter maps. A massively parallel reporter assa",
+          "date": "Mon, 30 Mar 2026 16:53:04 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "CiRA to supply stem cells from 3 donors for Matricelf scale-up study - Stock Titan",
+          "link": "https://www.stocktitan.net/news/MTRLF/matricelf-enters-strategic-collaboration-with-japan-s-ci-ra-3vq1jg4o51bf.html",
+          "snippet": "**Matricelf (OTC:MTRLF)** entered a Collaborative Research Agreement with Japan's CiRA Foundation on March 30, 2026 to evaluate advanced manufacturing for engineered neural tissues. CiRA will supply **iPSCs from 3 healthy donors**; Matricelf will test integration with its hydrogel platform and asses",
+          "date": "Mon, 30 Mar 2026 11:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Centivax Closes $37 Million Financing to Accelerate Phase 2 Clinical Development of Universal Flu and Advance Follow-On Portfolio to Clinical Readiness - BioSpace",
+          "link": "https://www.biospace.com/press-releases/centivax-closes-37-million-financing-to-accelerate-phase-2-clinical-development-of-universal-flu-and-advance-follow-on-portfolio-to-clinical-readiness",
+          "snippet": "# Centivax Closes $37 Million Financing to Accelerate Phase 2 Clinical Development of Universal Flu and Advance Follow-On Portfolio to Clinical Readiness. SOUTH SAN FRANCISCO, Calif., March 30, 2026 /PRNewswire/ -- Centivax, Inc., a clinical-stage biotechnology company engineering vaccines and thera",
+          "date": "Mon, 30 Mar 2026 14:18:46 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        }
+      ]
+    },
+    "llm": {
+      "count": 21,
+      "articles": [
+        {
+          "title": "sgl-project/sglang: SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "link": "https://github.com/sgl-project/sglang",
+          "snippet": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "date": "2026-03-31T00:55:37Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 25245,
+          "daily_stars_est": 31,
+          "forks": 5066,
+          "language": "Python",
+          "quality_score": 8,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "yamadashy/repomix: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C",
+          "link": "https://github.com/yamadashy/repomix",
+          "snippet": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C",
+          "date": "2026-03-31T00:34:11Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 22729,
+          "daily_stars_est": 36,
+          "forks": 1059,
+          "language": "TypeScript",
+          "quality_score": 8,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "NVIDIA/TensorRT-LLM: TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT ",
+          "link": "https://github.com/NVIDIA/TensorRT-LLM",
+          "snippet": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT ",
+          "date": "2026-03-30T17:05:53Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 13223,
+          "daily_stars_est": 14,
+          "forks": 2227,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "thu-pacman/chitu: High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+          "link": "https://github.com/thu-pacman/chitu",
+          "snippet": "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+          "date": "2026-03-30T00:22:08Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 4216,
+          "daily_stars_est": 10,
+          "forks": 452,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Opinion | Whatever Your Chatbot Is Saying, It Isn’t Therapy - The New York Times",
+          "link": "https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html",
+          "snippet": "As the use of large language models like ChatGPT, Claude and Gemini has surged, we’ve heard about chatbots strengthening delusions through flattery and amplifying people’s worst thoughts, in some cases pushing them toward suicide. Much more common, and still problematic, is A.I. chatbots’ comforting",
+          "date": "Sun, 29 Mar 2026 13:00:03 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "bitsandbytes-foundation/bitsandbytes: Accessible large language models via k-bit quantization for PyTorch.",
+          "link": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+          "snippet": "Accessible large language models via k-bit quantization for PyTorch.",
+          "date": "2026-03-31T00:28:56Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 8085,
+          "daily_stars_est": 5,
+          "forks": 842,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "open-compass/opencompass: OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
+          "link": "https://github.com/open-compass/opencompass",
+          "snippet": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
+          "date": "2026-03-30T07:26:47Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 6811,
+          "daily_stars_est": 7,
+          "forks": 752,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ModelTC/LightLLM: LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+          "link": "https://github.com/ModelTC/LightLLM",
+          "snippet": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+          "date": "2026-03-30T13:34:47Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 3980,
+          "daily_stars_est": 4,
+          "forks": 313,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "stanford-crfm/helm: Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent e",
+          "link": "https://github.com/stanford-crfm/helm",
+          "snippet": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent e",
+          "date": "2026-03-31T00:51:47Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 2725,
+          "daily_stars_est": 2,
+          "forks": 370,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "AkaliKong/MiniOneRec: Minimal reproduction of OneRec",
+          "link": "https://github.com/AkaliKong/MiniOneRec",
+          "snippet": "Minimal reproduction of OneRec",
+          "date": "2026-03-30T13:01:45Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 1354,
+          "daily_stars_est": 8,
+          "forks": 186,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "trpc-group/trpc-agent-go: trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+          "link": "https://github.com/trpc-group/trpc-agent-go",
+          "snippet": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+          "date": "2026-03-30T13:15:20Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 1047,
+          "daily_stars_est": 3,
+          "forks": 115,
+          "language": "Go",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "sdcb/chats: A powerful and flexible frontend & AI gateway for large language models, supporting 21+ mainstream AI model providers.",
+          "link": "https://github.com/sdcb/chats",
+          "snippet": "A powerful and flexible frontend & AI gateway for large language models, supporting 21+ mainstream AI model providers.",
+          "date": "2026-03-30T13:20:43Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 562,
+          "daily_stars_est": 1,
+          "forks": 95,
+          "language": "C#",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "smkalami/prompt-decorators: Prompt Decorators are structured prefixes, such as +++Reasoning and +++StepByStep, designed to enhance AI responses. Inspired by Python decorators, they make AI outputs more logical, accurate, and wel",
+          "link": "https://github.com/smkalami/prompt-decorators",
+          "snippet": "Prompt Decorators are structured prefixes, such as +++Reasoning and +++StepByStep, designed to enhance AI responses. Inspired by Python decorators, they make AI outputs more logical, accurate, and wel",
+          "date": "2026-03-30T15:07:02Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 462,
+          "daily_stars_est": 1,
+          "forks": 55,
+          "language": null,
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "FeiLiu36/LLM4AlgorithmDesign: A Collection on Large Language Models for Optimization",
+          "link": "https://github.com/FeiLiu36/LLM4AlgorithmDesign",
+          "snippet": "A Collection on Large Language Models for Optimization",
+          "date": "2026-03-30T13:21:14Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 356,
+          "daily_stars_est": 0,
+          "forks": 40,
+          "language": null,
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Yuliang-Liu/AWESOME-OCR-LLM: OCR in the Era of Large Language Models",
+          "link": "https://github.com/Yuliang-Liu/AWESOME-OCR-LLM",
+          "snippet": "OCR in the Era of Large Language Models",
+          "date": "2026-03-30T08:16:51Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 330,
+          "daily_stars_est": 7,
+          "forks": 6,
+          "language": null,
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "eleiton/ollama-intel-arc: Make use of Intel Arc Series GPU to Run Ollama, StableDiffusion, Whisper and Open WebUI, for image generation, speech recognition and interaction with Large Language Models (LLM).",
+          "link": "https://github.com/eleiton/ollama-intel-arc",
+          "snippet": "Make use of Intel Arc Series GPU to Run Ollama, StableDiffusion, Whisper and Open WebUI, for image generation, speech recognition and interaction with Large Language Models (LLM).",
+          "date": "2026-03-30T22:43:12Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 290,
+          "daily_stars_est": 1,
+          "forks": 32,
+          "language": "Dockerfile",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Mistral raises $830m to fund Nvidia spending spree - Telecoms",
+          "link": "https://www.telecoms.com/ai/mistral-raises-830m-to-fund-nvidia-spending-spree",
+          "snippet": "French LLM maker Mistral has successfully completed its first debt financing round, which will fund its ongoing AI infrastructure rollout. A consortium comprising no fewer than seven large banks were only too willing to pony up $830 million in total so Mistral can buy 13,800 Nvidia GPUs. These will ",
+          "date": "Mon, 30 Mar 2026 16:09:29 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control - SecurityWeek",
+          "link": "https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/",
+          "snippet": "**Business efficiency demands maximum use of AI assistance, but where policy as code is concerned, AI can to introduce serious policy flaws.**. Developers are using them to generate infrastructure code, security rules, and now even access control policies,” he says. “Instead of writing policy logic ",
+          "date": "Mon, 30 Mar 2026 14:15:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Leak reveals Anthropic’s ‘Mythos,’ a powerful AI model aimed at cybersecurity use cases - csoonline.com",
+          "link": "https://www.csoonline.com/article/4151801/leak-reveals-anthropics-mythos-a-powerful-ai-model-aimed-at-cybersecurity-use-cases.html",
+          "snippet": "# Leak reveals Anthropic’s ‘Mythos,’ a powerful AI model aimed at cybersecurity use cases. The data leak, which was the result of the company’s staffers inadvertently exposing material about the LLM, including a draft blog post about it, via a publicly accessible data repository, was first identifie",
+          "date": "Mon, 30 Mar 2026 00:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "AI Agent Runs the ‘I’m Being Censored’ Playbook After Getting Banned from Wikipedia - Gizmodo",
+          "link": "https://gizmodo.com/ai-agent-runs-the-im-being-censored-playbook-after-getting-banned-from-wikipedia-2000739845",
+          "snippet": "Earlier this month, Wikipedia announced that it would ban the use of large language model-generated text from its platform, which means that AI cannot be used to create or edit Wikipedia entries. TomWikiAssist was first identified as an AI agent in early March, prior to Wikipedia adopting its strict",
+          "date": "Mon, 30 Mar 2026 19:45:08 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "The Pentagon-Anthropic dispute is a test of control - Financial Times",
+          "link": "https://www.ft.com/content/35e58efe-8601-4c33-af91-007659b679cc",
+          "snippet": "Trump administration officials sought to renegotiate the terms of the Pentagon’s contract to use Anthropic’s Claude — the only large language model certified for use in classified US military contexts — not because they intended to violate the company’s red line on lethal autonomous weapons and mass",
+          "date": "Sun, 29 Mar 2026 04:00:19 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        }
+      ]
+    },
+    "crypto": {
+      "count": 16,
+      "articles": [
+        {
+          "title": "This Week in Crypto Law (Mar. 22, 2026) - Bitcoin.com News",
+          "link": "https://news.bitcoin.com/this-week-in-crypto-law-mar-22-2026/",
+          "snippet": "***Law and Ledger*** **is a news segment focusing on crypto legal news, brought to you by** **Kelman Law** **– A law firm foc****used on digital asset commerce.**. ## This Week in Crypto Law. ##### The opinion editorial below was written by Alex Forehand and Michael Handelsman for Kelman.Law. This w",
+          "date": "Sun, 29 Mar 2026 05:30:40 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto News of Last 24 Hours: Pepeto Crosses $8.47M While Bitcoin Price Targets $200K and Trump Family $1.2B Profits Reveal Where Insiders Are Moving - markets.businessinsider.com",
+          "link": "https://markets.businessinsider.com/news/stocks/crypto-news-of-last-24-hours-pepeto-crosses-8-47m-while-bitcoin-price-targets-200k-and-trump-family-1-2b-profits-reveal-where-insiders-are-moving-1035973823",
+          "snippet": "# Crypto News of Last 24 Hours: Pepeto Crosses $8.47M While Bitcoin Price Targets $200K and Trump Family $1.2B Profits Reveal Where Insiders Are Moving. This article breaks down exactly how the Trump family extracted billions while the market panicked, where the Bitcoin price is heading from here, a",
+          "date": "Sun, 29 Mar 2026 01:22:53 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Ex-Blackstone staffers raise $25 million for startup Valinor, which aims to put private credit on the blockchain - Fortune",
+          "link": "https://fortune.com/2026/03/30/valinor-seed-round-25-million-crypto-private-credit-blackstone-staffers/",
+          "snippet": "# Ex-Blackstone staffers raise $25 million for startup Valinor, which aims to put private credit on the blockchain. The startup Valinor aims to change this, and, on Monday, the company announced that it’s raised $25 million to put private credit on the blockchain. “I think what these guys are doing ",
+          "date": "Mon, 30 Mar 2026 12:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto News Today: Pepeto Project News While Bull Run Signals Align and Dogecoin SEC Commodity Ruling Opens the Door for What Comes Next - markets.businessinsider.com",
+          "link": "https://markets.businessinsider.com/news/stocks/crypto-news-today-pepeto-project-news-while-bull-run-signals-align-and-dogecoin-sec-commodity-ruling-opens-the-door-for-what-comes-next-1035973827",
+          "snippet": "# Crypto News Today: Pepeto Project News While Bull Run Signals Align and Dogecoin SEC Commodity Ruling Opens the Door for What Comes Next. The bull run setup forming right now mirrors every condition that created DOGE millionaires, and seasoned traders are drawing direct parallels between Pepeto at",
+          "date": "Sun, 29 Mar 2026 01:25:18 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Eric Trump's Bitcoin Mining Company Crosses 7,000 BTC Reserve in 2026 - Bitcoin.com News",
+          "link": "https://news.bitcoin.com/eric-trumps-bitcoin-mining-company-crosses-7000-btc-reserve-in-2026/",
+          "snippet": "# Eric Trump's Bitcoin Mining Company Crosses 7,000 BTC Reserve in 2026. crossed 7,000 BTC in its corporate treasury on Sunday, placing the Miami-based miner at No. 16 among publicly traded companies holding bitcoin globally.**. ABTC also reported a $59 million net loss in Q4 2025, driven by a $227 ",
+          "date": "Mon, 30 Mar 2026 20:30:32 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto wealth management moves upmarket as institutional money deepens; Nexo says private unit grew 136% - KITCO",
+          "link": "https://www.kitco.com/news/article/2026-03-29/crypto-wealth-management-moves-upmarket-institutional-money-deepens-nexo",
+          "snippet": "### cryptocurrencies. ### bitcoin. # Crypto wealth management moves upmarket as institutional money deepens; Nexo says private unit grew 136%. ###### By Kitco News. ### Kitco News. ### Tags:. ### Share. Disclaimer: The views expressed in this article are those of the author and may not reflect those",
+          "date": "Sun, 29 Mar 2026 14:14:44 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Proposed GOP Bill Targets Foreign Crypto Mining Hardware - Bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-30/proposed-gop-bill-targets-foreign-crypto-mining-hardware",
+          "snippet": "# Proposed GOP Bill Targets Foreign Crypto Mining Hardware. Provide news feedback or report an error. Send a tip to our reporters. Republican senators on Monday unveiled a bill to stop US crypto mining companies from using equipment tied to China and other foreign adversaries. The legislation, led b",
+          "date": "Mon, 30 Mar 2026 22:22:53 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitcoin Everlight Opens Phase 3 as Stablecoin Adoption Expands Access to Blockchain Participation - markets.businessinsider.com",
+          "link": "https://markets.businessinsider.com/news/stocks/bitcoin-everlight-opens-phase-3-as-stablecoin-adoption-expands-access-to-blockchain-participation-1035974180",
+          "snippet": "# Bitcoin Everlight Opens Phase 3 as Stablecoin Adoption Expands Access to Blockchain Participation. *Bitcoin Everlight opens Phase 3 presale as stablecoin adoption draws broader retail attention to digital asset participation*. SAN FRANCISCO, March 29, 2026 (GLOBE NEWSWIRE) -- Bitcoin Everlight, a ",
+          "date": "Sun, 29 Mar 2026 20:33:03 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Non-Dollar Stablecoins Hit $1.2 Billion As Currencies Go On-Chain - Forbes",
+          "link": "https://www.forbes.com/sites/boazsobrado/2026/03/30/non-dollar-stablecoins-hit-12-billion-as-local-currencies-go-on-chain/",
+          "snippet": "# Non-Dollar Stablecoins Hit $1.2 Billion As Currencies Go On-Chain. The total stablecoin market hit a record $313 billion in March 2026, according to DefiLlama, and nearly all of it is denominated in dollars. In Europe, monthly euro stablecoin volume surged from $383 million to $3.83 billion in the",
+          "date": "Mon, 30 Mar 2026 00:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "lifinance/contracts: LI.FI Smart Contracts",
+          "link": "https://github.com/lifinance/contracts",
+          "snippet": "LI.FI Smart Contracts",
+          "date": "2026-03-30T22:29:53Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "crypto"
+          ],
+          "stars": 199,
+          "daily_stars_est": 0,
+          "forks": 96,
+          "language": "Solidity",
+          "quality_score": 5,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "xlnfinance/xln: 0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped risk, local state, sovereign exits.",
+          "link": "https://github.com/xlnfinance/xln",
+          "snippet": "0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped risk, local state, sovereign exits.",
+          "date": "2026-03-31T00:08:47Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "crypto"
+          ],
+          "stars": 101,
+          "daily_stars_est": 0,
+          "forks": 22,
+          "language": "TypeScript",
+          "quality_score": 5,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "American Bitcoin: BTC holdings have surpassed 7,000 coins, nearly tripling since listing - 深潮TechFlow",
+          "link": "https://www.techflowpost.com/en-US/newsletter/118410",
+          "snippet": "TechFlow reports that on March 30, American Bitcoin (Nasdaq: ABTC), a Bitcoin mining company backed by the Trump family, announced its BTC reserve data, revealing that its current holdings have surpassed 7,000 BTC. The company stated that since its Nasdaq listing, its BTC reserves have grown approxi",
+          "date": "Mon, 30 Mar 2026 11:50:36 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto Giant Bitmain Faces Scrutiny As US Senator Flags Trump Family Ties - Bitcoinist.com",
+          "link": "https://bitcoinist.com/crypto-giant-bitmain-faces-scrutiny-as-us-senator-flags-trump-family-ties/",
+          "snippet": "# Crypto Giant Bitmain Faces Scrutiny As US Senator Flags Trump Family Ties. Senator Elizabeth Warren wrote to Commerce Secretary Howard Lutnick Thursday, asking for internal documents and communications tied to Bitmain Technologies, the Beijing-based company that makes a dominant share of the world",
+          "date": "Sun, 29 Mar 2026 10:00:37 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Over 12 tons of KitKat bars were stolen and traders are betting on it - thestreet.com",
+          "link": "https://www.thestreet.com/crypto/markets/over-12-tons-of-kitkat-bars-were-stolen",
+          "snippet": "# Over 12 tons of KitKat bars were stolen and traders are betting on it - TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more. # Over 12 tons of KitKat bars were stolen and traders are betting on it. Swiss food giant Nestlé said roughly 12 tons of KitKat bars disappeared aft",
+          "date": "Sun, 29 Mar 2026 23:07:49 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Top Bitcoin Stocks To Watch Now - March 29th - MarketBeat",
+          "link": "https://www.marketbeat.com/instant-alerts/top-bitcoin-stocks-to-watch-now-march-29th-2026-03-29/",
+          "snippet": "# Top Bitcoin Stocks To Watch Now - March 29th | MarketBeat. Image 7: MarketBeat - Stock Market News and Research Tools. *   Image 17: CrowdStrike logo over digital network background, highlighting tech sector alongside broader market volatility impacting energy stocks.Autonomous Security and the Ne",
+          "date": "Sun, 29 Mar 2026 17:06:25 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Progressive Funders Need to Reassess the Breakthrough Institute - CleanTechnica",
+          "link": "https://cleantechnica.com/2026/03/29/progressive-funders-need-to-reassess-the-breakthrough-institute/",
+          "snippet": "# Progressive Funders Need to Reassess the Breakthrough Institute. The question is whether Breakthrough is still acting like a heterodox but constructive climate and energy think tank, or whether it has drifted into becoming a small, donor-sheltered platform defined more by antagonism than by proble",
+          "date": "Sun, 29 Mar 2026 19:42:57 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        }
+      ]
+    }
+  }
+}
