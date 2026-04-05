@@ -1,0 +1,1501 @@
+{
+  "generated": "2026-04-05T00:56:14.787125+00:00",
+  "input_sources": {
+    "rss_articles": 43,
+    "twitter_articles": 0,
+    "web_articles": 43,
+    "github_articles": 9,
+    "github_trending": 38,
+    "reddit_posts": 0,
+    "total_input": 90
+  },
+  "processing": {
+    "deduplication_applied": true,
+    "multi_source_merging": true,
+    "previous_digest_penalty": false,
+    "quality_scoring": true
+  },
+  "output_stats": {
+    "total_articles": 72,
+    "topics_count": 4,
+    "topic_distribution": {
+      "frontier-tech": 22,
+      "ai-agent": 18,
+      "llm": 20,
+      "crypto": 12
+    }
+  },
+  "topics": {
+    "frontier-tech": {
+      "count": 22,
+      "articles": [
+        {
+          "title": "rasbt/LLMs-from-scratch: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "link": "https://github.com/rasbt/LLMs-from-scratch",
+          "snippet": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "date": "2026-04-04T17:31:45Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 89973,
+          "daily_stars_est": 91,
+          "forks": 13763,
+          "language": "Jupyter Notebook",
+          "quality_score": 14,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone",
+          "link": "https://github.com/tensorflow/tensorflow",
+          "snippet": "An Open Source Machine Learning Framework for Everyone",
+          "date": "2026-04-04T23:37:19Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 194459,
+          "daily_stars_est": 51,
+          "forks": 75260,
+          "language": "C++",
+          "quality_score": 10,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "huggingface/transformers: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "link": "https://github.com/huggingface/transformers",
+          "snippet": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "date": "2026-04-04T18:51:51Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 158806,
+          "daily_stars_est": 59,
+          "forks": 32730,
+          "language": "Python",
+          "quality_score": 10,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ultralytics/ultralytics: Ultralytics YOLO 🚀",
+          "link": "https://github.com/ultralytics/ultralytics",
+          "snippet": "Ultralytics YOLO 🚀",
+          "date": "2026-04-04T15:20:30Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 55408,
+          "daily_stars_est": 43,
+          "forks": 10665,
+          "language": "Python",
+          "quality_score": 9,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "link": "https://github.com/pytorch/pytorch",
+          "snippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "date": "2026-04-05T00:52:52Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 98800,
+          "daily_stars_est": 28,
+          "forks": 27400,
+          "language": "Python",
+          "quality_score": 7,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "harvard-edge/cs249r_book: Machine Learning Systems",
+          "link": "https://github.com/harvard-edge/cs249r_book",
+          "snippet": "Machine Learning Systems",
+          "date": "2026-04-04T06:26:05Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 23361,
+          "daily_stars_est": 25,
+          "forks": 2794,
+          "language": "JavaScript",
+          "quality_score": 7,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "keras-team/keras: Deep Learning for humans",
+          "link": "https://github.com/keras-team/keras",
+          "snippet": "Deep Learning for humans",
+          "date": "2026-04-04T01:39:30Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 63927,
+          "daily_stars_est": 16,
+          "forks": 19744,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "streamlit/streamlit: Streamlit — A faster way to build and share data apps.",
+          "link": "https://github.com/streamlit/streamlit",
+          "snippet": "Streamlit — A faster way to build and share data apps.",
+          "date": "2026-04-04T17:25:39Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 44117,
+          "daily_stars_est": 18,
+          "forks": 4181,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "gradio-app/gradio: Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+          "link": "https://github.com/gradio-app/gradio",
+          "snippet": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+          "date": "2026-04-04T01:07:11Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 42254,
+          "daily_stars_est": 16,
+          "forks": 3369,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ray-project/ray: Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+          "link": "https://github.com/ray-project/ray",
+          "snippet": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+          "date": "2026-04-05T00:14:36Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 41947,
+          "daily_stars_est": 12,
+          "forks": 7405,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Lightning-AI/pytorch-lightning: Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+          "link": "https://github.com/Lightning-AI/pytorch-lightning",
+          "snippet": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+          "date": "2026-04-04T22:32:11Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 30990,
+          "daily_stars_est": 12,
+          "forks": 3699,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "lutzroeder/netron: Visualizer for neural network, deep learning and machine learning models",
+          "link": "https://github.com/lutzroeder/netron",
+          "snippet": "Visualizer for neural network, deep learning and machine learning models",
+          "date": "2026-04-04T16:59:33Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 32691,
+          "daily_stars_est": 6,
+          "forks": 3097,
+          "language": "JavaScript",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "academic/awesome-datascience: :memo: An awesome Data Science repository to learn and apply for real world problems.",
+          "link": "https://github.com/academic/awesome-datascience",
+          "snippet": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+          "date": "2026-04-04T07:30:02Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 28766,
+          "daily_stars_est": 7,
+          "forks": 6442,
+          "language": null,
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "PaddlePaddle/Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+          "link": "https://github.com/PaddlePaddle/Paddle",
+          "snippet": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+          "date": "2026-04-05T00:41:42Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 23804,
+          "daily_stars_est": 7,
+          "forks": 5982,
+          "language": "C++",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "onnx/onnx: Open standard for machine learning interoperability",
+          "link": "https://github.com/onnx/onnx",
+          "snippet": "Open standard for machine learning interoperability",
+          "date": "2026-04-04T08:53:58Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 20586,
+          "daily_stars_est": 7,
+          "forks": 3914,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "What Is Hermes Agent? Nous Research's Self-Improving AI Explained - Bitcoin.com News",
+          "link": "https://news.bitcoin.com/what-is-hermes-agent-nous-researchs-self-improving-ai-explained/",
+          "snippet": "**Nous Research’s Hermes Agent has cracked the one flaw Openclaw users complain about most: the artificial intelligence (AI) that forgets you exist by morning.**. ## Nous Research Hermes Agent: Open-Source AI With Built-In Self-Improvement Loop. * **What is Hermes Agent?** Hermes Agent is a free, MI",
+          "date": "Sat, 04 Apr 2026 05:30:50 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Extracting value from precision agriculture technology is difficult - kpcnews.com",
+          "link": "https://www.kpcnews.com/article_288b1d8f-0455-4eb9-9795-e8aa19823e26.html",
+          "snippet": "WEST LAFAYETTE — Precision agriculture technology (tools like automated guidance, yield monitors, grid soil sampling, section control, and variable rate application) is widely seen as a path toward more efficient, more profitable farming. On average, precision agriculture technology does not broadly",
+          "date": "Sat, 04 Apr 2026 04:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "I Saw the Future of Tech Art in Philly - CNET",
+          "link": "https://www.cnet.com/videos/i-saw-the-future-of-tech-art-in-philly/",
+          "snippet": "I Saw the Future of Tech Art in Philly. # I Saw the Future of Tech Art in Philly. Hear from the founders of Spatial Pixel, who explain what inspires them to combine AI with this physical art experience. These Quantum Computers Won't Work Unless They're Colder Than Space. ### These Quantum Computers ",
+          "date": "Sat, 04 Apr 2026 12:00:44 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Nvidia’s $2 billion Marvell bet is not an investment. It is a toll booth. - The Next Web",
+          "link": "https://thenextweb.com/news/nvidia-marvell-nvlink-fusion-ecosystem-lock-in",
+          "snippet": "*Nvidia has invested $2 billion in Marvell Technology and folded the chipmaker into its NVLink Fusion ecosystem, creating a partnership that covers custom AI accelerators, silicon photonics, and 5G/6G infrastructure. Nvidia announced on Monday that it has invested $2 billion in Marvell Technology an",
+          "date": "Sat, 04 Apr 2026 13:14:58 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Scientists create “smart” DNA drug that targets cancer cells with extreme precision - ScienceDaily",
+          "link": "http://www.sciencedaily.com/releases/2026/04/260402042744.htm",
+          "snippet": "# Scientists create “smart” DNA drug that targets cancer cells with extreme precision. ## Researchers have built a “smart” DNA drug that acts like a mini computer—targeting cancer with pinpoint precision while sparing healthy cells. Researchers at the University of Geneva (UNIGE) have now developed ",
+          "date": "Sat, 04 Apr 2026 02:31:24 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "picoclaw nightly",
+          "link": "https://github.com/sipeed/picoclaw/releases/tag/nightly",
+          "date": "2026-04-04T00:52:25+00:00",
+          "summary": "Nightly build for v0.2.5-nightly.20260404.84e42d69 This is an automated build and may be unstable. Use with caution. Full Changelog: https://github.com/sipeed/picoclaw/compare/v0.2.5...main",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "github",
+          "source_name": "Sipeed PicoClaw",
+          "source_id": "picoclaw-github",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "picoclaw v0.2.5",
+          "link": "https://github.com/sipeed/picoclaw/releases/tag/v0.2.5",
+          "date": "2026-04-03T08:02:04+00:00",
+          "summary": "Changelog 849e37cf79bfbda9a17c52e3444828bc89cac39c Load zoneinfo from TZ and ZONEINFO env (#2279) 26fa98c359a2411b418efcb272bfb0350baa1a7c Align rendering with Matrix' CommonMark guidelines...",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "github",
+          "source_name": "Sipeed PicoClaw",
+          "source_id": "picoclaw-github",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        }
+      ]
+    },
+    "ai-agent": {
+      "count": 18,
+      "articles": [
+        {
+          "title": "CherryHQ/cherry-studio: AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+          "link": "https://github.com/CherryHQ/cherry-studio",
+          "snippet": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+          "date": "2026-04-04T19:26:50Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 42913,
+          "daily_stars_est": 63,
+          "forks": 4020,
+          "language": "TypeScript",
+          "quality_score": 11,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "tang-vu/ContribAI: Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs",
+          "link": "https://github.com/tang-vu/ContribAI",
+          "snippet": "Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs",
+          "date": "2026-04-04T19:29:45Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 209,
+          "daily_stars_est": 12,
+          "forks": 80,
+          "language": "Rust",
+          "quality_score": 6,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Small Business Technology News: Salesforce Rolls Out A Major AI Upgrade For Slack - Forbes",
+          "link": "https://www.forbes.com/sites/quickerbettertech/2026/04/04/small-business-technology-news-salesforce-rolls-out-a-major-ai-upgrade-for-slack/",
+          "snippet": "# Small Business Technology News: Salesforce Rolls Out A Major AI Upgrade For Slack. Image 12: Small Businesses Are Drowning In AI Slop. Image 15: Small Business Technology News: Claude Can Now Control Your Computer. Image 16: 10 AI Agents For Small Business That Give Immediate Relief. Mar 27, 2026,",
+          "date": "Sat, 04 Apr 2026 11:30:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Generali Hong Kong Automates Health Claims with CoverGo’s AI Agent - The Fintech Times",
+          "link": "https://thefintechtimes.com/?p=132325",
+          "snippet": "# Generali Hong Kong Automates Health Claims with CoverGo’s AI Agent. #### ***Generali Hong Kong** has partnered with global insurtech platform **CoverGo** to deploy a new Intelligent Document Processing (IDP) AI Agent. The technological deployment is designed to heavily automate the insurer’s healt",
+          "date": "Sat, 04 Apr 2026 02:00:51 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "AI Agents Are Multiplying Faster Than Humans Can Manage Them - Forbes",
+          "link": "https://www.forbes.com/sites/josipamajic/2026/04/04/ai-agents-are-multiplying-faster-than-humans-can-manage-them/",
+          "snippet": "# AI Agents Are Multiplying Faster Than Humans Can Manage Them. Create your free account to receive personalized offers to your inbox, save articles and follow authors to get their latest stories in a weekly email roundup just for you! # AI Agents Are Multiplying Faster Than Humans Can Manage Them. ",
+          "date": "Sat, 04 Apr 2026 20:16:49 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Anthropic says Claude subscriptions will no longer support OpenClaw because it puts an 'outsized strain' on systems - Business Insider Africa",
+          "link": "https://africa.businessinsider.com/news/anthropic-says-claude-subscriptions-will-no-longer-support-openclaw-because-it-puts/ce49m6q",
+          "snippet": "# Anthropic says Claude subscriptions will no longer support OpenClaw because it puts an 'outsized strain' on systems. Anthropic is cutting off support for the popular AI agent platform OpenClaw from Claude subscriptions, as it grapples with soaring demand for its chatbot. * Claude users have been u",
+          "date": "Sat, 04 Apr 2026 02:25:29 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "grinev/opencode-telegram-bot: OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alterna",
+          "link": "https://github.com/grinev/opencode-telegram-bot",
+          "snippet": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alterna",
+          "date": "2026-04-04T11:12:44Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 350,
+          "daily_stars_est": 6,
+          "forks": 66,
+          "language": "TypeScript",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "ertugrulakben/cashclaw: Turn your AI agent into a money-making machine. 50+ HYRVE API endpoints, job polling daemon, auto-accept mode. v1.6.2",
+          "link": "https://github.com/ertugrulakben/cashclaw",
+          "snippet": "Turn your AI agent into a money-making machine. 50+ HYRVE API endpoints, job polling daemon, auto-accept mode. v1.6.2",
+          "date": "2026-04-05T00:35:20Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 209,
+          "daily_stars_est": 5,
+          "forks": 72,
+          "language": "JavaScript",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Usta0x001/Phantom:  Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+          "link": "https://github.com/Usta0x001/Phantom",
+          "snippet": " Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+          "date": "2026-04-04T15:47:05Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 106,
+          "daily_stars_est": 2,
+          "forks": 9,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "ythx-101/openclaw-qa: OpenClaw Q&A 社区 — AI Agent 记忆系统、多Agent架构、进化系统、具身AI | 龙虾茶馆 🦞",
+          "link": "https://github.com/ythx-101/openclaw-qa",
+          "snippet": "OpenClaw Q&A 社区 — AI Agent 记忆系统、多Agent架构、进化系统、具身AI | 龙虾茶馆 🦞",
+          "date": "2026-04-05T00:50:08Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 76,
+          "daily_stars_est": 2,
+          "forks": 7,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Alex8791-cyber/cognithor: Cognithor - Agent OS: Local-first autonomous agent operating system. 16 LLM providers, 17 channels, 112+ MCP tools, 5-tier memory, A2A protocol, knowledge vault, voice, browser automation, Computer-us",
+          "link": "https://github.com/Alex8791-cyber/cognithor",
+          "snippet": "Cognithor - Agent OS: Local-first autonomous agent operating system. 16 LLM providers, 17 channels, 112+ MCP tools, 5-tier memory, A2A protocol, knowledge vault, voice, browser automation, Computer-us",
+          "date": "2026-04-05T00:42:11Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 70,
+          "daily_stars_est": 2,
+          "forks": 10,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "TONresistor/teleton-agent: Teleton: Autonomous AI Agent for Telegram & TON Blockchain",
+          "link": "https://github.com/TONresistor/teleton-agent",
+          "snippet": "Teleton: Autonomous AI Agent for Telegram & TON Blockchain",
+          "date": "2026-04-04T20:21:25Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 65,
+          "daily_stars_est": 1,
+          "forks": 20,
+          "language": "TypeScript",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "langchain langchain==1.2.15",
+          "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.2.15",
+          "date": "2026-04-03T14:26:22+00:00",
+          "summary": "Changes since langchain==1.2.14 release: langchain v1.2.15 (#36496) chore: bump aiohttp from 3.13.3 to 3.13.4 in /libs/langchain_v1 (#36438)",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "LangChain",
+          "source_id": "langchain-github",
+          "quality_score": 3.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "langchain langchain-core==1.2.26",
+          "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.26",
+          "date": "2026-04-03T23:30:48+00:00",
+          "summary": "Changes since langchain-core==1.2.25 release(core): 1.2.26 (#36511) fix(core): add init validator and serialization mappings for Bedrock models (#34510) feat(core): add ChatBaseten to serializable...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "LangChain",
+          "source_id": "langchain-github",
+          "quality_score": 3.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Anthropic Cuts Off OpenClaw Support for Claude Subscriptions - Business Insider",
+          "link": "https://www.businessinsider.com/anthropic-cuts-off-openclaw-support-claude-subscriptions-2026-4",
+          "snippet": "* Claude users have been using their subscription to deploy AI agents with OpenClaw. Anthropic is cutting off support for the popular AI agent platform OpenClaw from Claude subscriptions, as it grapples with soaring demand for its chatbot. Boris Cherny, head of Claude Code, said in an X post on Frid",
+          "date": "Sat, 04 Apr 2026 02:25:29 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "\"They operate like slot machines\": AI agents are scrambling power users' brains - Axios",
+          "link": "https://www.axios.com/2026/04/04/ai-agents-burnout-addiction-claude-code-openclaw",
+          "snippet": "A growing number of software developers say AI coding tools are frying their brains. **Catch up quick:** Agentic coding tools like Anthropic's Claude Code, OpenAI's Codex and the open-source tool OpenClaw can write, test and ship software autonomously. **What they're saying:** OpenAI co-founder Andr",
+          "date": "Sat, 04 Apr 2026 09:30:05 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Anthropic blocks OpenClaw from Claude subscriptions in cost crackdown - The Next Web",
+          "link": "https://thenextweb.com/news/anthropic-openclaw-claude-subscription-ban-cost",
+          "snippet": "***In short:** Anthropic has blocked Claude Pro and Max subscribers from using their flat-rate plans with third-party AI agent frameworks, starting with OpenClaw. Starting on 4 April 2026, users of Claude’s Pro and Max subscription tiers can no longer pipe their plan’s usage limits through third-par",
+          "date": "Sat, 04 Apr 2026 18:53:55 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "llama_index v0.14.20",
+          "link": "https://github.com/run-llama/llama_index/releases/tag/v0.14.20",
+          "date": "2026-04-03T19:55:51+00:00",
+          "summary": "Release Notes [2026-04-03] llama-index-agent-agentmesh [0.2.0] - fix vulnerability with nltk (#21275) llama-index-callbacks-agentops [0.5.0] - chore(deps): bump the uv group across 50 directories...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "LlamaIndex",
+          "source_id": "llamaindex-github",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        }
+      ]
+    },
+    "llm": {
+      "count": 20,
+      "articles": [
+        {
+          "title": "sgl-project/sglang: SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "link": "https://github.com/sgl-project/sglang",
+          "snippet": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "date": "2026-04-05T00:20:16Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 25427,
+          "daily_stars_est": 31,
+          "forks": 5181,
+          "language": "Python",
+          "quality_score": 8,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "yamadashy/repomix: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C",
+          "link": "https://github.com/yamadashy/repomix",
+          "snippet": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C",
+          "date": "2026-04-05T00:27:15Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 23037,
+          "daily_stars_est": 37,
+          "forks": 1100,
+          "language": "TypeScript",
+          "quality_score": 8,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "NVIDIA/TensorRT-LLM: TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT ",
+          "link": "https://github.com/NVIDIA/TensorRT-LLM",
+          "snippet": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT ",
+          "date": "2026-04-05T00:44:11Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 13266,
+          "daily_stars_est": 14,
+          "forks": 2254,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "simonw/llm: Access large language models from the command-line",
+          "link": "https://github.com/simonw/llm",
+          "snippet": "Access large language models from the command-line",
+          "date": "2026-04-04T14:07:19Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 11522,
+          "daily_stars_est": 10,
+          "forks": 788,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Meta freezes AI data work after breach puts training secrets at risk - The Next Web",
+          "link": "https://thenextweb.com/news/meta-mercor-breach-ai-training-secrets-risk",
+          "snippet": "***In short:** Meta has suspended its collaboration with Mercor, a $10 billion AI data startup, after a supply chain attack exposed what may be the AI industry’s most closely guarded secrets: not just personal data, but the training methodologies that power the world’s leading large language models.",
+          "date": "Sat, 04 Apr 2026 18:31:09 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.20.2",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.2",
+          "date": "2026-04-04T06:22:05+00:00",
+          "summary": "What's Changed app: default app home view to new chat instead of launch by @jmorganca in https://github.com/ollama/ollama/pull/15312 Full Changelog**: https://github.com/ollama/ollama/compare/v0.20.1....",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "thu-pacman/chitu: High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+          "link": "https://github.com/thu-pacman/chitu",
+          "snippet": "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+          "date": "2026-04-04T03:37:47Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 3681,
+          "daily_stars_est": 9,
+          "forks": 453,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "McGill-NLP/llm2vec: Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'",
+          "link": "https://github.com/McGill-NLP/llm2vec",
+          "snippet": "Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'",
+          "date": "2026-04-04T14:53:36Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 1666,
+          "daily_stars_est": 2,
+          "forks": 134,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "trpc-group/trpc-agent-go: trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+          "link": "https://github.com/trpc-group/trpc-agent-go",
+          "snippet": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+          "date": "2026-04-04T01:49:42Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 1057,
+          "daily_stars_est": 3,
+          "forks": 118,
+          "language": "Go",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "mixelpixx/KiCAD-MCP-Server: KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.",
+          "link": "https://github.com/mixelpixx/KiCAD-MCP-Server",
+          "snippet": "KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.",
+          "date": "2026-04-04T18:34:19Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 573,
+          "daily_stars_est": 2,
+          "forks": 108,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "huhusmang/Awesome-LLMs-for-Vulnerability-Detection: Awesome Large Language Models for Vulnerability Detection",
+          "link": "https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection",
+          "snippet": "Awesome Large Language Models for Vulnerability Detection",
+          "date": "2026-04-04T01:06:37Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 543,
+          "daily_stars_est": 1,
+          "forks": 27,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "lone-cloud/gerbil: A desktop app for running Large Language Models locally. ",
+          "link": "https://github.com/lone-cloud/gerbil",
+          "snippet": "A desktop app for running Large Language Models locally. ",
+          "date": "2026-04-04T08:09:22Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 452,
+          "daily_stars_est": 2,
+          "forks": 43,
+          "language": "TypeScript",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "eleiton/ollama-intel-arc: Make use of Intel Arc Series GPU to Run Ollama, StableDiffusion, Whisper and Open WebUI, for image generation, speech recognition and interaction with Large Language Models (LLM).",
+          "link": "https://github.com/eleiton/ollama-intel-arc",
+          "snippet": "Make use of Intel Arc Series GPU to Run Ollama, StableDiffusion, Whisper and Open WebUI, for image generation, speech recognition and interaction with Large Language Models (LLM).",
+          "date": "2026-04-04T15:36:22Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 301,
+          "daily_stars_est": 1,
+          "forks": 33,
+          "language": "Dockerfile",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Jeryi-Sun/LLM-and-Law: This repository is dedicated to summarizing papers related to large language models with the field of law",
+          "link": "https://github.com/Jeryi-Sun/LLM-and-Law",
+          "snippet": "This repository is dedicated to summarizing papers related to large language models with the field of law",
+          "date": "2026-04-04T12:02:17Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 291,
+          "daily_stars_est": 0,
+          "forks": 34,
+          "language": null,
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "StanfordSpezi/SpeziLLM: Large Language Model (LLM) module for the Spezi Ecosystem",
+          "link": "https://github.com/StanfordSpezi/SpeziLLM",
+          "snippet": "Large Language Model (LLM) module for the Spezi Ecosystem",
+          "date": "2026-04-04T00:22:54Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 280,
+          "daily_stars_est": 0,
+          "forks": 44,
+          "language": "Swift",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "etkecc/baibot: 🤖 A Matrix bot for using different capabilities (text-generation, text-to-speech, speech-to-text, image-generation, etc.) of AI / Large Language Models (OpenAI, Anthropic, etc.)",
+          "link": "https://github.com/etkecc/baibot",
+          "snippet": "🤖 A Matrix bot for using different capabilities (text-generation, text-to-speech, speech-to-text, image-generation, etc.) of AI / Large Language Models (OpenAI, Anthropic, etc.)",
+          "date": "2026-04-04T12:52:33Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 213,
+          "daily_stars_est": 0,
+          "forks": 38,
+          "language": "Rust",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "llmrb/llm.rb: Ruby toolkit for multiple Large Language Models (LLMs)",
+          "link": "https://github.com/llmrb/llm.rb",
+          "snippet": "Ruby toolkit for multiple Large Language Models (LLMs)",
+          "date": "2026-04-04T23:11:41Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 108,
+          "daily_stars_est": 0,
+          "forks": 5,
+          "language": "Ruby",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.20.1",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.1",
+          "date": "2026-04-03T22:37:43+00:00",
+          "summary": "What's Changed bench: add prompt calibration, context size flag, and NumCtx reporting by @dhiltgen in https://github.com/ollama/ollama/pull/15158 model/parsers: fix gemma4 arg parsing when quoted...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 3.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "vllm v0.19.0",
+          "link": "https://github.com/vllm-project/vllm/releases/tag/v0.19.0",
+          "date": "2026-04-03T02:19:12+00:00",
+          "summary": "vLLM v0.19.0 Highlights This release features 448 commits from 197 contributors (54 new)! Gemma 4 support: Full Google Gemma 4 architecture support including MoE, multimodal, reasoning, and tool-use...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "vLLM",
+          "source_id": "vllm-github",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "OpenViking v0.3.3",
+          "link": "https://github.com/volcengine/OpenViking/releases/tag/v0.3.3",
+          "date": "2026-04-03T06:59:42+00:00",
+          "summary": "OpenViking v0.3.3 本次 v0.3.3 版本主要围绕评测与写入能力、OpenClaw 插件与集成体验、会话与资源导入链路、稳定性与安全性，以及测试与 CI 体系做了集中增强。相较 v0.3.2，这一版本一方面补齐了 benchmark / eval / write 等面向落地使用的能力，另一方面也明显加强了 OpenClaw...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "OpenViking",
+          "source_id": "openviking-github",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        }
+      ]
+    },
+    "crypto": {
+      "count": 12,
+      "articles": [
+        {
+          "title": "Massive $82M ETH Withdrawal: Bitmine-Linked Wallet Moves 40,000 Ethereum from FalconX - MEXC",
+          "link": "https://www.mexc.com/news/1004430",
+          "snippet": "BitcoinWorld Massive $82M ETH Withdrawal: Bitmine-Linked Wallet Moves 40,000 Ethereum from FalconX A cryptocurrency wallet suspected to belong to mining giantBitcoinWorld Massive $82M ETH Withdrawal: Bitmine-Linked Wallet Moves 40,000 Ethereum from FalconX A cryptocurrency wallet suspected to belong",
+          "date": "Sat, 04 Apr 2026 13:11:01 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitdeer mined 149.7 bitcoins…sold all of them - bloomingbit",
+          "link": "https://en.bloomingbit.io/feed/news/109233",
+          "snippet": "* Bitdeer said it disclosed its **bitcoin** production for the week. * Bitdeer said its total **bitcoin** production for the week was **149.7**. * Bitdeer said it sold **all** of the mined output, keeping its holdings at 0. Bitcoin (BTC) mining company Bitdeer disclosed its bitcoin production for th",
+          "date": "Sat, 04 Apr 2026 06:48:04 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Bitdeer sold 149.7 BTC this week and currently maintains zero holdings. - Bitget",
+          "link": "https://www.bitget.com/amp/news/detail/12560605336188",
+          "snippet": "Bitdeer sold 149.7 BTC this week and currently maintains zero holdings. # Bitdeer sold 149.7 BTC this week and currently maintains zero holdings. Jinse Finance reported that the Nasdaq-listed Bitcoin mining company Bitdeer released its latest Bitcoin holdings data on platform X. As of the week endin",
+          "date": "Sat, 04 Apr 2026 05:29:22 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Major Bitcoin Whales Lost $300 Million Daily in the First Quarter: Is This a Sign of a Market Bottom? - Cryptonews.net",
+          "link": "https://cryptonews.net/news/bitcoin/32656234/",
+          "snippet": "# Major Bitcoin Whales Lost $300 Million Daily in the First Quarter: Is This a Sign of a Market Bottom? Losses experienced by large whales in the Bitcoin ($BTC) market reached remarkable levels in the first quarter of 2026. According to the data, large Bitcoin holders lost an average of over $300 mi",
+          "date": "Sat, 04 Apr 2026 20:37:02 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Founder of a Chinese Bitcoin Mining Company Vehemently Opposed the Latest Proposed Updates to BTC - Cryptonews.net",
+          "link": "https://cryptonews.net/news/mining/32655905/",
+          "snippet": "Wang Chun, co-founder of the crypto mining pool F2Pool, made statements drawing attention to the discussions surrounding Bitcoin protocol updates. Sharing an assessment via the X platform, Chun argued that changes to Bitcoin’s core protocol should not be advanced through “political compromises” or m",
+          "date": "Sat, 04 Apr 2026 17:17:02 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl - Forbes",
+          "link": "https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/",
+          "snippet": "Now, as BlackRock issues a $1 trillion crypto market warning, Elon Musk has added his voice to fears sparked by Google dramatically bringing forward its quantum computing timeline, putting almost $500 billion worth of bitcoin at risk. Image 50: bitcoin, bitcoin price, crypto, Elon Musk, Google, quan",
+          "date": "Sat, 04 Apr 2026 12:20:08 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Cryptocurrency Stocks To Keep An Eye On - April 4th - MarketBeat",
+          "link": "https://www.marketbeat.com/instant-alerts/cryptocurrency-stocks-to-keep-an-eye-on-april-4th-2026-04-04/",
+          "snippet": "Image 5: MarketBeat - Stock Market News and Research Tools. *   Image 12: CrowdStrike logo over digital lock and code background, symbolizing AI-driven cybersecurity concerns and market volatility.CrowdStrike Stock Drops on AI Fears—Is This a Buying Opportunity? *   **Galaxy Digital (GLXY), Bitfarms",
+          "date": "Sat, 04 Apr 2026 17:02:04 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Best Bitcoin Stocks To Add to Your Watchlist - April 4th - MarketBeat",
+          "link": "https://www.marketbeat.com/instant-alerts/best-bitcoin-stocks-to-add-to-your-watchlist-april-4th-2026-04-04/",
+          "snippet": "Image 5: MarketBeat - Stock Market News and Research Tools. *   Image 12: CrowdStrike logo over digital lock and code background, symbolizing AI-driven cybersecurity concerns and market volatility.CrowdStrike Stock Drops on AI Fears—Is This a Buying Opportunity? IREN, Marathon Digital, TeraWulf, Cip",
+          "date": "Sat, 04 Apr 2026 17:02:02 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "MicroStrategy’s Saylor Warns Against Bitcoin Protocol Changes - BeInCrypto",
+          "link": "https://beincrypto.com/microstrategy-saylor-bip110-bitcoin-protocol-threat/",
+          "snippet": "# Michael Saylor Calls BIP-110 Bitcoin’s Biggest Self-Inflicted Risk. * Saylor declared Bitcoin (BTC) has won but warned of self-inflicted protocol damage. * BIP-110 proposal to restrict non-financial blockchain data divides the community sharply. * Bitcoin Conference organizer David Bailey invited ",
+          "date": "Sat, 04 Apr 2026 17:11:01 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Riot Platforms Sold 3,778 BTC Approximately $289.5M in Q1 2026 - Tekedia",
+          "link": "https://www.tekedia.com/riot-platforms-sold-3778-btc-approximately-289-5m-in-q1-2026/",
+          "snippet": "# Riot Platforms Sold 3,778 BTC Approximately $289.5M in Q1 2026. **Riot Platforms (NASDAQ: RIOT)**, a major Bitcoin mining company, announced in its Q1 2026 production and operations update that it sold 3,778 BTC for net proceeds of approximately $289.5 million. Bitcoin sold: 3,778 BTC no sales rep",
+          "date": "Sat, 04 Apr 2026 17:32:13 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto News: AlphaPepe Stage 10 Nearly Sold Out Prior Big Price Rise As XRP Eyes $5 Breakout - markets.businessinsider.com",
+          "link": "https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-stage-10-nearly-sold-out-prior-big-price-rise-as-xrp-eyes-5-breakout-1035994375",
+          "snippet": "# Crypto News: AlphaPepe Stage 10 Nearly Sold Out Prior Big Price Rise As XRP Eyes $5 Breakout. The crypto news around AlphaPepe is building ahead of a planned Q2 2026 exchange listing, stages are closing faster with each round, and wallets are committing serious size while XRP sits at $1.32 with an",
+          "date": "Sat, 04 Apr 2026 04:02:48 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "Crypto markets tread cautiously as BTC eyes lower lows - KITCO",
+          "link": "https://www.kitco.com/opinion/2026-04-04/crypto-markets-tread-cautiously-btc-eyes-lower-lows",
+          "snippet": "##### Kitco Commentaries Opinions, Ideas and Markets Talk. Featuring views and opinions written by market professionals, not staff journalists. Co-founder and lead instructor at The Better Traders, Inc., an international crypto education company, and owner of the popular crypto bot trading YouTube c",
+          "date": "Sat, 04 Apr 2026 13:48:48 GMT",
+          "source": "tavily",
+          "topics": [
+            "crypto"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "crypto",
+          "all_topics": [
+            "crypto"
+          ]
+        }
+      ]
+    }
+  }
+}
