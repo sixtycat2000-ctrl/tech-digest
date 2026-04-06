@@ -1,0 +1,117 @@
+{
+  "generated": "2026-04-06T00:56:50.749174+00:00",
+  "input_sources": {
+    "rss_articles": 0,
+    "twitter_articles": 0,
+    "web_articles": 0,
+    "github_articles": 5,
+    "github_trending": 0,
+    "reddit_posts": 0,
+    "total_input": 5
+  },
+  "processing": {
+    "deduplication_applied": true,
+    "multi_source_merging": true,
+    "previous_digest_penalty": false,
+    "quality_scoring": true
+  },
+  "output_stats": {
+    "total_articles": 5,
+    "topics_count": 1,
+    "topic_distribution": {
+      "llm": 5
+    }
+  },
+  "topics": {
+    "llm": {
+      "count": 5,
+      "articles": [
+        {
+          "title": "ollama v0.20.2",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.2",
+          "date": "2026-04-04T06:22:05+00:00",
+          "summary": "What's Changed app: default app home view to new chat instead of launch by @jmorganca in https://github.com/ollama/ollama/pull/15312 Full Changelog**: https://github.com/ollama/ollama/compare/v0.20.1....",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 3.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.20.1",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.1",
+          "date": "2026-04-03T22:37:43+00:00",
+          "summary": "What's Changed bench: add prompt calibration, context size flag, and NumCtx reporting by @dhiltgen in https://github.com/ollama/ollama/pull/15158 model/parsers: fix gemma4 arg parsing when quoted...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 3.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.20.0",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.0",
+          "date": "2026-04-02T16:54:22+00:00",
+          "summary": "<img width=\"3748\" height=\"1290\" alt=\"Gemma 4\" src=\"https://github.com/user-attachments/assets/c4727579-47b1-4c7b-8aa2-28eda15b71f5\" /> Gemma 4 Effective 2B (E2B) Effective 4B (E4B) 26B (Mixture of...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 3.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "vllm v0.19.0",
+          "link": "https://github.com/vllm-project/vllm/releases/tag/v0.19.0",
+          "date": "2026-04-03T02:19:12+00:00",
+          "summary": "vLLM v0.19.0 Highlights This release features 448 commits from 197 contributors (54 new)! Gemma 4 support: Full Google Gemma 4 architecture support including MoE, multimodal, reasoning, and tool-use...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "vLLM",
+          "source_id": "vllm-github",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "vllm v0.18.1",
+          "link": "https://github.com/vllm-project/vllm/releases/tag/v0.18.1",
+          "date": "2026-03-31T00:53:26+00:00",
+          "summary": "This is a patch release on top of v0.18.0 to address a few issues: - Change default SM100 MLA prefill backend back to TRT-LLM (#38562) - Fix mock.patch resolution failure for...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "vLLM",
+          "source_id": "vllm-github",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        }
+      ]
+    }
+  }
+}
