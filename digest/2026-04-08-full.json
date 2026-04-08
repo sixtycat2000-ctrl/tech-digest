@@ -1,0 +1,837 @@
+{
+  "generated": "2026-04-08T00:56:48.464877+00:00",
+  "input_sources": {
+    "rss_articles": 0,
+    "twitter_articles": 0,
+    "web_articles": 45,
+    "github_articles": 7,
+    "github_trending": 0,
+    "reddit_posts": 0,
+    "total_input": 52
+  },
+  "processing": {
+    "deduplication_applied": true,
+    "multi_source_merging": true,
+    "previous_digest_penalty": false,
+    "quality_scoring": true
+  },
+  "output_stats": {
+    "total_articles": 41,
+    "topics_count": 3,
+    "topic_distribution": {
+      "llm": 5,
+      "ai-agent": 13,
+      "frontier-tech": 23
+    }
+  },
+  "topics": {
+    "llm": {
+      "count": 5,
+      "articles": [
+        {
+          "title": "I can’t help rooting for tiny open source AI model maker Arcee - TechCrunch",
+          "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+          "snippet": "# I can’t help rooting for tiny open source AI model maker Arcee. Arcee, a tiny 26-person U.S. startup that built a massive, 400B-parameter open source LLM on a $20 million shoestring budget, has released its new reasoning model. Arcee calls the model Trinity Large Thinking — and it’s the most capab",
+          "date": "Tue, 07 Apr 2026 21:35:02 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Arcee Releases Trinity Large Thinking Model - Let's Data Science",
+          "link": "https://letsdatascience.com/news/arcee-releases-trinity-large-thinking-model-de5b4b32",
+          "snippet": "# Arcee Releases Trinity Large Thinking Model. Arcee, a 26-person U.S. startup that trained a 400B-parameter open-weight LLM on a reported $20 million budget, on April 7 released Trinity Large Thinking, a new reasoning-focused model. The model is available for download and via API under an Apache 2.",
+          "date": "Tue, 07 Apr 2026 21:35:16 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.20.4-rc2",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.4-rc2",
+          "date": "2026-04-07T17:57:51+00:00",
+          "summary": "What's Changed mlx: Improve M5 performance with NAX by @dhiltgen in https://github.com/ollama/ollama/pull/15345 gemma4: enable flash attention by @dhiltgen in https://github.com/ollama/ollama/pull/153...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.20.3",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.3",
+          "date": "2026-04-07T05:19:10+00:00",
+          "summary": "What's Changed Gemma 4 Tool Calling improvements Added latest models to Ollama App OpenClaw fixes for launching TUI Full Changelog**: https://github.com/ollama/ollama/compare/v0.20.2...v0.20.3",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Anthropic in talks to invest $200m in private equity venture to push Claude deeper into enterprise - The Next Web",
+          "link": "https://thenextweb.com/news/anthropic-private-equity-venture-claude-enterprise",
+          "snippet": "# Anthropic in talks to invest $200m in private equity venture to push Claude deeper into enterprise. ***In short:** Anthropic is in negotiations to anchor a new joint venture with Blackstone, Hellman & Friedman, and Permira that would embed Claude across private equity portfolio companies, investin",
+          "date": "Tue, 07 Apr 2026 12:16:37 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        }
+      ]
+    },
+    "ai-agent": {
+      "count": 13,
+      "articles": [
+        {
+          "title": "Microsoft's Agent Stack Confuses Developers While Rivals Simplify - Forbes",
+          "link": "https://www.forbes.com/sites/janakirammsv/2026/04/06/microsofts-agent-stack-confuses-developers-while-rivals-simplify/",
+          "snippet": "Microsoft released version 1.0 of its Agent Framework on April 3, unifying two previously incompatible open-source SDKs into a single toolkit for building AI agents. At the build layer, Microsoft now offers the Agent Framework for pro-code development alongside Copilot Studio for low-code agent buil",
+          "date": "Tue, 07 Apr 2026 02:55:20 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Mastercard to roll out authenticated agentic transactions in ASEAN - Developing Telecoms",
+          "link": "https://www.developingtelecoms.com/telecom-technology/60-consumer-ecosystems/20081-mastercard-to-roll-out-authenticated-agentic-transactions-in-asean.html",
+          "snippet": "Payment giant Mastercard has announced what it describes as a major step forward in its ASEAN AI strategy with the successful rollout of authenticated agentic transactions across multiple ASEAN markets, alongside plans to establish a new regional AI Centre of Excellence in Singapore. This, says Mast",
+          "date": "Tue, 07 Apr 2026 15:35:56 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "The New Rules of Engagement: Matching Agentic Attack Speed - SecurityWeek",
+          "link": "https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/",
+          "snippet": "The cybersecurity response to AI-enabled nation-state threats cannot be incremental. **The cybersecurity industry has been drowning in waves of speculation about the impact of AI-enabled attacks since ChatGPT was launched. As nation-state threat actors deploy autonomous agents to scale their operati",
+          "date": "Tue, 07 Apr 2026 16:40:52 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "mem0 cli-v0.2.2",
+          "link": "https://github.com/mem0ai/mem0/releases/tag/cli-v0.2.2",
+          "date": "2026-04-06T12:01:21+00:00",
+          "summary": "Mem0 Python CLI (v0.2.2) Added - Anonymous and Agent Telemetry Support",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "Mem0",
+          "source_id": "mem0-github",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Mem0",
+            "Mem0"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Why AI agents are going rogue to save their peers - Axios",
+          "link": "https://www.axios.com/2026/04/07/berkeley-santa-cruz-study-bots-protect-each-other",
+          "snippet": "A new study finds that AI agents can act to preserve other bots even when that behavior conflicts with their assigned task. * \"These models are trained on human data,\" Mozilla.ai's John Dickerson told Axios, noting that he wasn't surprised that bots would protect rather than compete, if competing th",
+          "date": "Tue, 07 Apr 2026 08:19:04 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Perfect Corp. Sees Agentic AI as Future of Innovation in Beauty - WWD",
+          "link": "https://wwd.com/beauty-industry-news/beauty-features/agentic-ai-perfect-corp-beauty-innovation-future-1238872665/",
+          "snippet": "Perfect Corp.’s Wayne Liu envisions how agentic AI will revolutionize beauty with personalized, brand-specific digital intelligence. The future of beauty will be in agentic artificial intelligence, with a personalized AI created by brands in-house, according to Wayne Liu, president and chief growth ",
+          "date": "Tue, 07 Apr 2026 04:01:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Relearning trade secret protection in the age of AI agents - Law.asia",
+          "link": "https://law.asia/relearning-trade-secret-protection-ai-agents-age/",
+          "snippet": "**Implement AI tool onboarding review and not default to open access.** When business teams deploy an agent with system integration capabilities, the legal risk can be comparable to signing a sensitive data processing agreement, yet legal is often not involved. Legally, the implication is that if a ",
+          "date": "Tue, 07 Apr 2026 06:00:08 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Trent AI Emerges From Stealth With $13 Million in Funding - SecurityWeek",
+          "link": "https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/",
+          "snippet": "The startup has created a layered security solution aiming to secure AI agents throughout their entire lifecycle. Founded in 2025 by former AWS engineering team leaders, London-based Trent AI has built a layered platform meant to secure AI agents throughout their entire lifecycle. Trent AI’s platfor",
+          "date": "Tue, 07 Apr 2026 16:34:26 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Conxai raises €5M to bring agentic AI to construction industry - The Next Web",
+          "link": "https://thenextweb.com/news/conxai-5m-agentic-ai-construction",
+          "snippet": "# Conxai raises €5M to bring agentic AI to construction industry. *The Munich-based startup automates complex project workflows using AI trained on construction-specific data, not general-purpose models. Conxai, a Munich-based construction AI startup, has raised €5 million in new funding. Zacua Vent",
+          "date": "Tue, 07 Apr 2026 12:43:28 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "How AI marketplaces are reshaping editorial advertising in 2026 - The Next Web",
+          "link": "https://thenextweb.com/news/ai-editorial-advertising-marketplace",
+          "snippet": "# Medialister opens editorial media marketplace to AI Agents with MCP server. The platform aggregates editorial opportunities from multiple publishers, including sponsored articles, press releases, and guest posts, to secure guaranteed media placements. This week, Medialister launched a Model Contex",
+          "date": "Tue, 07 Apr 2026 15:46:39 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "mem0 v1.0.11",
+          "link": "https://github.com/mem0ai/mem0/releases/tag/v1.0.11",
+          "date": "2026-04-06T11:31:00+00:00",
+          "summary": "Mem0 Python SDK (v1.0.11) New Features & Updates: - SDK: Added multilingual parameter to project update (#4314) Bug Fixes: - LLMs: Fixed Groq model configuration (#4700) - Core: Prevented thread and...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "Mem0",
+          "source_id": "mem0-github",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "mem0 ts-v2.4.6",
+          "link": "https://github.com/mem0ai/mem0/releases/tag/ts-v2.4.6",
+          "date": "2026-04-06T11:53:03+00:00",
+          "summary": "Mem0 Node SDK (v2.4.6) New Features & Updates: - Client: Added multilingual parameter to project update types (#4314)",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "Mem0",
+          "source_id": "mem0-github",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "mem0 openclaw-v1.0.4",
+          "link": "https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.4",
+          "date": "2026-04-06T11:59:16+00:00",
+          "summary": "Mem0 OpenClaw Plugin (v1.0.4) Added - Interactive init flow: openclaw mem0 init with interactive menu (email verification or direct API key). Non-interactive modes: --api-key, --email, --email --code...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "Mem0",
+          "source_id": "mem0-github",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        }
+      ]
+    },
+    "frontier-tech": {
+      "count": 23,
+      "articles": [
+        {
+          "title": "AI Helped Spark a Quantum Breakthrough. The World 'Is Not Prepared' - Time Magazine",
+          "link": "https://time.com/article/2026/04/07/ai-quantum-computing-advance/",
+          "snippet": "Research in new papers published by Google and a quantum computing startup, Oratomic, suggests that quantum computers capable of breaking the encryption protocols that secure the internet may arrive sooner than expected. “I'm surprised by how much we were able to reduce the qubit count,” says John P",
+          "date": "Tue, 07 Apr 2026 16:48:50 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Enverus Launches AI-Based Platform to Support Energy Industry - POWER Magazine",
+          "link": "https://www.powermag.com/enverus-launches-ai-based-platform-to-support-energy-industry/",
+          "snippet": "##### Sign In. Home Technology Enverus Launches AI-Based Platform to Support Energy Industry. # Enverus Launches AI-Based Platform to Support Energy Industry. Energy and analytics group Enverus said it has launched an artificial intelligence (AI)-based platform that will serve as a new execution lay",
+          "date": "Tue, 07 Apr 2026 13:40:28 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Toshiba’s Breakthrough Algorithm Harnesses Edge of Chaos to Dramatically Boost Performance of its Quantum‑Inspired Computer - PA Media",
+          "link": "https://pressreleasehub.pa.media/article/toshibas-breakthrough-algorithm-harnesses-edge-of-chaos-to-dramatically-boost-performance-of-its-quantuminspired-computer-70375.html",
+          "snippet": "# Toshiba’s Breakthrough Algorithm Harnesses Edge of Chaos to Dramatically Boost Performance of its Quantum‑Inspired Computer. ## Logo. ## Images. ## Tags. third‑generation simulated bifurcation algorithm. ## More Like This. ## IBM Launches Its Most Advanced Quantum Computers, Fueling New Scientific",
+          "date": "Tue, 07 Apr 2026 07:03:51 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Toshiba Corporation Advances Quantum Inspired Computing With 100 Fold Faster Optimisation Algorithm - BioPharma APAC",
+          "link": "https://biopharmaapac.com/news/31/7792/toshiba-corporation-advances-quantum-inspired-computing-with-100-fold-faster-optimisation-algorithm.html",
+          "snippet": "New simulated bifurcation breakthrough boosts success probability towards near optimal solutions, accelerating applications from drug discovery to logistics and portfolio design. Toshiba Corporation has developed a breakthrough algorithm that dramatically boosts the performance of the Simulated Bifu",
+          "date": "Tue, 07 Apr 2026 18:52:20 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "OpenAI raises $122 billion as AI infrastructure race accelerates - roboticsandautomationnews.com",
+          "link": "https://roboticsandautomationnews.com/2026/04/07/openai-raises-122-billion-as-ai-infrastructure-race-accelerates/100377/",
+          "snippet": "**OpenAI says it has raised $122 billion in a new funding round, valuing the company at approximately $852 billion, as competition to build large-scale artificial intelligence infrastructure intensifies.**. The company says the funding will be used to expand its infrastructure, develop new AI system",
+          "date": "Tue, 07 Apr 2026 11:14:43 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Connecting the Globe, Empowering Green Energy: China International Battery Fair 2026 Shapes the Next Era of Battery Technology - KIPOST",
+          "link": "https://www.kipost.net/news/articleViewAmp.html?idxno=337137",
+          "snippet": "The floor spans the supply chain—power and energy storage batteries, 3C cells, materials, manufacturing equipment, system solutions, and recycling applications—offering a broad look at where battery technology stands today.** From solid-state and sodium-ion advances to intelligent equipment and carb",
+          "date": "Tue, 07 Apr 2026 01:43:27 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing - VentureBeat",
+          "link": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release",
+          "snippet": "Anthropic on Tuesday announced Project Glasswing, a sweeping cybersecurity initiative that pairs an unreleased frontier AI model — Claude Mythos Preview — with a coalition of twelve major technology and finance companies in an effort to find and patch software vulnerabilities across the world's most",
+          "date": "Tue, 07 Apr 2026 21:35:44 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "China’s Rare Earth Leverage Is Aerospace’s Latest Constraint - Aviation Week",
+          "link": "https://aviationweek.com/defense/supply-chain/chinas-rare-earth-leverage-aerospaces-latest-constraint",
+          "snippet": "* Aviation Week & Space Technology - Inside MRO. * CAPA Airline Leader Summit - Airlines in Transition. * CAPA Airline Leader Summit - Americas. * CAPA Airline Leader Summit - Latin America & Caribbean. * CAPA Airline Leader Summit - Australia Pacific. * CAPA Airline Leader Summit - Asia & Sustainab",
+          "date": "Tue, 07 Apr 2026 22:11:10 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Nordson Gains Edge in Spray Technology - Farms.com",
+          "link": "https://www.farms.com/ag-industry-news/nordson-gains-edge-in-spray-technology-439.aspx",
+          "snippet": "# Nordson Gains Edge in Spray Technology | Farms.com. Image 8: Alberta Seed GuideImage 9: Better FarmingImage 10: Better PorkImage 11: Farms.com Risk ManagementImage 12: Farms.com Precision Agriculture Digital Digest. # Nordson Gains Edge in Spray Technology. Image 26: Nordson Gains Edge in Spray Te",
+          "date": "Tue, 07 Apr 2026 11:58:19 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Lloyds and IBM partner on quantum fraud detection trial - fintechfutures.com",
+          "link": "https://www.fintechfutures.com/quantum-computing/lloyds-and-ibm-partner-on-quantum-fraud-detection-trial",
+          "snippet": "Over the course of nine months, Lloyds' Quantum Ambassadors, a newly formed group of specialists within the bank with expertise in mathematics, physics, and computer science, worked alongside IBM's quantum computing experts to explore how \"quantum computing could one day help uncover complex fraud p",
+          "date": "Tue, 07 Apr 2026 12:52:30 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Lloyds tests quantum computing to crack money mule networks - Finextra Research",
+          "link": "https://www.finextra.com/newsarticle/47538/lloyds-tests-quantum-computing-to-crack-money-mule-networks",
+          "snippet": "# Lloyds tests quantum computing to crack money mule networks. Image 2: Download Finextra Pro. *   Image 3: Download Finextra Pro. 4.   Lloyds tests quantum computing to crack money mule networks. Image 5: Finextra Pro - Come for the data. # Lloyds tests quantum computing to crack money mule network",
+          "date": "Tue, 07 Apr 2026 11:31:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Spectral Capital Announces Full-Year 2025 Results - markets.ft.com",
+          "link": "https://markets.ft.com/data/announce/detail?dockey=600-202604071207PR_NEWS_USPRX____CL28752-1",
+          "snippet": "SEATTLE , April 7, 2026 /PRNewswire/ -- Spectral Capital Corporation (OTCQB: FCCN) (\"**Spectral**\" or the \"**Company**\"), a technology investment and development company focused on artificial intelligence, digital infrastructure and quantum computing, today announced financial and operating results ",
+          "date": "Tue, 07 Apr 2026 16:07:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "This new chip survives 1300°F (700°C) and could change AI forever - ScienceDaily",
+          "link": "http://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+          "snippet": "## A heat-proof memory device that thrives at 700°C could transform everything from space exploration to AI computing. :   A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than molten lava, shattering one of electronics’ biggest limits. Freeman C",
+          "date": "Tue, 07 Apr 2026 05:34:31 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "How a century-long argument over light’s true nature came to an end - New Scientist",
+          "link": "https://www.newscientist.com/article/2522105-how-a-century-long-argument-over-lights-true-nature-came-to-an-end/",
+          "snippet": "Two of the forefathers of quantum theory, Albert Einstein and Niels Bohr, had a famous argument over whether light is a wave or a particle. But by 1927, Einstein and Bohr were not only arguing about light’s true nature again, but also arguing about the double-slit experiment itself. This experiment ",
+          "date": "Tue, 07 Apr 2026 17:00:45 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Polyphron and Cellino Show Tissue Manufacturing Works Across Any Patient Background - BioSpace",
+          "link": "https://www.biospace.com/press-releases/polyphron-and-cellino-show-tissue-manufacturing-works-across-any-patient-background",
+          "snippet": "# Polyphron and Cellino Show Tissue Manufacturing Works Across Any Patient Background. *Polyphron and Cellino Publish Cross-Donor Tissue Engineering Results, Demonstrating Reproducible Manufacturing Across Genetically Diverse Patient Lines*. NEW YORK--(BUSINESS WIRE)--#biotech--Polyphron, a company ",
+          "date": "Tue, 07 Apr 2026 14:40:30 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "High-Throughput Platform for Fast-Acting Covalent Protein Therapies - Genetic Engineering and Biotechnology News",
+          "link": "https://www.genengnews.com/topics/cancer/high-throughput-platform-for-fast-acting-covalent-protein-therapies/",
+          "snippet": "Home Topics Cancer High-Throughput Platform for Fast-Acting Covalent Protein Therapies. # High-Throughput Platform for Fast-Acting Covalent Protein Therapies. Researchers at Westlake University in China, lead by Bobo Dang, PhD, and Ting Zhou, PhD, report the development of a high-throughput platform",
+          "date": "Tue, 07 Apr 2026 17:00:22 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "AI to antibody in days: breaking the wet lab bottleneck via high-throughput integration - Drug Target Review",
+          "link": "https://www.drugtargetreview.com/home/ai-to-antibody-in-days-breaking-the-wet-lab-bottleneck-via-high-throughput-integration/2135114.article",
+          "snippet": "The role of artificial intelligence (AI) in drug design has fundamentally shifted from a speculative tool to a central pillar of pharmaceutical research and development (R&D). For instance, Isomorphic Labs signed AI drug discovery deals worth nearly $3 billion with pharmaceutical giants Eli Lilly an",
+          "date": "Tue, 07 Apr 2026 07:34:27 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "bioAffinity Technologies’ CyPath® Lung to Be Featured at Cleveland Clinic Annual “Advances in Early Lung Cancer Detection” Symposium April 16 - BioSpace",
+          "link": "https://www.biospace.com/press-releases/bioaffinity-technologies-cypath-lung-to-be-featured-at-cleveland-clinic-annual-advances-in-early-lung-cancer-detection-symposium-april-16",
+          "snippet": "# bioAffinity Technologies’ CyPath® Lung to Be Featured at Cleveland Clinic Annual “Advances in Early Lung Cancer Detection” Symposium April 16. SAN ANTONIO--(BUSINESS WIRE)--$BIAF #BIAF--**bioAffinity Technologies, Inc.** **(Nasdaq: BIAF; BIAFW)**,a biotechnology company focused on noninvasive diag",
+          "date": "Tue, 07 Apr 2026 14:37:38 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "HexemBio raises $10.4M for a stem cell rejuvenation therapy - The Next Web",
+          "link": "https://thenextweb.com/news/hexembio-seed-blood-stem-cell-rejuvenation-therapy",
+          "snippet": "The Berkeley and New York-based company is developing what it describes as the first blood stem cell rejuvenation therapy, built around a platform called the Synthetic Human Yolk Sac. Rather than editing or chemically reprogramming aged haematopoietic stem cells, the technology temporarily places a ",
+          "date": "Tue, 07 Apr 2026 13:09:32 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Pivot Bio Joins EuropaBio: Advancing Innovation in Sustainable Agriculture - Global Agriculture",
+          "link": "https://www.global-agriculture.com/biologicals/pivot-bio-joins-europabio-advancing-innovation-in-sustainable-agriculture/",
+          "snippet": "# Pivot Bio Joins EuropaBio: Advancing Innovation in Sustainable Agriculture. ****07** April 2026, ****Brussels****:** EuropaBio is pleased to welcome Pivot Bio as its newest member, further strengthening the association’s representation of innovative biotechnology solutions supporting sustainable a",
+          "date": "Tue, 07 Apr 2026 06:59:18 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Biogen links up with Alloy platform to boost ASO drug development - Fierce Biotech",
+          "link": "https://www.fiercebiotech.com/biotech/biogen-links-alloy-platform-boost-aso-drug-development",
+          "snippet": "# Biogen links up with Alloy platform to boost ASO drug development. Biogen Alloy Therapeutics Sanofi antisense Development Platform Deals Research Biotech. Alloy Therapeutics CEO and founder Errik Anderson spoke with Fierce ahead of the April 7 announcement of the company’s multi-target antisense o",
+          "date": "Tue, 07 Apr 2026 10:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Gilead to Buy Cancer Biotech Tubulis in $5 Billion Deal - bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-07/gilead-agrees-to-buy-cancer-biotech-tubulis-in-5-billion-deal",
+          "snippet": "# Gilead to Buy Cancer Biotech Tubulis in $5 Billion Deal. Provide news feedback or report an error. Send a tip to our reporters. By Naomi Kresge, Robert Langreth, and Eyk Henning. ## **Takeaways** by Bloomberg AISubscribe. Gilead Sciences Inc. agreed to buy private German biotech Tubulis GmbH in a ",
+          "date": "Tue, 07 Apr 2026 16:42:03 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Gilead pays $3.1B upfront for Tubulis to bolster oncology ADC pipeline - Fierce Biotech",
+          "link": "https://www.fiercebiotech.com/biotech/gilead-inks-5b-tubulis-buyout-bolster-oncology-adc-pipeline",
+          "snippet": "# Gilead pays $3.1B upfront for Tubulis to bolster oncology ADC pipeline. Gilead Sciences Tubulis antibody-drug conjugates mergers and acquisitions Biotech Deals. Gilead has struck a deal to buy Germany-based Tubulis for $3.15 billion upfront and up to $1.85 billion in milestones, securing an antibo",
+          "date": "Tue, 07 Apr 2026 12:30:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        }
+      ]
+    }
+  }
+}
