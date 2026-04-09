@@ -1,0 +1,2378 @@
+{
+  "generated": "2026-04-09T00:57:31.105153+00:00",
+  "input_sources": {
+    "rss_articles": 215,
+    "twitter_articles": 0,
+    "web_articles": 39,
+    "github_articles": 20,
+    "github_trending": 0,
+    "reddit_posts": 0,
+    "total_input": 274
+  },
+  "processing": {
+    "deduplication_applied": true,
+    "multi_source_merging": true,
+    "previous_digest_penalty": false,
+    "quality_scoring": true
+  },
+  "output_stats": {
+    "total_articles": 134,
+    "topics_count": 3,
+    "topic_distribution": {
+      "ai-agent": 16,
+      "frontier-tech": 91,
+      "llm": 27
+    }
+  },
+  "topics": {
+    "ai-agent": {
+      "count": 16,
+      "articles": [
+        {
+          "title": "langchain langchain-tests==1.1.6",
+          "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-tests%3D%3D1.1.6",
+          "date": "2026-04-08T15:18:43+00:00",
+          "summary": "Changes since langchain-tests==1.1.5 release(standard-tests): 1.1.6 (#36610) fix(standard-tests): update standard tests for sandbox backends (#36036) chore: pygments>=2.20.0 across all packages...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "LangChain",
+          "source_id": "langchain-github",
+          "quality_score": 10.0,
+          "multi_source": true,
+          "source_count": 5,
+          "all_sources": [
+            "LangChain",
+            "LangChain",
+            "LangChain"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Poke makes AI agents as easy as sending a text - techcrunch.com",
+          "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+          "snippet": "That’s the idea coming from a new startup offering an AI agent that you can access via iMessage, SMS, Telegram, and, in some markets, WhatsApp. The AI agent Poke launched publicly in March, allowing consumers to access a personal assistant that can take action on their behalf through a familiar inte",
+          "date": "Wed, 08 Apr 2026 21:05:13 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Five9 Deepens Its ‘Multi-Agent’ Play With Assembled Workforce Management - CX Today",
+          "link": "https://www.cxtoday.com/workforce-engagement-management/five9-deepens-its-multi-agent-play-with-assembled-workforce-management/",
+          "snippet": "# Five9 Deepens Its ‘Multi-Agent’ Play With Assembled Workforce Management. Five9 has expanded its partner ecosystem by deepening its relationship with workforce management vendor Assembled, aiming to help enterprises plan and manage blended workforces across human agents, AI agents, and outsourced ",
+          "date": "Wed, 08 Apr 2026 14:05:47 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "openclaw v2026.4.8",
+          "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.8",
+          "date": "2026-04-08T05:59:44+00:00",
+          "summary": "Fixes - Telegram/setup: load setup and secret contracts through packaged top-level sidecars so installed npm builds no longer try to import missing dist/extensions/telegram/src/ files during gateway...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "OpenClaw",
+          "source_id": "openclaw-github",
+          "quality_score": 5.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "openclaw v2026.4.7",
+          "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.7",
+          "date": "2026-04-08T02:12:57+00:00",
+          "summary": "Changes - CLI/infer: add a first-class openclaw infer ... hub for provider-backed inference workflows across model, media, web, and embedding tasks. Thanks @Takhoffman. - Tools/media generation:...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "OpenClaw",
+          "source_id": "openclaw-github",
+          "quality_score": 5.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "crewAI 1.14.2a1",
+          "link": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.2a1",
+          "date": "2026-04-08T23:26:31+00:00",
+          "summary": "What's Changed Bug Fixes - Fix emission of flow_finished event after HITL resume - Fix cryptography version to 46.0.7 to address CVE-2026-39892 Refactoring - Refactor to use shared I18N_DEFAULT...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "CrewAI",
+          "source_id": "crewai-github",
+          "quality_score": 2.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "crewAI 1.14.1",
+          "link": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.1",
+          "date": "2026-04-08T17:57:03+00:00",
+          "summary": "What's Changed Features - Add async checkpoint TUI browser - Add aclose()/close() and async context manager to streaming outputs Bug Fixes - Fix regex for template pyproject.toml version bumps -...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "CrewAI",
+          "source_id": "crewai-github",
+          "quality_score": 2.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "crewAI 1.14.1rc1",
+          "link": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.1rc1",
+          "date": "2026-04-08T16:29:10+00:00",
+          "summary": "What's Changed Features - Add async checkpoint TUI browser - Add aclose()/close() and async context manager to streaming outputs Bug Fixes - Fix template pyproject.toml version bumps using regex -...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "CrewAI",
+          "source_id": "crewai-github",
+          "quality_score": 2.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "New Orleans Is Latest to Answer Nonemergency Calls With AI - GovTech",
+          "link": "https://www.govtech.com/artificial-intelligence/new-orleans-is-latest-to-answer-nonemergency-calls-with-ai",
+          "snippet": "# New Orleans Is Latest to Answer Nonemergency Calls With AI. ## Louisiana’s most populous city is the latest government to have an AI agent answer 311 calls instead of a human. The shift will happen in coming months; the AI has been trained on three years of 311 calls. Since 2023, AI agents have be",
+          "date": "Wed, 08 Apr 2026 21:34:19 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Trent AI raises $13M to build multi-agent security for a world where AI systems are running themselves - The Next Web",
+          "link": "https://thenextweb.com/news/trent-ai-13m-agentic-security-multi-agent",
+          "snippet": "# Trent AI raises $13M to build multi-agent security for a world where AI systems are running themselves. *The London startup emerged from stealth on 7 April with a layered agentic security solution and a seed round backed by LocalGlobe and Cambridge Innovation Capital. Trent AI, a London-based agen",
+          "date": "Wed, 08 Apr 2026 09:35:16 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "The Next Big AI Shift Is Selling Digital Workers-As-A-Service - Forbes",
+          "link": "https://www.forbes.com/sites/bernardmarr/2026/04/08/the-next-big-ai-shift-is-selling-digital-workers-as-a-service/",
+          "snippet": "Image 4: This Google Spinout Thinks AI Can Fix America’s EV Battery Problem. Create your free account to receive personalized offers to your inbox, save articles and follow authors to get their latest stories in a weekly email roundup just for you! Image 10: Agentic AI-as-a-Service could make autono",
+          "date": "Wed, 08 Apr 2026 05:30:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Visa unveils tool to give firms on-ramp to agentic commerce - Finextra Research",
+          "link": "https://www.finextra.com/newsarticle/47550/visa-unveils-tool-to-give-firms-on-ramp-to-agentic-commerce",
+          "snippet": "# Visa unveils tool to give firms on-ramp to agentic commerce. Image 2: Download Finextra Pro. *   Image 3: Download Finextra Pro. 4.   Visa unveils tool to give firms on-ramp to agentic commerce. Image 7: Visa unveils tool to give firms on-ramp to agentic commerce. Currently being piloted by partne",
+          "date": "Wed, 08 Apr 2026 18:07:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "New Ecommerce Tools: April 8, 2026 - Practical Ecommerce",
+          "link": "https://www.practicalecommerce.com/new-ecommerce-tools-april-8-2026",
+          "snippet": "This week’s rundown of new services for ecommerce merchants includes updates on B2B tools, fulfillment, AI reporting, advertising platforms, agentic commerce, payments, affiliate marketing, and business formation services. **Miva releases 26 R1 with an embedded AI reporting assistant.** Ecommerce pl",
+          "date": "Wed, 08 Apr 2026 12:28:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Regal AI launches Copilot for building self-improving voice AI agents - SiliconANGLE",
+          "link": "https://siliconangle.com/2026/04/08/regal-ai-launches-copilot-building-self-improving-voice-ai-agents/",
+          "snippet": "### Regal AI launches Copilot for building self-improving voice AI agents. Regal Voice Inc. today announced the launch of Copilot, which will allow companies to build and deploy artificial intelligence voice agents that self-improve over time without the hassle of prompting and engineering. The copi",
+          "date": "Wed, 08 Apr 2026 14:00:35 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "crewAI 1.14.0",
+          "link": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.0",
+          "date": "2026-04-07T17:47:49+00:00",
+          "summary": "What's Changed Features - Add checkpoint list/info CLI commands - Add guardrail_type and name to distinguish traces - Add SqliteProvider for checkpoint storage - Add CheckpointConfig for automatic...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "CrewAI",
+          "source_id": "crewai-github",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "crewAI 1.14.0a4",
+          "link": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.0a4",
+          "date": "2026-04-07T15:29:28+00:00",
+          "summary": "What's Changed Features - Add guardrail_type and name to distinguish traces - Add SqliteProvider for checkpoint storage - Add CheckpointConfig for automatic checkpointing - Implement runtime state...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "CrewAI",
+          "source_id": "crewai-github",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        }
+      ]
+    },
+    "frontier-tech": {
+      "count": 91,
+      "articles": [
+        {
+          "title": "LittleSnitch for Linux",
+          "link": "https://obdev.at/products/littlesnitch-linux/index.html",
+          "date": "2026-04-09T00:26:08+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Automatic registration for US Military draft to begin in December",
+          "link": "https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/",
+          "date": "2026-04-08T23:53:07+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
+          "link": "https://thales.me/posts/why-i-built-snapstate/",
+          "date": "2026-04-08T21:53:36+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Show HN: Is Hormuz open yet?",
+          "link": "https://www.ishormuzopenyet.com/",
+          "date": "2026-04-08T21:33:06+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "John Deere to pay $99M in right-to-repair settlement",
+          "link": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+          "date": "2026-04-08T20:46:27+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+          "link": "https://werwolv.net/posts/usb_for_sw_devs/",
+          "date": "2026-04-08T19:23:34+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Expanding Swift's IDE Support",
+          "link": "https://swift.org/blog/expanding-swift-ide-support/",
+          "date": "2026-04-08T19:21:41+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
+          "link": "http://oj-hn.com/",
+          "date": "2026-04-08T18:08:52+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+          "link": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+          "date": "2026-04-08T17:44:25+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Understanding the Kalman filter with a simple radar example",
+          "link": "https://kalmanfilter.net",
+          "date": "2026-04-08T17:11:46+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Muse Spark: Scaling towards personal superintelligence",
+          "link": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+          "date": "2026-04-08T16:01:32+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "I ported Mac OS X to the Nintendo Wii",
+          "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+          "date": "2026-04-08T15:40:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
+          "link": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
+          "date": "2026-04-08T14:46:15+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ML promises to be profoundly weird",
+          "link": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+          "date": "2026-04-08T13:06:33+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Show HN: Skrun – Deploy any agent skill as an API",
+          "link": "https://github.com/skrun-dev/skrun",
+          "date": "2026-04-08T12:34:38+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "US cities are axing Flock Safety surveillance technology",
+          "link": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+          "date": "2026-04-08T12:26:14+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+          "link": "https://arxiv.org/abs/2604.05091",
+          "date": "2026-04-08T12:19:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "They're made out of meat (1991)",
+          "link": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+          "date": "2026-04-08T11:20:50+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Git commands I run before reading any code",
+          "link": "https://piechowski.io/post/git-commands-before-reading-code/",
+          "date": "2026-04-08T08:53:42+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+          "link": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+          "date": "2026-04-08T08:50:37+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Hacker News Frontpage",
+          "source_id": "hn-rss",
+          "quality_score": 7.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+          "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+          "date": "2026-04-08T21:19:07+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 7.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "TechCrunch",
+            "404 Media"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+          "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+          "date": "2026-04-08T20:49:11+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Ars Technica",
+          "source_id": "ars-rss",
+          "quality_score": 7.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Ars Technica",
+            "Wired"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Five Reasons Anthropic Kept Its Cybersecurity Breakthrough Invite-Only - Forbes",
+          "link": "https://www.forbes.com/sites/paulocarvao/2026/04/08/five-reasons-anthropic-kept-its-cybersecurity-breakthrough-invite-only/",
+          "snippet": "Anthropic’s Project Glasswing signals a new phase in AI security: powerful cyber models, tightly controlled access and high-stakes competition over who gets to use them first. Anthropic launched Project Glasswing, a cybersecurity initiative built around the unreleased frontier model Claude Mythos Pr",
+          "date": "Wed, 08 Apr 2026 08:03:56 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Cryptocurrency Warning—Bitcoin Blockchain Hack Alarm Sounded By Google - Yahoo News Canada",
+          "link": "https://ca.news.yahoo.com/cryptocurrency-warning-bitcoin-blockchain-hack-142807397.html",
+          "snippet": "Nope, the worst could be yet to come: Google has warned that it will take less-powerful-than-thought quantum computers to crack elliptic curve cryptography protecting the blockchain. However, when Ryan Babbush, the director of research for quantum algorithms at Google, and Hartmut Neven, vice presid",
+          "date": "Wed, 08 Apr 2026 14:28:07 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "WireGuard VPN developer can&#8217;t ship software updates after Microsoft locks account",
+          "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+          "date": "2026-04-08T21:50:41+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+          "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+          "date": "2026-04-08T21:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "TechCrunch",
+          "source_id": "techcrunch-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Trump admin makes sweeping request for medical records of federal workers",
+          "link": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/",
+          "date": "2026-04-08T22:00:11+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Ars Technica",
+          "source_id": "ars-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
+          "date": "2026-04-08T21:08:06+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Ars Technica",
+          "source_id": "ars-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
+          "link": "https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-04-08T17:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "GitHub 如何用 AI 重构反馈处理机制",
+          "link": "https://www.infoq.cn/article/5SYq9w4s86yxTAuu0opy?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-04-08T16:53:43+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”",
+          "link": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-04-08T16:13:24+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Zoho Projects Infinity.ai",
+          "link": "https://www.producthunt.com/products/zoho-projects",
+          "date": "2026-04-08T17:17:04-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Marble 1.1",
+          "link": "https://www.producthunt.com/products/marble-by-world-labs",
+          "date": "2026-04-08T16:04:06-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "FeatDrop",
+          "link": "https://www.producthunt.com/products/featdrop",
+          "date": "2026-04-08T16:07:59-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
+          "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+          "date": "2026-04-08T22:27:26+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover",
+          "link": "https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/",
+          "date": "2026-04-08T19:33:57+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
+          "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+          "date": "2026-04-08T18:51:09+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "早报｜B站推出播放页暂停广告/GoPro启动大规模裁员/Meta时隔9个月再发大模型，被指「图表造假」",
+          "link": "https://www.ifanr.com/1661480?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+          "date": "2026-04-09T00:21:26+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "source_id": "ifanr-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "华为核心技术托底！新款阿维塔 12 29.39 万元起售，科幻感十足的 06T 旅行车也来了",
+          "link": "https://www.ifanr.com/1661450?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+          "date": "2026-04-08T15:40:36+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "source_id": "ifanr-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "7.98 万元起，新款蔚来萤火虫更精致、更好玩，也没背刺老车主",
+          "link": "https://www.ifanr.com/1661380?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+          "date": "2026-04-08T10:35:32+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "source_id": "ifanr-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Gemini gets notebooks to help you organize projects",
+          "link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+          "date": "2026-04-08T20:06:12-04:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Verge",
+          "source_id": "verge-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Dyson made a handheld version of its iconic fans",
+          "link": "https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability",
+          "date": "2026-04-08T12:56:42-04:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Verge",
+          "source_id": "verge-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+          "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+          "date": "2026-04-08T16:10:56-04:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Verge",
+          "source_id": "verge-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "回望日系手机的「加拉帕戈斯」时代",
+          "link": "https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones",
+          "date": "2026-04-08T17:11:08+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Type-C 接口最大的问题，是看起来已经「统一」了",
+          "link": "https://sspai.com/post/108325",
+          "date": "2026-04-08T14:42:09+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "谈谈 Windows 的视觉风格与交互演变",
+          "link": "https://sspai.com/prime/story/windows-ui-styles-history",
+          "date": "2026-04-08T14:05:12+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
+          "link": "https://red.anthropic.com/2026/mythos-preview/",
+          "date": "2026-04-08T18:04:29+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future",
+          "link": "https://daringfireball.net/2026/04/openai_future",
+          "date": "2026-04-08T01:58:15+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Podcast: Wildlife Cops Are Searching AI Cameras for ICE",
+          "link": "https://www.404media.co/podcast-wildlife-cops-are-searching-ai-cameras-for-ice/",
+          "date": "2026-04-08T14:31:59+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "404 Media",
+          "source_id": "404media-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "I Wish I Didn’t Care About 'Marathon' Player Numbers, But I Do",
+          "link": "https://www.404media.co/i-wish-i-didnt-care-about-marathon-player-numbers-but-i-do/",
+          "date": "2026-04-08T14:08:37+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "404 Media",
+          "source_id": "404media-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "How Spotify Ships to 675 Million Users Every Week Without Breaking Things",
+          "link": "https://blog.bytebytego.com/p/how-spotify-ships-to-675-million",
+          "date": "2026-04-08T15:30:20+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "ByteByteGo",
+          "source_id": "bytebytego-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "How do you add or remove a handle from an active Msg&#173;Wait&#173;For&#173;Multiple&#173;Objects?",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218",
+          "date": "2026-04-08T14:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Old New Thing (Raymond Chen)",
+          "source_id": "oldnewthing-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Pluralistic: Process knowledge (08 Apr 2026)",
+          "link": "https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/",
+          "date": "2026-04-08T13:39:44+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Pluralistic (Cory Doctorow)",
+          "source_id": "pluralistic-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "picoclaw v0.2.6",
+          "link": "https://github.com/sipeed/picoclaw/releases/tag/v0.2.6",
+          "date": "2026-04-08T13:39:01+00:00",
+          "summary": "Changelog ee29aaa871be7336a6418cd3c5e09a80bc0af512 Enhance hooks with respond action and comprehensive documentation (#2215) 51eecde01ed2db893949b88939e3e1965204847c Feat/support isolation (#2423)...",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "github",
+          "source_name": "Sipeed PicoClaw",
+          "source_id": "picoclaw-github",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "picoclaw nightly",
+          "link": "https://github.com/sipeed/picoclaw/releases/tag/nightly",
+          "date": "2026-04-08T06:40:00+00:00",
+          "summary": "Nightly build for v0.2.5-nightly.20260408.7d167646 This is an automated build and may be unstable. Use with caution. Full Changelog: https://github.com/sipeed/picoclaw/compare/v0.2.5...main",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "github",
+          "source_name": "Sipeed PicoClaw",
+          "source_id": "picoclaw-github",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Solar Eclipse From the Far Side of the Moon",
+          "link": "https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon",
+          "date": "2026-04-07T22:23:27+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic",
+          "link": "https://x.com/OpenAINewsroom/status/2041618671236469200?s=20",
+          "date": "2026-04-07T22:23:08+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Om Malik and Ben Thompson on OpenAI Buying TBPN",
+          "link": "https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/",
+          "date": "2026-04-07T16:52:45+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Flighty Airports Meltdown Map",
+          "link": "https://flighty.com/airports",
+          "date": "2026-04-07T16:44:06+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The Data Drop: Every iPhone",
+          "link": "https://sheets.works/data-viz/every-iphone",
+          "date": "2026-04-07T16:34:14+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Temple University Student Highlights IEEE Membership Perks",
+          "link": "https://spectrum.ieee.org/temple-university-student-membership-perks",
+          "date": "2026-04-07T18:00:02+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "IEEE Spectrum",
+          "source_id": "ieee-spectrum-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Decentralized Training Can Help Solve AI’s Energy Woes",
+          "link": "https://spectrum.ieee.org/decentralized-ai-training-2676670858",
+          "date": "2026-04-07T14:00:01+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "IEEE Spectrum",
+          "source_id": "ieee-spectrum-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Why AI Systems Fail Quietly",
+          "link": "https://spectrum.ieee.org/ai-reliability",
+          "date": "2026-04-07T13:00:01+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "IEEE Spectrum",
+          "source_id": "ieee-spectrum-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Nextdoor’s Database Evolution: A Scaling Ladder",
+          "link": "https://blog.bytebytego.com/p/nextdoors-database-evolution-a-scaling",
+          "date": "2026-04-07T15:32:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "ByteByteGo",
+          "source_id": "bytebytego-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Were there any Windows 3.1 programs that were so incompatible with Windows 95 that there was no point trying to patch them?",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260407-00/?p=112213",
+          "date": "2026-04-07T14:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "The Old New Thing (Raymond Chen)",
+          "source_id": "oldnewthing-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Pluralistic: Switzerland&#039;s Goldilocks fiber (07 Apr 2026)",
+          "link": "https://pluralistic.net/2026/04/07/swisscom/",
+          "date": "2026-04-07T07:20:37+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Pluralistic (Cory Doctorow)",
+          "source_id": "pluralistic-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+          "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+          "date": "2026-04-07T17:02:44+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Krebs on Security",
+          "source_id": "krebs-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Weekly Update 498",
+          "link": "https://www.troyhunt.com/weekly-update-498/",
+          "date": "2026-04-07T01:53:05+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Troy Hunt",
+          "source_id": "troyhunt-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Mario and Earendil",
+          "link": "https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/",
+          "date": "2026-04-08T00:00:00+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Armin Ronacher",
+          "source_id": "lucumr-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Astellas unearths Dyno muscle disorder AAV capsid with $15M option agreement - Fierce Biotech",
+          "link": "https://www.fiercebiotech.com/biotech/astellas-pharma-and-dyno-therapeutics-unearth-15m-muscle-disorder-capsid-ongoing",
+          "snippet": "# Astellas unearths Dyno muscle disorder AAV capsid with $15M option agreement. Astellas Pharma Dyno Therapeutics gene therapy deal. Under a research collaboration first established in 2021, Astellas Pharma is moving to license a Dyno Therapeutics gene therapy vehicle—an adeno-associated virus (AAV)",
+          "date": "Wed, 08 Apr 2026 12:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Artificial Intelligence in Agriculture Market Research - GlobeNewswire",
+          "link": "https://www.globenewswire.com/news-release/2026/04/08/3269899/28124/en/Artificial-Intelligence-in-Agriculture-Market-Research-Report-2026-2032-Reshaping-How-Agricultural-Enterprises-Optimize-Productivity-Streamline-Operations-and-Address-Evolving-Supp.html",
+          "snippet": "# Artificial Intelligence in Agriculture Market Research Report 2026-2032: Reshaping How Agricultural Enterprises Optimize Productivity, Streamline Operations, and Address Evolving Supply Chain Demands. ## Key market opportunities in AI agriculture: integrated tech for productivity, adaptive procure",
+          "date": "Wed, 08 Apr 2026 09:38:41 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Opinion: China’s Rare Earth Leverage Is Aerospace’s Latest Constraint - Aviation Week",
+          "link": "https://aviationweek.com/defense/supply-chain/opinion-chinas-rare-earth-leverage-aerospaces-latest-constraint",
+          "snippet": "* Aviation Week & Space Technology - Inside MRO. * CAPA Airline Leader Summit - Airlines in Transition. * CAPA Airline Leader Summit - Americas. * CAPA Airline Leader Summit - Latin America & Caribbean. * CAPA Airline Leader Summit - Australia Pacific. * CAPA Airline Leader Summit - Asia & Sustainab",
+          "date": "Wed, 08 Apr 2026 16:03:23 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Back to the land and technology, an attractive duo for young people - Thot Cursus",
+          "link": "https://cursus.edu/en/35853/back-to-the-land-and-technology-an-attractive-duo-for-young-people",
+          "snippet": "## Agricultural technology is of great interest to new generations of farmers. ### Young people flock to agricultural technologies. Agricultural technology (agtech) undoubtedly has something to do with it. Analyses of the potential for, or adoption of, precision farming show that young people, wheth",
+          "date": "Wed, 08 Apr 2026 06:53:28 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "H55 Delivers Batteries For B23 Energic Electric Trainer - Aviation Week",
+          "link": "https://aviationweek.com/aerospace/advanced-air-mobility/h55-delivers-batteries-b23-energic-electric-trainer",
+          "snippet": "* Aviation Week & Space Technology - Inside MRO. * CAPA Airline Leader Summit - Airlines in Transition. * CAPA Airline Leader Summit - Americas. * CAPA Airline Leader Summit - Latin America & Caribbean. * CAPA Airline Leader Summit - Australia Pacific. * CAPA Airline Leader Summit - Asia & Sustainab",
+          "date": "Wed, 08 Apr 2026 20:21:52 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Advanced Farming Market Size, Trends, Share, Analysis, Growth and Forecast 2032 | Credence Research - openPR.com",
+          "link": "https://www.openpr.com/news/4460576/advanced-farming-market-size-trends-share-analysis-growth",
+          "snippet": "# Advanced Farming Market Size, Trends, Share, Analysis, Growth and Forecast 2032 | Credence Research. The Advanced Farming Market is undergoing a transformative shift as agriculture evolves into a technology-driven ecosystem focused on precision, efficiency, and sustainability. The adoption of adva",
+          "date": "Wed, 08 Apr 2026 17:24:04 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Quantum computers keep losing data. This breakthrough finally tracks it - ScienceDaily",
+          "link": "http://www.sciencedaily.com/releases/2026/04/260407193857.htm",
+          "snippet": ":   Quantum computers struggle with a major flaw: their information vanishes unpredictably. Scientists have now created a new method that can measure this loss over 100 times faster than before. \"In quantum computers, information is transmitted and stored using so-called qubits (quantum bits). But q",
+          "date": "Wed, 08 Apr 2026 05:04:42 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "We urgently need to prepare for quantum computers breaking encryption - New Scientist",
+          "link": "https://www.newscientist.com/article/2522124-we-urgently-need-to-prepare-for-quantum-computers-breaking-encryption/",
+          "snippet": "# We urgently need to prepare for quantum computers breaking encryption. The maths problems that secure your online bank transactions and emails may soon be undermined by quantum technology. As we report here, two separate papers, including one from Google, have discovered that the threshold for a q",
+          "date": "Wed, 08 Apr 2026 17:00:37 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Quantum entanglement can be measured in solids for the first time - New Scientist",
+          "link": "https://www.newscientist.com/article/2522100-quantum-entanglement-can-be-measured-in-solids-for-the-first-time/",
+          "snippet": "# Quantum entanglement can be measured in solids for the first time. A method that relies on hitting materials with neutrons can measure how much quantum entanglement hides within them, which could enable new kinds of quantum technology. We finally have a way to measure quantum entanglement of solid",
+          "date": "Wed, 08 Apr 2026 16:00:39 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Polygon raising funds, General Atlantic's $3B buy, and a semiconductor deal. - Axios",
+          "link": "https://amp.axios.com/pro-rata-premium-first-look-f6295f26-c038-424f-b564-1c6b8ea9e3e1.html",
+          "snippet": "**• Polygon Labs**, a Cayman Islands-based blockchain developer, is in talks to raise $50m to $100m, per The Information. • **Q-Factor**, an Israeli neutral atom quantum computing company, raised $24m in seed funding. • **Treon**, a Finnish wireless sensor and connected tools provider, raised €6.8m ",
+          "date": "Wed, 08 Apr 2026 20:06:02 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Protected quantum gates using qubit doublons in dynamical optical lattices - nature.com",
+          "link": "https://www.nature.com/articles/s41586-026-10285-1",
+          "snippet": "# Protected quantum gates using qubit doublons in dynamical optical lattices. Neutral atoms in optical lattices have emerged as a leading computing platform, with collisional gates offering a stable mechanism for quantum logic1.\"),2.\"),3.\"),4.\"),5.\"),6.\"),7.\"),8.\"),9.\"),10.\"). Here we propose and ex",
+          "date": "Wed, 08 Apr 2026 15:33:22 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Intel Partners with Elon Musk's Terafab Initiative for Advanced Chip Production - MLQ.ai",
+          "link": "https://mlq.ai/news/intel-partners-with-elon-musks-terafab-initiative-for-advanced-chip-production/",
+          "snippet": "# Intel Partners with Elon Musk's Terafab Initiative for Advanced Chip Production. * Intel announced it is joining Elon Musk's Terafab project with SpaceX, xAI and Tesla to advance silicon fabrication technology[1][2]. Intel has joined Elon Musk's Terafab project, partnering with SpaceX, xAI and Tes",
+          "date": "Wed, 08 Apr 2026 11:03:45 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "First Quantum says Panama government approves removal of stockpiled ore at Cobre mine - richmond-news.com",
+          "link": "https://www.richmond-news.com/the-mix/first-quantum-says-panama-government-approves-removal-of-stockpiled-ore-at-cobre-mine-12111250",
+          "snippet": "# First Quantum says Panama government approves removal of stockpiled ore at Cobre mine. TORONTO — First Quantum Minerals Ltd. says the government of Panama has approved the removal, processing and export of stockpiled ore at the Cobre Panamá copper mine. TORONTO — First Quantum Minerals Ltd. says t",
+          "date": "Wed, 08 Apr 2026 08:16:38 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Phanes Therapeutics announces dose expansion in clinical study of spevatamig in combination with chemotherapy for treatment of biliary tract cancer - BioSpace",
+          "link": "https://www.biospace.com/press-releases/phanes-therapeutics-announces-dose-expansion-in-clinical-study-of-spevatamig-in-combination-with-chemotherapy-for-treatment-of-biliary-tract-cancer",
+          "snippet": "# Phanes Therapeutics announces dose expansion in clinical study of spevatamig in combination with chemotherapy for treatment of biliary tract cancer. (Phanes), a clinical stage biotech company focused on innovative drug discovery and development in oncology, announced today the initiation of the do",
+          "date": "Wed, 08 Apr 2026 05:51:30 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Biotech Updates: Corporate Subscriptions Now Available - ISAAA.org",
+          "link": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21774",
+          "snippet": "* Biotech Updates: Corporate Subscriptions Now Available. # **Biotech Updates: Corporate Subscriptions Now Available**. A corporate subscription equips your entire team with the insights necessary to drive growth:. * Trace the 29-year trajectory of biotech adoption to identify emerging markets and h",
+          "date": "Wed, 08 Apr 2026 12:13:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Scala Biodesign secures $16M to expand AI-driven protein development with ScalaOS - ynetnews",
+          "link": "https://www.ynetnews.com/business/article/bjmwncm3we",
+          "snippet": "# Scala Biodesign secures $16M to expand AI-driven protein development with ScalaOS. ## Funding will support global expansion of ScalaOS, a hybrid AI-driven protein design platform enabling faster development and optimization of biologics, enzymes, antibodies and vaccines. Scala Biodesign, a biotech",
+          "date": "Wed, 08 Apr 2026 13:48:53 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Akari locks arms with WuXi XDC to develop and manufacture novel ADC treatment - Fierce Biotech",
+          "link": "https://www.fiercebiotech.com/cro/akari-locks-arms-wuxi-develop-and-manufacture-novel-adc-treatment",
+          "snippet": "# Akari locks arms with WuXi XDC to develop and manufacture novel ADC treatment. Akari Therapeutics CRO antibody-drug conjugates Oncology ADCs antibody drug conjugates Biotech Deals CRO. Oncology biotech Akari Therapeutics has announced a partnership with WuXi XDC, an antibody-drug conjugate (ADC) d",
+          "date": "Wed, 08 Apr 2026 15:30:12 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough - sciencedaily.com",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+          "snippet": "# Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough. :   Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. In mice, it revealed surprising new connection",
+          "date": "Wed, 08 Apr 2026 01:39:53 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The Credibility Filter Wall Street Uses to Sort Biotech Winners - The Spec",
+          "link": "https://www.thespec.com/globenewswire/the-credibility-filter-wall-street-uses-to-sort-biotech-winners/article_72cbb438-22c9-5a83-8851-bfa696afe124.html",
+          "snippet": "## Issued on behalf of Avaí Bio, Inc. VANCOUVER, British Columbia, April 08, 2026 (GLOBE NEWSWIRE) — USANewsGroup.com News Commentary — Biotechs that went public in Q1 2026 raised a median of $287.5 million each; and nearly every one of them carried mid or late stage clinical data[1]. VANCOUVER, Bri",
+          "date": "Wed, 08 Apr 2026 13:15:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "With $2B Novo deal in the books, Vivtex isn't 'limited to being just a drug delivery company': CEO - fiercebiotech.com",
+          "link": "https://www.fiercebiotech.com/biotech/after-21b-novo-deal-vivtex-just-getting-started",
+          "snippet": "# With $2B Novo deal in the books, Vivtex isn't 'limited to being just a drug delivery company': CEO. While the biotech may be best known for its high-profile oral delivery partnership, the company is advancing several R&D efforts of its own while taking up a new space and growing its headcount. Wit",
+          "date": "Wed, 08 Apr 2026 12:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "CorTec becomes first German BCI company to get FDA Breakthrough Designation - MobiHealthNews",
+          "link": "https://www.mobihealthnews.com/news/cortec-becomes-first-german-bci-company-get-fda-breakthrough-designation",
+          "snippet": "The U.S. Food and Drug Administration (FDA) has granted breakthrough device designation to Germany-based brain-computer interface company CorTech GmbH for its Brain Interchange system used for stroke-related impairments. Brain Interchange is a brain-computer interface (BCI) system and investigationa",
+          "date": "Wed, 08 Apr 2026 13:24:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Advancing the case for cell and gene therapies - pharmaphorum.com",
+          "link": "https://pharmaphorum.com/oncology/advancing-case-cell-and-gene-therapies",
+          "snippet": "First, *in vivo* cell therapy – using genetic engineering directly in patients – is gaining strong momentum, with delivery vector technology showing potential beyond CAR-T to targets like myeloid cells. Which technology, platform, or biological approach discussed at Advanced Therapies UK 2026 do you",
+          "date": "Wed, 08 Apr 2026 12:01:26 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        }
+      ]
+    },
+    "llm": {
+      "count": 27,
+      "articles": [
+        {
+          "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
+          "link": "https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything",
+          "date": "2026-04-08T23:07:44+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Simon Willison",
+          "source_id": "simonwillison-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Quoting Giles Turnbull",
+          "link": "https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything",
+          "date": "2026-04-08T15:18:49+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Simon Willison",
+          "source_id": "simonwillison-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+          "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+          "date": "2026-04-08T14:00:00+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "MIT Technology Review",
+          "source_id": "mit-tech-review-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The Download: water threats in Iran and AI&#8217;s impact on what entrepreneurs make",
+          "link": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
+          "date": "2026-04-08T12:10:00+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "MIT Technology Review",
+          "source_id": "mit-tech-review-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
+          "date": "2026-04-08T14:27:42+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "Hugging Face Blog",
+          "source_id": "huggingface-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "The next phase of enterprise AI",
+          "link": "https://openai.com/index/next-phase-of-enterprise-ai",
+          "date": "2026-04-08T14:00:00+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "OpenAI Blog",
+          "source_id": "openai-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Introducing the Child Safety Blueprint",
+          "link": "https://openai.com/index/introducing-child-safety-blueprint",
+          "date": "2026-04-08T05:00:00+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "OpenAI Blog",
+          "source_id": "openai-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "What should we take from Anthropic’s (possibly) terrifying new report on Mythos?",
+          "link": "https://garymarcus.substack.com/p/what-should-we-take-from-anthropics",
+          "date": "2026-04-08T17:47:38+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Gary Marcus",
+          "source_id": "garymarcus-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+          "link": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+          "date": "2026-04-08T09:45:59+00:00",
+          "topics": [
+            "llm",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "NVIDIA AI Blog",
+          "source_id": "nvidia-ai-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "anthropic-sdk-python v0.92.0",
+          "link": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.92.0",
+          "date": "2026-04-08T16:55:01+00:00",
+          "summary": "0.92.0 (2026-04-08) Full Changelog: v0.91.0...v0.92.0 Features api:** add support for Claude Managed Agents (5b879a7)",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Anthropic SDK",
+          "source_id": "anthropic-sdk-github",
+          "quality_score": 7.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Anthropic SDK",
+            "Anthropic SDK",
+            "Anthropic SDK"
+          ],
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "GLM-5.1: Towards Long-Horizon Tasks",
+          "link": "https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything",
+          "date": "2026-04-07T21:25:14+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Simon Willison",
+          "source_id": "simonwillison-rss",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Desalination plants in the Middle East are increasingly vulnerable",
+          "link": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/",
+          "date": "2026-04-07T14:54:06+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "MIT Technology Review",
+          "source_id": "mit-tech-review-rss",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Safetensors is Joining the PyTorch Foundation",
+          "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+          "date": "2026-04-08T00:00:00+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "Hugging Face Blog",
+          "source_id": "huggingface-rss",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "No Claude for Claws",
+          "link": "https://www.bensbites.com/p/no-claude-for-claws",
+          "date": "2026-04-07T13:15:47+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "Ben's Bites",
+          "source_id": "bensbites-rss",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "ollama v0.20.4",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.4",
+          "date": "2026-04-07T17:57:51+00:00",
+          "summary": "What's Changed mlx: Improve M5 performance with NAX gemma4: enable flash attention Full Changelog: https://github.com/ollama/ollama/compare/v0.20.3...v0.20.4",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 3.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.20.3",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.3",
+          "date": "2026-04-07T05:19:10+00:00",
+          "summary": "What's Changed Gemma 4 Tool Calling improvements Added latest models to Ollama App OpenClaw fixes for launching TUI Full Changelog**: https://github.com/ollama/ollama/compare/v0.20.2...v0.20.3",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 3.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
+          "link": "https://www.qbitai.com/2026/04/398001.html",
+          "date": "2026-04-08T14:26:19+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
+          "link": "https://www.qbitai.com/2026/04/397951.html",
+          "date": "2026-04-08T10:50:51+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
+          "link": "https://www.qbitai.com/2026/04/397942.html",
+          "date": "2026-04-08T10:17:47+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "量子位 QbitAI",
+          "source_id": "qbitai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Meta&#039;s Muse Spark is its first frontier model and its first without open weights",
+          "link": "https://the-decoder.com/metas-muse-spark-is-its-first-frontier-model-and-its-first-without-open-weights/",
+          "date": "2026-04-08T18:00:03+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Stability AI launches Brand Studio for brand-consistent image generation",
+          "link": "https://the-decoder.com/stability-ai-launches-brand-studio-for-brand-consistent-image-generation/",
+          "date": "2026-04-08T16:15:42+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "One in four quotes in AI chatbot responses comes from journalism, Muckrack study finds",
+          "link": "https://the-decoder.com/one-in-four-quotes-in-ai-chatbot-responses-comes-from-journalism-muckrack-study-finds/",
+          "date": "2026-04-08T16:01:47+00:00",
+          "topics": [
+            "llm",
+            "ai-agent"
+          ],
+          "source_type": "rss",
+          "source_name": "The Decoder",
+          "source_id": "the-decoder-rss",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "openai-python v2.31.0",
+          "link": "https://github.com/openai/openai-python/releases/tag/v2.31.0",
+          "date": "2026-04-08T21:01:00+00:00",
+          "summary": "2.31.0 (2026-04-08) Full Changelog: v2.30.0...v2.31.0 Features api: add phase field to conversations message (3e5834e) api: add web_search_call.results to ResponseIncludable type (ffd8741) client:...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "OpenAI Python SDK",
+          "source_id": "openai-python-github",
+          "quality_score": 2.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "The day you get cut out of the economy",
+          "link": "https://geohot.github.io//blog/jekyll/update/2026/04/08/the-day-you-get-cut-out.html",
+          "date": "2026-04-08T00:00:00+08:00",
+          "topics": [
+            "frontier-tech",
+            "llm"
+          ],
+          "source_type": "rss",
+          "source_name": "Geohot",
+          "source_id": "geohot-rss",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "frontier-tech",
+            "llm"
+          ]
+        },
+        {
+          "title": "Exclusive: FP Markets Joins Layoff Trend, Cutting up to 7% of Global Workforce - Finance Magnates",
+          "link": "https://www.financemagnates.com/forex/exclusive-fp-markets-joins-layoff-trend-cutting-up-to-7-of-global-workforce/",
+          "snippet": "Areas of Coverage: Online trading industry news Fintech companies Digital assets and crypto markets Regulatory and compliance developments Executive interviews Education: BA in Law – Nottingham Trent University LLM in Health Law – Nottingham Trent University. * #### Tickmill Winner Spotlight | Broke",
+          "date": "Wed, 08 Apr 2026 12:11:57 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Meta unveils Muse Spark AI model to rival top chatbots - CNBC",
+          "link": "https://www.cnbc.com/video/2026/04/08/meta-unveils-its-new-ai-model-muse-spark.html",
+          "snippet": "# Meta unveils Muse Spark AI model to rival top chatbots. Meta announces its new AI Model, \"Muse Spark.\" The first in a series of new large language models. CNBC’s Julia Boorstin joins ‘Halftime Report’ to discuss the latest news from the social media giant. The Investment Committee debate what it m",
+          "date": "Wed, 08 Apr 2026 17:03:17 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Sequence Display enables large-scale sequence–activity datasets for rapid protein evolution - Nature",
+          "link": "https://www.nature.com/articles/s41587-026-03087-3",
+          "snippet": "Protein language models-assisted optimization of a uracil-*N*-glycosylase variant enables programmable T-to-G and T-to-C base editing. ### Extended Data Fig. 2 Sequence Display evolution of the 5NNK SlugCas9 library towards expanded PAM recognition. Extracted plasmids were subsequently used to prepa",
+          "date": "Wed, 08 Apr 2026 09:27:28 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        }
+      ]
+    }
+  }
+}
