@@ -1,0 +1,1803 @@
+{
+  "generated": "2026-04-14T01:06:25.551928+00:00",
+  "input_sources": {
+    "rss_articles": 79,
+    "twitter_articles": 0,
+    "web_articles": 34,
+    "github_articles": 6,
+    "github_trending": 38,
+    "reddit_posts": 0,
+    "total_input": 157
+  },
+  "processing": {
+    "deduplication_applied": true,
+    "multi_source_merging": true,
+    "previous_digest_penalty": false,
+    "quality_scoring": true
+  },
+  "output_stats": {
+    "total_articles": 94,
+    "topics_count": 3,
+    "topic_distribution": {
+      "ai-agent": 16,
+      "frontier-tech": 57,
+      "llm": 21
+    }
+  },
+  "topics": {
+    "ai-agent": {
+      "count": 16,
+      "articles": [
+        {
+          "title": "CherryHQ/cherry-studio: AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+          "link": "https://github.com/CherryHQ/cherry-studio",
+          "snippet": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+          "date": "2026-04-13T18:09:17Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 43427,
+          "daily_stars_est": 63,
+          "forks": 4075,
+          "language": "TypeScript",
+          "quality_score": 11,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "openclaw v2026.4.12",
+          "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.12",
+          "date": "2026-04-13T12:35:53+00:00",
+          "summary": "OpenClaw 2026.4.12 is a broad quality release focused on plugin loading, memory and dreaming reliability, new local-model options, and a much smoother Feishu setup path. Changes - QA/lab: add...",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "github",
+          "source_name": "OpenClaw",
+          "source_id": "openclaw-github",
+          "quality_score": 10.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "OpenClaw",
+            "OpenClaw"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "skalesapp/skales: Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no ter",
+          "link": "https://github.com/skalesapp/skales",
+          "snippet": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no ter",
+          "date": "2026-04-13T10:19:36Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 790,
+          "daily_stars_est": 22,
+          "forks": 135,
+          "language": "TypeScript",
+          "quality_score": 7,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "lsdefine/GenericAgent: Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "link": "https://github.com/lsdefine/GenericAgent",
+          "snippet": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "date": "2026-04-13T14:48:53Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 896,
+          "daily_stars_est": 10,
+          "forks": 151,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Nesto Secures €11M to Scale AI Workforce Platform - Let's Data Science",
+          "link": "https://letsdatascience.com/news/nesto-secures-11m-to-scale-ai-workforce-platform-33439b37",
+          "snippet": "Nesto Software GmbH raised **€11 million** from Expedition Growth Capital to accelerate its AI-driven workforce management platform for restaurant groups. The funding will expand product development, sales and marketing, and broaden NORA, Nesto's AI assistant, into a wider agent framework for back-o",
+          "date": "Mon, 13 Apr 2026 09:04:43 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Insights from 300 Leaders: PKI Automation, AI Agents and Post‑Quantum Readiness - Dark Reading",
+          "link": "https://www.darkreading.com/cyber-risk/insights-from-300-leaders-pki-automation-ai-agents-and-post-quantum-readiness",
+          "snippet": "The HID PKI market study shows PKI automation becoming essential as certificate cycles tighten, AI agent certificates beginning to take hold, and post-quantum cryptography readiness remaining low—indicating that PKI strategies must rapidly evolve to stay resilient. HID’s market study of 300 IT and s",
+          "date": "Mon, 13 Apr 2026 10:24:20 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Farms go autonomous: Agentic AI set to replace traditional precision agriculture - Devdiscourse",
+          "link": "https://www.devdiscourse.com/article/technology/3867667-farms-go-autonomous-agentic-ai-set-to-replace-traditional-precision-agriculture?amp",
+          "snippet": "A new study published in *AgriEngineering* outlines how a new generation of agentic AI systems could redefine precision agriculture, enabling farms to operate through coordinated, goal-driven digital agents rather than static, human-dependent workflows. The study, titled *\"Agentic AI-Based IoT Preci",
+          "date": "Mon, 13 Apr 2026 02:23:09 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Microsoft Plans to Bring Copilot Into the Agentic AI Age - CNET",
+          "link": "https://www.cnet.com/tech/services-and-software/microsoft-plans-to-bring-copilot-into-the-agentic-ai-age/",
+          "snippet": "# Microsoft Plans to Bring Copilot Into the Agentic AI Age. An always-on Copilot could sort out your inbox and calendar. Microsoft is leaning into agentic AI with a planned revamp of its own AI assistant, Copilot, according to a new report from The Information\"). OpenClaw, the open-source platform f",
+          "date": "Mon, 13 Apr 2026 23:13:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "stakpak/agent: Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+          "link": "https://github.com/stakpak/agent",
+          "snippet": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+          "date": "2026-04-13T22:31:59Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 1375,
+          "daily_stars_est": 3,
+          "forks": 133,
+          "language": "Rust",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "jd-opensource/JoySafeter: 🚀 JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration...",
+          "link": "https://github.com/jd-opensource/JoySafeter",
+          "snippet": "🚀 JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration...",
+          "date": "2026-04-13T08:33:33Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 248,
+          "daily_stars_est": 3,
+          "forks": 51,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Usta0x001/Phantom:  Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+          "link": "https://github.com/Usta0x001/Phantom",
+          "snippet": " Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+          "date": "2026-04-13T20:50:02Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 107,
+          "daily_stars_est": 2,
+          "forks": 10,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Alex8791-cyber/cognithor: Cognithor - Agent OS: Local-first autonomous agent operating system. 16 LLM providers, 17 channels, 112+ MCP tools, 5-tier memory, A2A protocol, knowledge vault, voice, browser automation, Computer-us",
+          "link": "https://github.com/Alex8791-cyber/cognithor",
+          "snippet": "Cognithor - Agent OS: Local-first autonomous agent operating system. 16 LLM providers, 17 channels, 112+ MCP tools, 5-tier memory, A2A protocol, knowledge vault, voice, browser automation, Computer-us",
+          "date": "2026-04-13T17:16:10Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 103,
+          "daily_stars_est": 2,
+          "forks": 14,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Bande-a-Bonnot/Boucle-framework: Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
+          "link": "https://github.com/Bande-a-Bonnot/Boucle-framework",
+          "snippet": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
+          "date": "2026-04-13T03:00:34Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "ai-agent"
+          ],
+          "stars": 62,
+          "daily_stars_est": 1,
+          "forks": 4,
+          "language": "Shell",
+          "quality_score": 5,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "The rise of agentic AI – what it means for marketers - Marketing Week",
+          "link": "https://www.marketingweek.com/knowledge-bank/article/the-rise-of-agentic-ai-what-it-means-for-marketers/",
+          "snippet": "# The rise of agentic AI – what it means for marketers. The 10th edition of the State of Marketing Report shows marketers are starting to move beyond fragmented generative tools and towards agentic AI – systems that can act autonomously across marketing workflows. In this *Marketing Week* webinar, p",
+          "date": "Mon, 13 Apr 2026 14:17:53 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Charm Security Promotes Agentic Workforce Framework for Fraud and Cybercrime - TipRanks",
+          "link": "https://www.tipranks.com/news/private-companies/charm-security-promotes-agentic-workforce-framework-for-fraud-and-cybercrime",
+          "snippet": "# Charm Security Promotes Agentic Workforce Framework for Fraud and Cybercrime. TipRanks Private Companies Auto-Generated Newsdesk. According to a recent LinkedIn post from Charm Security, the company is promoting a new report that outlines an “agentic workforce” framework for addressing fraud and c",
+          "date": "Mon, 13 Apr 2026 18:02:46 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "Building AI-era organizations that keep their best people - Consultancy-me.com",
+          "link": "https://www.consultancy-me.com/news/amp/13121/building-ai-era-organizations-that-keep-their-best-people",
+          "snippet": "At Agile Dynamics, we advocate for a more sustainable approach – one where talent is an integrated part of the AI journey, alongside products, data, and technology. What business architecture does for digital work and AI agents, integrated talent assessment can do for people. AI agents can read capa",
+          "date": "Mon, 13 Apr 2026 05:10:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "ai-agent"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "ai-agent",
+          "all_topics": [
+            "ai-agent"
+          ]
+        }
+      ]
+    },
+    "frontier-tech": {
+      "count": 57,
+      "articles": [
+        {
+          "title": "tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone",
+          "link": "https://github.com/tensorflow/tensorflow",
+          "snippet": "An Open Source Machine Learning Framework for Everyone",
+          "date": "2026-04-14T00:58:32Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 194701,
+          "daily_stars_est": 51,
+          "forks": 75279,
+          "language": "C++",
+          "quality_score": 10,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "huggingface/transformers: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "link": "https://github.com/huggingface/transformers",
+          "snippet": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "date": "2026-04-14T00:55:04Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 159318,
+          "daily_stars_est": 59,
+          "forks": 32861,
+          "language": "Python",
+          "quality_score": 10,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ultralytics/ultralytics: Ultralytics YOLO 🚀",
+          "link": "https://github.com/ultralytics/ultralytics",
+          "snippet": "Ultralytics YOLO 🚀",
+          "date": "2026-04-14T00:36:34Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 55848,
+          "daily_stars_est": 43,
+          "forks": 10752,
+          "language": "Python",
+          "quality_score": 9,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "roboflow/supervision: We write your reusable computer vision tools. 💜",
+          "link": "https://github.com/roboflow/supervision",
+          "snippet": "We write your reusable computer vision tools. 💜",
+          "date": "2026-04-13T22:54:14Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 38003,
+          "daily_stars_est": 31,
+          "forks": 3351,
+          "language": "Python",
+          "quality_score": 8,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "link": "https://github.com/pytorch/pytorch",
+          "snippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "date": "2026-04-14T01:04:06Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 99098,
+          "daily_stars_est": 28,
+          "forks": 27478,
+          "language": "Python",
+          "quality_score": 7,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ultralytics/yolov5: YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+          "link": "https://github.com/ultralytics/yolov5",
+          "snippet": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+          "date": "2026-04-13T04:03:57Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 57194,
+          "daily_stars_est": 27,
+          "forks": 17460,
+          "language": "Python",
+          "quality_score": 7,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "keras-team/keras: Deep Learning for humans",
+          "link": "https://github.com/keras-team/keras",
+          "snippet": "Deep Learning for humans",
+          "date": "2026-04-14T00:54:13Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 63984,
+          "daily_stars_est": 16,
+          "forks": 19737,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "streamlit/streamlit: Streamlit — A faster way to build and share data apps.",
+          "link": "https://github.com/streamlit/streamlit",
+          "snippet": "Streamlit — A faster way to build and share data apps.",
+          "date": "2026-04-14T00:31:31Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 44207,
+          "daily_stars_est": 18,
+          "forks": 4196,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "gradio-app/gradio: Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+          "link": "https://github.com/gradio-app/gradio",
+          "snippet": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+          "date": "2026-04-14T00:37:38Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 42319,
+          "daily_stars_est": 16,
+          "forks": 3388,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "ray-project/ray: Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+          "link": "https://github.com/ray-project/ray",
+          "snippet": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+          "date": "2026-04-14T01:02:50Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 42106,
+          "daily_stars_est": 12,
+          "forks": 7433,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "deepspeedai/DeepSpeed: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+          "link": "https://github.com/deepspeedai/DeepSpeed",
+          "snippet": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+          "date": "2026-04-13T09:56:58Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 42087,
+          "daily_stars_est": 19,
+          "forks": 4792,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Lightning-AI/pytorch-lightning: Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+          "link": "https://github.com/Lightning-AI/pytorch-lightning",
+          "snippet": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+          "date": "2026-04-13T22:49:29Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 31043,
+          "daily_stars_est": 12,
+          "forks": 3706,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "'Really, really weird': Physicists entangle two moving atoms for the first time, validating 'spooky' quantum theory - Live Science",
+          "link": "https://www.livescience.com/physics-mathematics/quantum-physics/really-really-weird-physicists-entangle-two-moving-atoms-for-the-first-time-validating-spooky-quantum-theory",
+          "snippet": "# 'Really, really weird': Physicists entangle two moving atoms for the first time, validating 'spooky' quantum theory. For the first time, scientists have observed quantum entanglement in the way atoms physically move — bringing a phenomenon once described by Albert Einstein as \"spooky action at a d",
+          "date": "Mon, 13 Apr 2026 18:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 2,
+          "all_sources": [
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "lutzroeder/netron: Visualizer for neural network, deep learning and machine learning models",
+          "link": "https://github.com/lutzroeder/netron",
+          "snippet": "Visualizer for neural network, deep learning and machine learning models",
+          "date": "2026-04-13T00:27:47Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 32742,
+          "daily_stars_est": 6,
+          "forks": 3101,
+          "language": "JavaScript",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "shap/shap: A game theoretic approach to explain the output of any machine learning model.",
+          "link": "https://github.com/shap/shap",
+          "snippet": "A game theoretic approach to explain the output of any machine learning model.",
+          "date": "2026-04-13T23:39:35Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 25292,
+          "daily_stars_est": 7,
+          "forks": 3607,
+          "language": "Jupyter Notebook",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "PaddlePaddle/Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+          "link": "https://github.com/PaddlePaddle/Paddle",
+          "snippet": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+          "date": "2026-04-13T13:04:03Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "frontier-tech"
+          ],
+          "stars": 23819,
+          "daily_stars_est": 7,
+          "forks": 5986,
+          "language": "C++",
+          "quality_score": 5,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "REasy",
+          "link": "https://www.producthunt.com/products/reasy-2",
+          "date": "2026-04-13T17:48:49-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Vekta",
+          "link": "https://www.producthunt.com/products/vekta",
+          "date": "2026-04-13T17:36:44-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Legitify",
+          "link": "https://www.producthunt.com/products/legitify",
+          "date": "2026-04-13T17:22:42-07:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Product Hunt",
+          "source_id": "producthunt-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+          "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+          "date": "2026-04-13T23:37:38+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "What’s in Hasan Piker’s Starter Pack? Creatine, Zyns, Signal",
+          "link": "https://www.wired.com/story/hasan-pikers-starter-pack/",
+          "date": "2026-04-13T20:44:16+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire",
+          "link": "https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/",
+          "date": "2026-04-13T20:20:04+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Wired",
+          "source_id": "wired-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+          "link": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-04-13T18:48:30+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "“同事.skill”不用写了，爱马仕 Hermes 主动“蒸馏”你，还让开发者集体抛弃 “龙虾”？！",
+          "link": "https://www.infoq.cn/article/Xv0OsbvHjLT34YzWKc3J?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-04-13T18:43:56+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Claude 吞噬一切？“Vibe Coding 公司的最大错觉是以为自己有护城河”",
+          "link": "https://www.infoq.cn/article/F88ML5vdJkc4dkreyamI?utm_source=rss&amp;utm_medium=article",
+          "date": "2026-04-13T18:03:01+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "InfoQ 中文",
+          "source_id": "infoq-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Steven Soderbergh Twice Pitched James Bond Projects",
+          "link": "https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/",
+          "date": "2026-04-14T00:30:46+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Apple Frames 4",
+          "link": "https://www.macstories.net/stories/introducing-apple-frames-4-a-revamped-shortcut-support-for-frame-colors-proportional-scaling-and-the-apple-frames-cli-for-developers/",
+          "date": "2026-04-13T23:56:32+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Memory, They Say, Is the First Thing to Go",
+          "link": "https://daringfireball.net/2006/09/zoom_using_scroll_wheel",
+          "date": "2026-04-13T23:46:11+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
+          "link": "https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026",
+          "date": "2026-04-13T21:18:21+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
+          "link": "https://mastodon.social/@tuomas_h/116397694769738857",
+          "date": "2026-04-13T20:56:26+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "John Martellaro, RIP",
+          "link": "https://geektells.com/john-martellaro-remembrance/",
+          "date": "2026-04-13T19:53:34+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Marcin Wichary Visits the Large Scale Systems Museum",
+          "link": "https://flickr.com/photos/mwichary/albums/72177720332956990/",
+          "date": "2026-04-13T19:10:05+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
+          "link": "https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/",
+          "date": "2026-04-13T23:51:05+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
+          "link": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f",
+          "date": "2026-04-13T20:18:01+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Zed — A Font Superfamily",
+          "link": "https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df",
+          "date": "2026-04-13T15:12:18+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe",
+          "link": "https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/",
+          "date": "2026-04-13T21:09:55+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "link": "https://sspai.com/post/108589",
+          "date": "2026-04-13T17:52:51+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "城市漫步指南：在浓油赤酱中寻找江南底蕴",
+          "link": "https://sspai.com/post/108558",
+          "date": "2026-04-13T15:00:00+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程",
+          "link": "https://sspai.com/post/108519",
+          "date": "2026-04-13T11:48:39+08:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "少数派",
+          "source_id": "sspai-rss",
+          "quality_score": 2.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Viktor Orban Loses Election in Hungary, Concedes Defeat, Congratulates Opposition Winners",
+          "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
+          "date": "2026-04-12T22:57:31+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Golden Tickets",
+          "link": "https://www.presentandcorrect.com/blogs/blog/golden-tickets",
+          "date": "2026-04-12T17:41:05+00:00",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "Daring Fireball",
+          "source_id": "daringfireball-rss",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Humanoid robots show off their language and boxing skills in Hong Kong - Greenwich Time",
+          "link": "https://www.greenwichtime.com/news/world/article/humanoid-robots-show-off-their-language-and-22203314.php",
+          "snippet": "The X2 Ultra robot from China’s prominent humanoid robot manufacturer AGIBOT Innovation (Shanghai) Technology Co. was among them. Calvin Chiu, the chief operating officer of Novautek Autonomous Driving, AGIBOT's agent in Hong Kong, said that the robot can provide emotional satisfaction to humans thr",
+          "date": "Mon, 13 Apr 2026 12:40:04 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "The Week In Technology, April 13-17, 2026 - Aviation Week",
+          "link": "https://aviationweek.com/aerospace/emerging-technologies/week-technology-april-13-17-2026",
+          "snippet": "* Aviation Week & Space Technology - Inside MRO. * CAPA Airline Leader Summit - Airlines in Transition. * CAPA Airline Leader Summit - Americas. * CAPA Airline Leader Summit - Latin America & Caribbean. * CAPA Airline Leader Summit - Australia Pacific. * CAPA Airline Leader Summit - Asia & Sustainab",
+          "date": "Mon, 13 Apr 2026 21:50:16 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Technology News | ⚡Flight Training Giant CAE Trims 2% of Global Workforce Amid Industry Shifts - LatestLY",
+          "link": "https://www.latestly.com/quickly/technology/flight-training-giant-cae-trims-2-of-global-workforce-amid-industry-shifts-7388222.html",
+          "snippet": "## Technology. # ⚡Flight Training Giant CAE Trims 2% of Global Workforce Amid Industry Shifts. Aviation training leader CAE Inc. is cutting approximately 280 jobs, or 2 per cent of its global workforce, ahead of a May strategic update. The move addresses airline spending cuts and supply chain delays",
+          "date": "Mon, 13 Apr 2026 05:08:15 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Energy-Efficient Mining Tech Reduces Costs 20-50% - Discovery Alert",
+          "link": "https://discoveryalert.com.au/energy-consumption-patterns-mining-operations-technology-2026/",
+          "snippet": "# Advanced Energy-Efficient Mining Technology Revolutionising Operations in 2026. Moreover, implementing energy-efficient mining technology has become critical for modern operations. Dry crushing and separation technologies eliminate water requirements whilst reducing energy consumption associated w",
+          "date": "Mon, 13 Apr 2026 12:56:15 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem - ScienceDaily",
+          "link": "http://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+          "snippet": ":   In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system – based on the novel concept of ‘giant superatoms’. This breakthrough enables quantum information to be protected, contr",
+          "date": "Mon, 13 Apr 2026 12:40:40 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Quantum Computers Could Break Encryption Far Sooner Than We Realized - ScienceAlert",
+          "link": "https://www.sciencealert.com/quantum-computers-could-break-encryption-far-sooner-than-we-realized",
+          "snippet": "On the other front, theorists are refining quantum algorithms: recent work shows the resources needed to break today's cryptography may be far lower than earlier estimates. Quantum computers are built from quantum bits, or qubits, which use the counterintuitive properties of very tiny objects to car",
+          "date": "Mon, 13 Apr 2026 02:04:26 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Quantum Computing Stocks: Is Google's Tech Roadmap Changing? - Investor's Business Daily",
+          "link": "https://www.investors.com/news/technology/quantum-computing-stocks-google-stock-neutral-atom-technology/",
+          "snippet": "IBD 50IBD Sector LeadersIBD Big Cap 20IBD Long-Term LeadersIPO LeadersMy Stock ListsStock Lists UpdateStocks On The MoveNew HighsStock SpotlightStocks Near Buy ZoneRS Line At New HighRising Profit EstimatesStocks Funds Are BuyingYour Weekly ReviewIBD ETF IndexesIBD Data TablesIBD Digital: 2 Months f",
+          "date": "Mon, 13 Apr 2026 12:00:50 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Quantum-Si Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - April 10, 2026 - BioSpace",
+          "link": "https://www.biospace.com/press-releases/quantum-si-announces-inducement-grants-under-nasdaq-listing-rule-5635c4-april-10-2026",
+          "snippet": "# Quantum-Si Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - April 10, 2026. BRANFORD, Conn.--(BUSINESS WIRE)--Quantum-Si Incorporated (Nasdaq: QSI) (“Quantum-Si,” “QSI” or the “Company”), a proteomics company redefining protein analysis through single-molecule protein sequencing,",
+          "date": "Mon, 13 Apr 2026 04:53:28 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Biotech Giants and Investors Gather to Solve the Commercialisation Puzzle This May in Hong Kong - Fierce Biotech",
+          "link": "https://www.fiercebiotech.com/sponsored/biotech-giants-and-investors-gather-solve-commercialisation-puzzle-may-hong-kong",
+          "snippet": "Sponsored By Asia Summit on Global Health (ASGH)   Apr 13, 2026 8:00am. Biotech executives, investors, and R&D leaders all face the same burning question in 2026: *How do we scale breakthroughs from the lab to the global market without getting stuck in commercial bottlenecks?* The answer awaits this",
+          "date": "Mon, 13 Apr 2026 12:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Allogene Therapeutics’ CAR-T treatment eliminates residual cancer cells in B-cell lymphoma patients - statnews.com",
+          "link": "https://www.statnews.com/2026/04/13/allogene-therapeutics-car-t-treatment-eliminates-cancer-cells-b-cell-lymphoma/",
+          "snippet": "Adam Feuerstein, a senior writer and biotech columnist, is the author of Adam’s Biotech Scorecard, a subscriber-only newsletter about the crossroads of drug development, business, Wall Street, and biotechnology. ### Unlock this article — plus daily coverage and analysis of the biotech sector — by su",
+          "date": "Mon, 13 Apr 2026 11:30:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "BioNTech, SynOx plot paths to FDA as trials hit goals in competitive tumor types - Fierce Biotech",
+          "link": "https://www.fiercebiotech.com/biotech/biontech-synox-plot-paths-fda-trials-hit-goals-competitive-tumor-types",
+          "snippet": "# BioNTech, SynOx plot paths to FDA as trials hit goals in competitive tumor types. BioNTech DualityBio SynOx Therapeutics endometrial cancer antibody-drug conjugates Clinical Data Biotech Clinical Data. The biotech reported a 49.3% response rate to the HER2-targeted ADC in a phase 2 cohort of 73 pa",
+          "date": "Mon, 13 Apr 2026 09:10:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Revolution Medicines touts ‘unprecedented’ data for pancreatic cancer pill - statnews.com",
+          "link": "https://www.statnews.com/2026/04/13/revolution-medicines-successful-treatment-pancreatic-cancer-daily-pill/",
+          "snippet": "Jason Mast is a general assignment reporter at STAT focused on the science behind new medicines and the systems and people that decide whether that science ever reaches patients. ### Unlock this article — plus daily coverage and analysis of the biotech sector — by subscribing to STAT+. Jason Mast is",
+          "date": "Mon, 13 Apr 2026 12:00:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Salk to Lead $41.3M ARPA-H Effort to Advance Sonogenetics Therapies - Genetic Engineering and Biotechnology News",
+          "link": "https://www.genengnews.com/topics/translational-medicine/salk-to-lead-41-3m-arpa-h-effort-to-advance-sonogenetics-therapies/",
+          "snippet": "The scientists responsible for developing sonogenetics, which refers to the application of low-intensity ultrasound to noninvasively achieve precise control of cellular proteins, have secured an influx of federal funding that will allow them and their collaborators transform the technology into a po",
+          "date": "Mon, 13 Apr 2026 19:51:21 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "Kailera outlines plans for $528.5M IPO to support quartet of Chinese obesity assets - Fierce Biotech",
+          "link": "https://www.fiercebiotech.com/biotech/kailera-shares-details-5285-million-ipo-support-quartet-chinese-obesity-assets",
+          "snippet": "Kailera is taking another step into the competitive obesity market by aiming to raise up to $528.5 million via a Nasdaq IPO, with proceeds intended to advance its GLP-1 assets through clinical development. Renaud previously led neuroscience biotech Cerevel Therapeutics in the months leading up to it",
+          "date": "Mon, 13 Apr 2026 17:10:46 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "FDA hands another rejection to Replimune's melanoma therapy - pharmaphorum",
+          "link": "https://pharmaphorum.com/news/fda-hands-another-rejection-replimunes-melanoma-therapy",
+          "snippet": "**Replimune has had its advanced melanoma treatment RP1 turned down by the FDA for a second time, a decision that has led the company to accuse the agency of inconsistencies in its review of the drug.**. The biotech has been trying to get herpes simplex virus-based RP1 (vusolimogene oderparepvec) ap",
+          "date": "Mon, 13 Apr 2026 08:28:52 GMT",
+          "source": "tavily",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "picoclaw nightly",
+          "link": "https://github.com/sipeed/picoclaw/releases/tag/nightly",
+          "date": "2026-04-13T01:01:37+00:00",
+          "summary": "Nightly build for v0.2.6-nightly.20260413.6d037919 This is an automated build and may be unstable. Use with caution. Full Changelog: https://github.com/sipeed/picoclaw/compare/v0.2.6...main",
+          "topics": [
+            "frontier-tech"
+          ],
+          "source_type": "github",
+          "source_name": "Sipeed PicoClaw",
+          "source_id": "picoclaw-github",
+          "quality_score": 0.0,
+          "primary_topic": "frontier-tech",
+          "all_topics": [
+            "frontier-tech"
+          ]
+        }
+      ]
+    },
+    "llm": {
+      "count": 21,
+      "articles": [
+        {
+          "title": "sgl-project/sglang: SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "link": "https://github.com/sgl-project/sglang",
+          "snippet": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "date": "2026-04-14T01:03:25Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 25751,
+          "daily_stars_est": 31,
+          "forks": 5323,
+          "language": "Python",
+          "quality_score": 8,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "yamadashy/repomix: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C",
+          "link": "https://github.com/yamadashy/repomix",
+          "snippet": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C",
+          "date": "2026-04-13T23:40:45Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 23478,
+          "daily_stars_est": 37,
+          "forks": 1139,
+          "language": "TypeScript",
+          "quality_score": 8,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+          "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+          "date": "2026-04-13T06:00:00+00:00",
+          "topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ],
+          "source_type": "rss",
+          "source_name": "OpenAI Blog",
+          "source_id": "openai-rss",
+          "quality_score": 7.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm",
+            "ai-agent",
+            "frontier-tech"
+          ]
+        },
+        {
+          "title": "NVIDIA/TensorRT-LLM: TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT ",
+          "link": "https://github.com/NVIDIA/TensorRT-LLM",
+          "snippet": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT ",
+          "date": "2026-04-13T23:55:05Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 13358,
+          "daily_stars_est": 14,
+          "forks": 2281,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "simonw/llm: Access large language models from the command-line",
+          "link": "https://github.com/simonw/llm",
+          "snippet": "Access large language models from the command-line",
+          "date": "2026-04-13T00:18:40Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 11604,
+          "daily_stars_est": 10,
+          "forks": 792,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "0xPlaygrounds/rig: ⚙️🦀 Build modular and scalable LLM Applications in Rust",
+          "link": "https://github.com/0xPlaygrounds/rig",
+          "snippet": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+          "date": "2026-04-13T22:51:34Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 6895,
+          "daily_stars_est": 10,
+          "forks": 767,
+          "language": "Rust",
+          "quality_score": 6,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "skyzh/tiny-llm: A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.",
+          "link": "https://github.com/skyzh/tiny-llm",
+          "snippet": "A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.",
+          "date": "2026-04-13T00:14:26Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 4086,
+          "daily_stars_est": 11,
+          "forks": 306,
+          "language": "Python",
+          "quality_score": 6,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Anthropic Mythos Reveals Pandora’s Box Of AI Extensional Risks And For Safety Sakes Not Yet Publicly Released - Yahoo News UK",
+          "link": "https://uk.news.yahoo.com/anthropic-mythos-reveals-pandora-box-071500594.html",
+          "snippet": "## Testing Of LLMs. AI makers run their budding LLMs through a large array of tests to try to ascertain whether the AI might do bad things once it is released to the public. The AI maker is the one who crafted the LLM. The AI maker presumably tested the LLM. All told, it makes abundant sense that th",
+          "date": "Mon, 13 Apr 2026 07:15:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 5.0,
+          "multi_source": true,
+          "source_count": 3,
+          "all_sources": [
+            "Web Search",
+            "Web Search",
+            "Web Search"
+          ],
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.20.8-rc0",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.8-rc0",
+          "date": "2026-04-14T00:35:30+00:00",
+          "summary": "What's Changed ROCm: Update to ROCm 7.2.1 on Linux by @saman-amd in https://github.com/ollama/ollama/pull/15483 gemma4: fix nothink case renderer by @drifkin in https://github.com/ollama/ollama/pull/1...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.20.7-rc1",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.7-rc1",
+          "date": "2026-04-13T23:33:00+00:00",
+          "summary": "What's Changed Fix quality of small gemma:e2b and gemma:e4b when thinking is disabled ROCm: Update to ROCm 7.2.1 on Linux by @saman-amd in https://github.com/ollama/ollama/pull/15483 Full Changelog:...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 5.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "bitsandbytes-foundation/bitsandbytes: Accessible large language models via k-bit quantization for PyTorch.",
+          "link": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+          "snippet": "Accessible large language models via k-bit quantization for PyTorch.",
+          "date": "2026-04-13T14:50:13Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 8113,
+          "daily_stars_est": 5,
+          "forks": 840,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "open-compass/opencompass: OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
+          "link": "https://github.com/open-compass/opencompass",
+          "snippet": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
+          "date": "2026-04-13T07:46:53Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 6868,
+          "daily_stars_est": 7,
+          "forks": 758,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ModelTC/LightLLM: LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+          "link": "https://github.com/ModelTC/LightLLM",
+          "snippet": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+          "date": "2026-04-13T14:28:18Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 4008,
+          "daily_stars_est": 4,
+          "forks": 318,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "thu-pacman/chitu: High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+          "link": "https://github.com/thu-pacman/chitu",
+          "snippet": "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+          "date": "2026-04-13T11:30:36Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 3432,
+          "daily_stars_est": 8,
+          "forks": 354,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "mark3labs/mcphost: A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).",
+          "link": "https://github.com/mark3labs/mcphost",
+          "snippet": "A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).",
+          "date": "2026-04-13T07:57:15Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 1598,
+          "daily_stars_est": 3,
+          "forks": 230,
+          "language": "Go",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "trpc-group/trpc-agent-go: trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+          "link": "https://github.com/trpc-group/trpc-agent-go",
+          "snippet": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+          "date": "2026-04-13T14:01:51Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 1090,
+          "daily_stars_est": 3,
+          "forks": 122,
+          "language": "Go",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "mixelpixx/KiCAD-MCP-Server: KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.",
+          "link": "https://github.com/mixelpixx/KiCAD-MCP-Server",
+          "snippet": "KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.",
+          "date": "2026-04-13T07:41:07Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 628,
+          "daily_stars_est": 2,
+          "forks": 118,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "sdcb/chats: A powerful and flexible frontend & AI gateway for large language models, supporting 21+ mainstream AI model providers.",
+          "link": "https://github.com/sdcb/chats",
+          "snippet": "A powerful and flexible frontend & AI gateway for large language models, supporting 21+ mainstream AI model providers.",
+          "date": "2026-04-13T14:21:24Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 568,
+          "daily_stars_est": 1,
+          "forks": 98,
+          "language": "C#",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "microsoft/multilspy: multilspy is a lsp client library in Python intended to be used to build applications around language servers.",
+          "link": "https://github.com/microsoft/multilspy",
+          "snippet": "multilspy is a lsp client library in Python intended to be used to build applications around language servers.",
+          "date": "2026-04-13T06:32:48Z",
+          "source": "github-trending",
+          "source_type": "github_trending",
+          "topics": [
+            "llm"
+          ],
+          "stars": 564,
+          "daily_stars_est": 1,
+          "forks": 103,
+          "language": "Python",
+          "quality_score": 5,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.20.6",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.20.6",
+          "date": "2026-04-12T22:59:47+00:00",
+          "summary": "What's Changed Gemma 4 tool calling ability is improved and updated to use Google's latest post-launch fixes Parallel tool calling improved for streaming responses Hermes agent Ollama integration...",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "github",
+          "source_name": "Ollama",
+          "source_id": "ollama-github",
+          "quality_score": 3.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "How to Be an AI Detective: Tips for Spotting Bot-Generated Text - CNET",
+          "link": "https://www.cnet.com/tech/services-and-software/how-to-be-an-ai-detective-tips-for-spotting-bot-generated-text/",
+          "snippet": "For example, a student might use ChatGPT -- an AI chatbot that uses large language model learning and a conversational question and answer format to provide query results -- to write a short essay response to a prompt by simply copying and pasting the essay question into the tool. But can teachers u",
+          "date": "Mon, 13 Apr 2026 10:01:00 GMT",
+          "source": "tavily",
+          "topics": [
+            "llm"
+          ],
+          "source_type": "web",
+          "source_name": "Web Search",
+          "source_id": "web-",
+          "quality_score": 0.0,
+          "primary_topic": "llm",
+          "all_topics": [
+            "llm"
+          ]
+        }
+      ]
+    }
+  }
+}
